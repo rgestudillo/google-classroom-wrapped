@@ -5,7 +5,7 @@ from fastapi.middleware.cors import CORSMiddleware
 
 app = FastAPI()
 
-# Allow all origins (adjust as needed)
+# Allow all origins (adjust if needed)
 app.add_middleware(
     CORSMiddleware,
     allow_origins=["*"],
@@ -37,7 +37,6 @@ def analyze_class_data(class_data: Dict[str, Any]) -> Dict[str, Any]:
         max_points = cw.get("maxPoints", 0)
         category = cw.get("gradeCategory", {}).get("name", "Uncategorized")
         submissions = cw.get("submissions", [])
-
         grades = [sub.get("assignedGrade") for sub in submissions if sub.get("assignedGrade") is not None]
 
         if category not in category_grades:
@@ -54,9 +53,8 @@ def analyze_class_data(class_data: Dict[str, Any]) -> Dict[str, Any]:
             "submissions": submissions
         })
 
-    category_averages = {}
-    for cat, grads in category_grades.items():
-        category_averages[cat] = statistics.mean(grads) if grads else None
+    # Compute category averages
+    category_averages = {cat: (statistics.mean(grads) if grads else None) for cat, grads in category_grades.items()}
 
     graded_assignments = [a for a in assignment_info if a["avg_grade"] is not None]
     if graded_assignments:
@@ -82,22 +80,15 @@ def aggregate_overall(results: List[Dict[str, Any]]) -> Dict[str, Any]:
     total_posts = sum(r["totalPosts"] for r in results)
     total_assignments = sum(r["totalAssignments"] for r in results)
 
-    # For overall averages, we only have averages, not raw grades.
-    # We'll just average the averages as a rough measure.
     category_averages_collection = {}
     all_assignments = []
     for r in results:
         for cat, avg in r["categoryAverages"].items():
             if avg is not None:
-                if cat not in category_averages_collection:
-                    category_averages_collection[cat] = []
-                category_averages_collection[cat].append(avg)
-
-        # Collect assignments for top/lowest
-        if r["topAssignment"] and r["topAssignment"].get("avg_grade") is not None:
-            all_assignments.append(r["topAssignment"])
-        if r["lowestAssignment"] and r["lowestAssignment"].get("avg_grade") is not None:
-            all_assignments.append(r["lowestAssignment"])
+                category_averages_collection.setdefault(cat, []).append(avg)
+        for a in r["assignmentInfo"]:
+            if a["avg_grade"] is not None:
+                all_assignments.append(a)
 
     overall_category_averages = {}
     for cat, avgs in category_averages_collection.items():
@@ -115,60 +106,50 @@ def aggregate_overall(results: List[Dict[str, Any]]) -> Dict[str, Any]:
         "totalAssignments": total_assignments,
         "categoryAverages": overall_category_averages,
         "topAssignment": global_top,
-        "lowestAssignment": global_low
+        "lowestAssignment": global_low,
+        "allAssignments": all_assignments
     }
 
 def compute_student_persona(results: List[Dict[str, Any]], overall: Dict[str, Any]) -> Dict[str, Any]:
-    # Compute overall average grade across all assignments from all classes
-    # We have assignmentInfo in each result that contains avg_grade for each assignment.
-    # Let's gather all avg_grades
-    all_grades = []
-    total_assignments = 0
-    completed_assignments = 0
+    all_assignments = overall["allAssignments"]
+    total_assignments = len(all_assignments)
+    if total_assignments == 0:
+        return {
+            "overallAverageGrade": None,
+            "onTimeRatio": 0,
+            "persona": "No assignments found. Not enough data to determine persona."
+        }
 
-    for r in results:
-        for a in r["assignmentInfo"]:
-            total_assignments += 1
-            if a["avg_grade"] is not None:
-                all_grades.append(a["avg_grade"])
-                # Check if there's at least one submission, assume completed on-time
-                if a["submissions"]:
-                    completed_assignments += 1
+    all_grades = [a["avg_grade"] for a in all_assignments if a["avg_grade"] is not None]
+    overall_avg_grade = statistics.mean(all_grades) if all_grades else None
 
-    if all_grades:
-        overall_avg_grade = statistics.mean(all_grades)
-    else:
-        overall_avg_grade = None
-
-    # On-time ratio (heuristic): completed_assignments / total_assignments
+    completed_assignments = sum(1 for a in all_assignments if a["submissions"])
     on_time_ratio = completed_assignments / total_assignments if total_assignments > 0 else 0
 
-    # Determine persona based on overall_avg_grade and on_time_ratio
-    # Adjust thresholds and logic as desired
+    # Persona logic
     if overall_avg_grade is None:
-        # No grades at all
-        persona = "No submissions found. Attend classes, submit assignments to discover your academic persona!"
+        persona = "No graded submissions yet. Keep going!"
     else:
         if overall_avg_grade >= 90:
             if on_time_ratio > 0.8:
-                persona = "Diligent High-Achiever"
+                persona = "Diligent High-Achiever: You excel in quality and punctuality!"
             else:
-                persona = "Capable but Procrastinator"
+                persona = "Capable but Procrastinator: Great grades, but try to submit more punctually."
         elif overall_avg_grade >= 80:
             if on_time_ratio > 0.8:
-                persona = "Consistent and Dependable"
+                persona = "Consistent and Dependable: Solid grades and on-time submissions."
             else:
-                persona = "Talented but Occasionally Late"
+                persona = "Talented but Occasionally Late: Strong performance, but watch out for missed deadlines."
         elif overall_avg_grade >= 70:
             if on_time_ratio > 0.8:
-                persona = "Hardworking but Needs Improvement"
+                persona = "Hardworking but Needs Improvement: You put in effort on time, focus on improving understanding."
             else:
-                persona = "Average Performer, Consider Improving Time Management"
+                persona = "Average Performer: Work on both your understanding and submission habits."
         else:
             if on_time_ratio > 0.8:
-                persona = "Dedicated but Struggling Academically"
+                persona = "Dedicated but Struggling: You're trying on time, but need more study or practice."
             else:
-                persona = "Needs Improvement (Try to be more punctual and study more)"
+                persona = "Needs Improvement: Low grades and spotty submission habits. Step up your game!"
 
     return {
         "overallAverageGrade": overall_avg_grade,
@@ -176,18 +157,81 @@ def compute_student_persona(results: List[Dict[str, Any]], overall: Dict[str, An
         "persona": persona
     }
 
+def get_highlighted_assignments(overall: Dict[str, Any], top_n=3):
+    all_assignments = overall.get("allAssignments", [])
+    if not all_assignments:
+        return {
+            "topAssignments": [],
+            "lowestAssignments": []
+        }
+
+    sorted_by_grade = sorted([a for a in all_assignments if a["avg_grade"] is not None],
+                             key=lambda x: x["avg_grade"], reverse=True)
+
+    top_assignments = sorted_by_grade[:top_n]
+    lowest_assignments = sorted_by_grade[-top_n:] if len(sorted_by_grade) >= top_n else sorted_by_grade[::-1]
+
+    return {
+        "topAssignments": top_assignments,
+        "lowestAssignments": lowest_assignments
+    }
+
+def category_strengths(overall: Dict[str, Any]) -> Dict[str, Any]:
+    cat_avgs = {k: v for k, v in overall.get("categoryAverages", {}).items() if v is not None}
+    if not cat_avgs:
+        return {}
+
+    best_category = max(cat_avgs, key=cat_avgs.get)
+    worst_category = min(cat_avgs, key=cat_avgs.get)
+
+    return {
+        "bestCategory": best_category,
+        "bestCategoryAvg": cat_avgs[best_category],
+        "worstCategory": worst_category,
+        "worstCategoryAvg": cat_avgs[worst_category]
+    }
+
 @app.post("/wrapped")
 def get_wrapped(classes: List[Dict[str, Any]] = Body(...)):
-    results = []
-    for class_data in classes:
-        summary = analyze_class_data(class_data)
-        results.append(summary)
+    results = [analyze_class_data(c) for c in classes]
 
     overall = aggregate_overall(results)
     persona_info = compute_student_persona(results, overall)
+    highlights = get_highlighted_assignments(overall, top_n=3)
+    cat_info = category_strengths(overall)
+
+    total_assignments = overall["totalAssignments"]
+    completed_assignments = sum(1 for a in overall["allAssignments"] if a["submissions"])
+
+    narrative = []
+    if total_assignments > 0:
+        narrative.append(f"You tackled a total of {total_assignments} assignments across all your classes.")
+        narrative.append(f"You completed {completed_assignments} of them, giving you a completion rate of {(completed_assignments/total_assignments)*100:.1f}%.")
+
+    if persona_info["overallAverageGrade"] is not None:
+        narrative.append(f"Your overall average grade across all assignments is {persona_info['overallAverageGrade']:.2f}%.")
+    else:
+        narrative.append("You have not received any grades yet. Keep working!")
+
+    if cat_info:
+        narrative.append(f"Your strongest category overall was '{cat_info['bestCategory']}' with an average of {cat_info['bestCategoryAvg']:.2f}%.")
+        narrative.append(f"You can focus more on '{cat_info['worstCategory']}' where you averaged {cat_info['worstCategoryAvg']:.2f}%.")
+
+    narrative.append(f"Based on your performance and submission habits, we’d say you are: {persona_info['persona']}")
 
     return {
         "classes": results,
-        "overall": overall,
-        "studentProfile": persona_info
+        "overall": {
+            "totalPosts": overall["totalPosts"],
+            "totalAssignments": overall["totalAssignments"],
+            "categoryAverages": overall["categoryAverages"],
+            "topAssignment": overall["topAssignment"],
+            "lowestAssignment": overall["lowestAssignment"]
+        },
+        "studentProfile": {
+            **persona_info,
+            "highlightedAssignments": highlights,
+            "categoryInsights": cat_info,
+            "narrative": narrative
+        }
     }
