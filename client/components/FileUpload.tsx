@@ -34,7 +34,24 @@ export default function FileUpload({ onDataProcessed }: FileUploadProps) {
           return JSON.parse(text)
         })
       )
-      onDataProcessed(jsonData)
+
+      // Send data to the local Python API
+      const response = await fetch('http://127.0.0.1:8000/wrapped', {
+        method: 'POST',
+        headers: {
+          'Content-Type': 'application/json',
+        },
+        body: JSON.stringify(jsonData),
+      })
+
+      if (!response.ok) {
+        throw new Error('Failed to process data')
+      }
+
+      const wrappedData = await response.json()
+      console.log("wrapped data is: ", wrappedData);
+      onDataProcessed(wrappedData)
+
     } catch (err) {
       setError('Error processing files. Please try again.')
       console.error(err)

@@ -1,8 +1,17 @@
 import statistics
 from typing import List, Dict, Any, Optional
 from fastapi import FastAPI, Body
-
+from fastapi.middleware.cors import CORSMiddleware
 app = FastAPI()
+
+# Add CORS middleware to allow all origins
+app.add_middleware(
+    CORSMiddleware,
+    allow_origins=["*"],  # You can put your specific domain instead of "*"
+    allow_credentials=True,
+    allow_methods=["*"],
+    allow_headers=["*"],
+)
 
 def analyze_class_data(class_data: Dict[str, Any]) -> Dict[str, Any]:
     # Extract basic course info

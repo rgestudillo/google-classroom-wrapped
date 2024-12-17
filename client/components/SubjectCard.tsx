@@ -6,11 +6,10 @@ import { Button } from "@/components/ui/button"
 import { ChevronDown, ChevronUp } from 'lucide-react'
 
 interface SubjectCardProps {
-  subject: string
   data: any
 }
 
-export default function SubjectCard({ subject, data }: SubjectCardProps) {
+export default function SubjectCard({ data }: SubjectCardProps) {
   const [isExpanded, setIsExpanded] = useState(false)
 
   const toggleExpand = () => setIsExpanded(!isExpanded)
@@ -18,16 +17,18 @@ export default function SubjectCard({ subject, data }: SubjectCardProps) {
   return (
     <Card>
       <CardHeader>
-        <CardTitle>{subject}</CardTitle>
+        <CardTitle>{data.courseName}</CardTitle>
       </CardHeader>
       <CardContent>
         <div className="space-y-4">
-          {isExpanded ? (
+          <p>Subject: {data.subject}</p>
+          <p>Section: {data.section}</p>
+          <p>Total Posts: {data.totalPosts}</p>
+          <p>Total Assignments: {data.totalAssignments}</p>
+          {isExpanded && (
             <pre className="bg-gray-100 p-4 rounded-md overflow-x-auto">
               {JSON.stringify(data, null, 2)}
             </pre>
-          ) : (
-            <p>Click 'Show JSON' to view the full data for this subject.</p>
           )}
           <Button
             variant="outline"
@@ -35,11 +36,11 @@ export default function SubjectCard({ subject, data }: SubjectCardProps) {
           >
             {isExpanded ? (
               <>
-                <ChevronUp className="mr-2 h-4 w-4" /> Hide JSON
+                <ChevronUp className="mr-2 h-4 w-4" /> Hide Details
               </>
             ) : (
               <>
-                <ChevronDown className="mr-2 h-4 w-4" /> Show JSON
+                <ChevronDown className="mr-2 h-4 w-4" /> Show Details
               </>
             )}
           </Button>
