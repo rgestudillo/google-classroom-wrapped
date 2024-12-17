@@ -1,0 +1,361 @@
+{
+  "version": 1,
+  "name": "Lit 4 MTH 10:30-12:00",
+  "section": "D (1866)",
+  "room": "Room 214",
+  "calendarUrl": "https://calendar.google.com/render?cid\u003dc_classroom686748e3@group.calendar.google.com",
+  "courseFolder": {
+    "id": "1DwNfbD22zUz5K13ooeHk5gbdI5gClz3vuY9k6JS0s_9myddIcC0lKkD4I5BzydT8LCSDbyke",
+    "name": "Lit 4 MTH 10:30-12:00 D (1866)",
+    "openUrl": "https://drive.google.com/drive/folders/1DwNfbD22zUz5K13ooeHk5gbdI5gClz3vuY9k6JS0s_9myddIcC0lKkD4I5BzydT8LCSDbyke"
+  },
+  "photoUrl": "https://gstatic.com/classroom/themes/LanguageArts.jpg",
+  "subject": "Sugboanon Literature",
+  "courseState": "ACTIVE",
+  "posts": [{
+    "creator": {
+      "name": {
+        "fullName": "Joanalyn Gabales"
+      }
+    },
+    "creationTime": "2023-12-25T20:37:12.007Z",
+    "updateTime": "2023-12-31T18:15:39.368Z",
+    "publicationTime": "2023-12-25T20:37:34.787Z",
+    "state": "PUBLISHED",
+    "courseWork": {
+      "title": "Final Work",
+      "dueTime": "2023-12-30T15:59:00Z",
+      "workType": "ASSIGNMENT",
+      "submissions": [{
+        "student": {
+          "profile": {
+            "name": {
+              "fullName": "REFINO KASHI KYLE ESTUDILLO"
+            },
+            "emailAddress": "rgestudillo@up.edu.ph"
+          }
+        },
+        "gradeCalculationOption": "GRADED",
+        "state": "TURNED_IN",
+        "assignmentSubmission": {
+          "attachments": [{
+            "driveFile": {
+              "id": "1V9YWkPsv_sTI2dFO7oOVywysHOMOUVI-",
+              "title": "Estudillo_Final-Project_Option-2.pdf",
+              "alternateLink": "https://drive.google.com/file/d/1V9YWkPsv_sTI2dFO7oOVywysHOMOUVI-/view?usp\u003ddrive_web",
+              "thumbnailUrl": "https://lh3.googleusercontent.com/drive-storage/AJQWtBNdxTCAqpBnyLC5c9w4wrEc6CVM0JWOuDgSv-2VxjROemGLWPFmkZW8ZkHiEakOO5HCenS4-DZ1NQbXKCxaI-1q4Zu4_10xNKM6O6ZlkpOf320\u003ds200"
+            }
+          }]
+        }
+      }]
+    }
+  }, {
+    "creator": {
+      "name": {
+        "fullName": "Joanalyn Gabales"
+      }
+    },
+    "creationTime": "2023-12-06T19:18:05.628Z",
+    "updateTime": "2023-12-06T19:18:31.083Z",
+    "publicationTime": "2023-12-06T19:18:30.800Z",
+    "state": "PUBLISHED",
+    "courseWork": {
+      "title": "Poetry - Comparative Analysis",
+      "dueTime": "2023-12-15T15:59:00Z",
+      "workType": "ASSIGNMENT",
+      "submissions": [{
+        "student": {
+          "profile": {
+            "name": {
+              "fullName": "REFINO KASHI KYLE ESTUDILLO"
+            },
+            "emailAddress": "rgestudillo@up.edu.ph"
+          }
+        },
+        "gradeCalculationOption": "GRADED",
+        "state": "TURNED_IN",
+        "assignmentSubmission": {
+          "attachments": [{
+            "driveFile": {
+              "id": "1EBam-KVZj2vS4_ewteAwWF4ZD9YtrtHF",
+              "title": "Poetry-Comparative-Analysis_Estudillo.pdf",
+              "alternateLink": "https://drive.google.com/file/d/1EBam-KVZj2vS4_ewteAwWF4ZD9YtrtHF/view?usp\u003ddrive_web",
+              "thumbnailUrl": "https://lh3.googleusercontent.com/drive-storage/AJQWtBMTF50GsdCEc-bQUszY2KJLKBN3Ot6EW3mXrNLmw8CBynzPGmc3XAHTWYA3zSDhtDpd1m4h2FIhq5h9zXXVx_ian-lzEhGNpZvrTSuvjRQQDcs\u003ds200"
+            }
+          }]
+        }
+      }]
+    }
+  }, {
+    "creator": {
+      "name": {
+        "fullName": "Joanalyn Gabales"
+      }
+    },
+    "creationTime": "2023-11-20T00:51:04.390Z",
+    "updateTime": "2023-12-06T19:19:20.567Z",
+    "publicationTime": "2023-11-20T00:55:40.661Z",
+    "state": "PUBLISHED",
+    "courseWork": {
+      "title": "For Ug Gianod Ako and Panamilit",
+      "dueTime": "2023-12-15T15:59:00Z",
+      "workType": "ASSIGNMENT",
+      "submissions": [{
+        "student": {
+          "profile": {
+            "name": {
+              "fullName": "REFINO KASHI KYLE ESTUDILLO"
+            },
+            "emailAddress": "rgestudillo@up.edu.ph"
+          }
+        },
+        "gradeCalculationOption": "GRADED",
+        "state": "TURNED_IN",
+        "assignmentSubmission": {
+          "attachments": [{
+            "driveFile": {
+              "id": "1PACbSLgQ5QGdXxPt2KOgQjgYdaS8Ic-9",
+              "title": "For-Ug-Gianod-Ako-and-Panamilit_Estudillo.pdf",
+              "alternateLink": "https://drive.google.com/file/d/1PACbSLgQ5QGdXxPt2KOgQjgYdaS8Ic-9/view?usp\u003ddrive_web",
+              "thumbnailUrl": "https://lh3.googleusercontent.com/drive-storage/AJQWtBPGpl4TC6irp-J7Xobo7fuZtxIQ1xbDz9T9ZRLt48mWRe6fsnDpHl8KliomWwubp_iUpDt89EYiTMYEbRXzmos02IqdwaRBUeMKJzZwmUNcJMg\u003ds200"
+            }
+          }]
+        }
+      }]
+    }
+  }, {
+    "creator": {
+      "name": {
+        "fullName": "Joanalyn Gabales"
+      }
+    },
+    "creationTime": "2023-11-08T23:51:34.634Z",
+    "updateTime": "2023-12-06T19:19:53.494Z",
+    "publicationTime": "2023-11-09T00:01:04.288Z",
+    "state": "PUBLISHED",
+    "materials": [{
+      "driveFile": {
+        "driveFile": {
+          "id": "15dNX1lx5R_lOjFs74o5WlwAvuq0ts_ga",
+          "title": "Aspects of sentimentality COPY.docx",
+          "alternateLink": "https://drive.google.com/file/d/15dNX1lx5R_lOjFs74o5WlwAvuq0ts_ga/view?usp\u003ddrive_web",
+          "thumbnailUrl": "https://lh3.googleusercontent.com/drive-storage/AJQWtBNSV2ERfU8j2JIKI7-kApaR3bTt3-K8zRh5ni5wpt7Nr5gzKu7XpXeq5KlM4cQwMXgCoxNU2tFAP690kTvRPfBceJrfCcSgXSS3NHjukm5ekrA\u003ds200"
+        },
+        "shareMode": "VIEW"
+      }
+    }, {
+      "driveFile": {
+        "driveFile": {
+          "id": "1NcuYxLuPed17EsKCG6ipTmBTv-6qpXd1",
+          "title": "Towards a Sentimentalist Plot.docx",
+          "alternateLink": "https://drive.google.com/file/d/1NcuYxLuPed17EsKCG6ipTmBTv-6qpXd1/view?usp\u003ddrive_web",
+          "thumbnailUrl": "https://lh3.googleusercontent.com/drive-storage/AJQWtBMbzapiCbBUVBuaK4BFjCU6DrRTPI-2MovoNXnZvvMXqRDmbKM9NhL6Ye2lQk-OAVDAe8sR6_d5Yu1uIN_Z0ATUS1YRqw9C5X8fgVnhUI93Cp0\u003ds200"
+        },
+        "shareMode": "VIEW"
+      }
+    }],
+    "courseWork": {
+      "title": "Towards a Sentimentalist Plot",
+      "description": "Hello, all. As mentioned last meeting, I have a museum visit today with my Arts 1 class, and I may not be able to come back on time (I will try to be back at UP by 11:00 AM).\nIn the meantime, please do a close reading of the stories assigned for today and fill in the details found in \"Towards a Sentimentalist Plot\" matrix.\nI am also attaching a copy of my notes on \"Aspects of Sentimentality\" for your reference.",
+      "descriptionHtml": "\u003cdiv\u003eHello, all. As mentioned last meeting, I have a museum visit today with my Arts 1 class, and I may not be able to come back on time (I will try to be back at UP by 11:00 AM).\u003cbr\u003eIn the meantime, please do a close reading of the stories assigned for today and fill in the details found in \u0026quot;Towards a Sentimentalist Plot\u0026quot; matrix.\u003cbr\u003eI am also attaching a copy of my notes on \u0026quot;Aspects of Sentimentality\u0026quot; for your reference.\u003c/div\u003e",
+      "dueTime": "2023-11-13T15:59:00Z",
+      "workType": "ASSIGNMENT",
+      "submissions": [{
+        "student": {
+          "profile": {
+            "name": {
+              "fullName": "REFINO KASHI KYLE ESTUDILLO"
+            },
+            "emailAddress": "rgestudillo@up.edu.ph"
+          }
+        },
+        "gradeCalculationOption": "GRADED",
+        "state": "TURNED_IN",
+        "assignmentSubmission": {
+          "attachments": [{
+            "driveFile": {
+              "id": "19Y_xBODTC1Kwnxq2Q1qHfSrVCkeor_bd",
+              "title": "Estudillo- Towards a Sentimentalist Plot.pdf",
+              "alternateLink": "https://drive.google.com/file/d/19Y_xBODTC1Kwnxq2Q1qHfSrVCkeor_bd/view?usp\u003ddrive_web",
+              "thumbnailUrl": "https://lh3.googleusercontent.com/drive-storage/AJQWtBPoxvI-Pl5Ph510EVcpXyGLHGxERjTcu38E-rrAJjN91-sd-DjGF_WejeiduHhW67bLwM4qcViyRSt1hfFbxWFypOZXrtJNFcvFTkoKT9DFtjM\u003ds200"
+            }
+          }]
+        }
+      }]
+    }
+  }, {
+    "creator": {
+      "name": {
+        "fullName": "Joanalyn Gabales"
+      }
+    },
+    "creationTime": "2023-09-25T02:47:41.916Z",
+    "updateTime": "2023-12-06T19:20:23.031Z",
+    "publicationTime": "2023-09-25T02:48:15.428Z",
+    "state": "PUBLISHED",
+    "courseWork": {
+      "title": "Classic Cebuano Poem",
+      "dueTime": "2023-09-28T15:59:00Z",
+      "workType": "ASSIGNMENT",
+      "submissions": [{
+        "student": {
+          "profile": {
+            "name": {
+              "fullName": "REFINO KASHI KYLE ESTUDILLO"
+            },
+            "emailAddress": "rgestudillo@up.edu.ph"
+          }
+        },
+        "gradeCalculationOption": "GRADED",
+        "state": "TURNED_IN",
+        "assignmentSubmission": {
+          "attachments": [{
+            "driveFile": {
+              "id": "12MV1WoNq9WNXMCSsMAwWLbYBValJda7J",
+              "title": "ESTUDILLO_ABRAU_CLASSIC-CEBUANO-POEM.pdf",
+              "alternateLink": "https://drive.google.com/file/d/12MV1WoNq9WNXMCSsMAwWLbYBValJda7J/view?usp\u003ddrive_web"
+            }
+          }]
+        },
+        "comments": [{
+          "creator": {
+            "name": {
+              "fullName": "REFINO KASHI KYLE ESTUDILLO"
+            },
+            "emailAddress": "rgestudillo@up.edu.ph"
+          },
+          "creationTime": "2023-10-05T13:30:33.848Z",
+          "updateTime": "2023-10-05T13:30:33.848Z",
+          "comment": "Maayong adlaw miss! Pasensya na gayud wala mi nakaabot ni Abrau sa klase ganiha kay 12:05 PM nami naabot sa UP Campus. Migikan kami alas 9 sa buntag miss gikan sa Naga pero naabtan kami sa grabe na traffic. Gihilantan usab ko miss isa na ka semana. Pasensya na gayud miss og maynta naa pami chansa makareport inig sunod natong kita. ",
+          "commentHtml": "\u003cdiv\u003eMaayong adlaw miss! Pasensya na gayud wala mi nakaabot ni Abrau sa klase ganiha kay 12:05 PM nami naabot sa UP Campus. Migikan kami alas 9 sa buntag miss gikan sa Naga pero naabtan kami sa grabe na traffic. Gihilantan usab ko miss isa na ka semana. Pasensya na gayud miss og maynta naa pami chansa makareport inig sunod natong kita.\u003c/div\u003e",
+          "state": "PUBLISHED",
+          "commentVisibility": "PRIVATE"
+        }]
+      }]
+    }
+  }, {
+    "creator": {
+      "name": {
+        "fullName": "Joanalyn Gabales"
+      }
+    },
+    "creationTime": "2023-09-21T02:57:59.936Z",
+    "updateTime": "2023-12-06T19:20:48.642Z",
+    "publicationTime": "2023-09-21T02:59:01.922Z",
+    "state": "PUBLISHED",
+    "courseWork": {
+      "title": "Readings",
+      "dueTime": "2023-09-21T16:00:00Z",
+      "workType": "ASSIGNMENT",
+      "submissions": [{
+        "student": {
+          "profile": {
+            "name": {
+              "fullName": "REFINO KASHI KYLE ESTUDILLO"
+            },
+            "emailAddress": "rgestudillo@up.edu.ph"
+          }
+        },
+        "gradeCalculationOption": "GRADED",
+        "state": "TURNED_IN",
+        "assignmentSubmission": {
+          "attachments": [{
+            "driveFile": {
+              "id": "13vRX-7FXFsw5ZvrprXPLfBfgS5pd4Had",
+              "title": "Estudillo_3rd-Reading_Analysis.pdf",
+              "alternateLink": "https://drive.google.com/file/d/13vRX-7FXFsw5ZvrprXPLfBfgS5pd4Had/view?usp\u003ddrive_web",
+              "thumbnailUrl": "https://lh3.googleusercontent.com/drive-storage/AJQWtBMyzYoSjyg5v4gcSQpM-N3oRPJksYZqhQgCmkowZlO-AXI4uV8ECO4kPnl8Xck5Fc1Wc510Q6fKtNASz7azC2_kZtWt2mf9dcNS9eJR2GVfN6U\u003ds200"
+            }
+          }]
+        }
+      }]
+    }
+  }, {
+    "creator": {
+      "name": {
+        "fullName": "Joanalyn Gabales"
+      }
+    },
+    "creationTime": "2023-09-04T01:53:31.855Z",
+    "updateTime": "2023-12-06T19:21:16.263Z",
+    "publicationTime": "2023-09-04T01:54:14.902Z",
+    "state": "PUBLISHED",
+    "courseWork": {
+      "title": "Balitaw",
+      "dueTime": "2023-09-07T02:30:00Z",
+      "workType": "ASSIGNMENT",
+      "submissions": [{
+        "student": {
+          "profile": {
+            "name": {
+              "fullName": "REFINO KASHI KYLE ESTUDILLO"
+            },
+            "emailAddress": "rgestudillo@up.edu.ph"
+          }
+        },
+        "assignedGrade": 90.0,
+        "gradeCalculationOption": "GRADED",
+        "state": "RETURNED",
+        "assignmentSubmission": {
+          "attachments": [{
+            "driveFile": {
+              "id": "1FaSuefIsDdVBZWJrezGj6inkkWOWZQTz",
+              "title": "BALITAW-NI-ABRAU-OG-ESTUDILLO.pdf",
+              "alternateLink": "https://drive.google.com/file/d/1FaSuefIsDdVBZWJrezGj6inkkWOWZQTz/view?usp\u003ddrive_web",
+              "thumbnailUrl": "https://lh3.googleusercontent.com/drive-storage/AJQWtBOE1s_7mwbRqFoWvTj0vVudJYGZKmpjht5tgQ3IeX7SWY_Ml7xTOzxguTeW76x1QHh6ptoBnyhQ7qHKhCy84Mnbouz_mHr3E7PIHF14zxNZyjE\u003ds200"
+            }
+          }]
+        },
+        "comments": [{
+          "creator": {
+            "name": {
+              "fullName": "Joanalyn Gabales"
+            }
+          },
+          "creationTime": "2023-09-13T06:50:16.189Z",
+          "updateTime": "2023-09-13T06:50:16.189Z",
+          "comment": "-The required 4 exchanges accomplished\n-Rhyming (a-a-b-b) is consistently by couplet\n-Exposition, development, resolution is achieved (the resolution is too easy. The end indicates that the addicted person has a hard time stopping his vice; thus, he is called “hanggaw”)\n-The addicted person does not offer much argument: only “na tintal ra ko” or “lami ang ginadili”\n-Inconsistency: at the start Abrau refers to Estudillo as “bana”, but in the 5th stanza, Estudillo refers to Abrau as “uyab”",
+          "commentHtml": "\u003cdiv\u003e-The required 4 exchanges accomplished\u003cbr\u003e-Rhyming (a-a-b-b) is consistently by couplet\u003cbr\u003e-Exposition, development, resolution is achieved (the resolution is too easy. The end indicates that the addicted person has a hard time stopping his vice; thus, he is called “hanggaw”)\u003cbr\u003e-The addicted person does not offer much argument: only “na tintal ra ko” or “lami ang ginadili”\u003cbr\u003e-Inconsistency: at the start Abrau refers to Estudillo as “bana”, but in the 5th stanza, Estudillo refers to Abrau as “uyab”\u003c/div\u003e",
+          "state": "PUBLISHED",
+          "commentVisibility": "PRIVATE"
+        }, {
+          "creator": {
+            "name": {
+              "fullName": "Joanalyn Gabales"
+            }
+          },
+          "creationTime": "2023-09-13T06:51:22.099Z",
+          "updateTime": "2023-09-13T06:51:22.099Z",
+          "comment": "-Assonantal rhyme achieved\n-Language is straightforward, although included are a very few common phrases that are figurative, like “lami ang ginadili”, “baga og nawong”, “hiwi nga dalan”, and hyperbole like “lupad ni imong gamit”\n-Also included is a relevant detail that speaks of recent event: “Kon di ipadakop tika, bisag sud pakas UP Cebu”",
+          "commentHtml": "\u003cdiv\u003e-Assonantal rhyme achieved\u003cbr\u003e-Language is straightforward, although included are a very few common phrases that are figurative, like “lami ang ginadili”, “baga og nawong”, “hiwi nga dalan”, and hyperbole like “lupad ni imong gamit”\u003cbr\u003e-Also included is a relevant detail that speaks of recent event: “Kon di ipadakop tika, bisag sud pakas UP Cebu”\u003c/div\u003e",
+          "state": "PUBLISHED",
+          "commentVisibility": "PRIVATE"
+        }, {
+          "creator": {
+            "name": {
+              "fullName": "Joanalyn Gabales"
+            }
+          },
+          "creationTime": "2023-09-13T06:51:35.271Z",
+          "updateTime": "2023-09-13T06:51:35.271Z",
+          "comment": "-The performers were in character and \n-They spoke naturally. I wish they had louder voices though.\n\n-The presentation was continuous. Even during the portions that were delicate, they did not hesitate in their performance.\n-Estudillo seems to have good comedic timing.",
+          "commentHtml": "\u003cdiv\u003e-The performers were in character and \u003cbr\u003e-They spoke naturally. I wish they had louder voices though.\u003cbr\u003e\u003cbr\u003e-The presentation was continuous. Even during the portions that were delicate, they did not hesitate in their performance.\u003cbr\u003e-Estudillo seems to have good comedic timing.\u003c/div\u003e",
+          "state": "PUBLISHED",
+          "commentVisibility": "PRIVATE"
+        }, {
+          "creator": {
+            "name": {
+              "fullName": "Joanalyn Gabales"
+            }
+          },
+          "creationTime": "2023-09-13T06:52:19.113Z",
+          "updateTime": "2023-09-13T06:52:19.113Z",
+          "comment": "More comments about orthography in Abrau\u0027s copy",
+          "commentHtml": "\u003cdiv\u003eMore comments about orthography in Abrau\u0026#39;s copy\u003c/div\u003e",
+          "state": "PUBLISHED",
+          "commentVisibility": "PRIVATE"
+        }]
+      }]
+    }
+  }]
+}

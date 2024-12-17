@@ -1,0 +1,1000 @@
+{
+  "version": 1,
+  "name": "Elementary Analysis I",
+  "section": "MATH 53 Sec A Period 1",
+  "room": "Google Meet",
+  "calendarUrl": "https://calendar.google.com/render?cid\u003dc_classroomaa1da3bb@group.calendar.google.com",
+  "courseFolder": {
+    "id": "1NjxWWuZntlmBSjoA0RSOc71bXyOlOdac-oN3MFSWxM59mA4TlVZwIjCp9Qc8gp_5IUKIcZrC",
+    "name": "Elementary Analysis I MATH 53 Sec A Period 1",
+    "openUrl": "https://drive.google.com/drive/folders/1NjxWWuZntlmBSjoA0RSOc71bXyOlOdac-oN3MFSWxM59mA4TlVZwIjCp9Qc8gp_5IUKIcZrC"
+  },
+  "photoUrl": "https://gstatic.com/classroom/themes/img_soccer.jpg",
+  "subject": "MATH 53",
+  "courseState": "ARCHIVED",
+  "posts": [{
+    "creator": {
+      "name": {
+        "fullName": "Jun Francis Maldo"
+      }
+    },
+    "creationTime": "2022-01-15T01:51:19.331Z",
+    "updateTime": "2022-01-25T16:01:59.303Z",
+    "scheduledTime": "2022-01-25T16:00:00Z",
+    "publicationTime": "2022-01-25T16:01:59.057Z",
+    "state": "PUBLISHED",
+    "topics": [{
+      "name": "EXAM 3"
+    }],
+    "materials": [{
+      "driveFile": {
+        "driveFile": {
+          "id": "1-lhbJQLKL3txi4TzOgUKuokpFu8L0z-Z",
+          "title": "MATH_53_Exam_3.pdf",
+          "alternateLink": "https://drive.google.com/file/d/1-lhbJQLKL3txi4TzOgUKuokpFu8L0z-Z/view?usp\u003ddrive_web",
+          "thumbnailUrl": "https://lh3.googleusercontent.com/drive-storage/AJQWtBOVcO9hs6DrLnY2ykH1Nm_nVCWGjIJV6SVzJa8v4_A174cJqq4egxG0n14_1laiSD3yDuCppeGt_5Qojqu8FRSMipJNSLyDy88ZhErHJVioofU\u003ds200"
+        },
+        "shareMode": "VIEW"
+      }
+    }],
+    "courseWork": {
+      "title": "MATH 53 Exam 3",
+      "description": "Attached is your 3RD EXAM in MATH 53. \n\nProvide each item with a step-by-step solution/proof. Scan/Take pictures of your answer sheets. Submit/Upload them as JPEG or PNG files.\n\nGood Luck and God Bless!",
+      "descriptionHtml": "\u003cdiv\u003eAttached is your 3RD EXAM in MATH 53. \u003cbr\u003e\u003cbr\u003eProvide each item with a step-by-step solution/proof. Scan/Take pictures of your answer sheets. Submit/Upload them as JPEG or PNG files.\u003cbr\u003e\u003cbr\u003eGood Luck and God Bless!\u003c/div\u003e",
+      "dueTime": "2022-01-28T16:00:00Z",
+      "maxPoints": 40.0,
+      "workType": "ASSIGNMENT",
+      "submissions": [{
+        "student": {
+          "profile": {
+            "name": {
+              "fullName": "REFINO KASHI KYLE ESTUDILLO"
+            },
+            "emailAddress": "rgestudillo@up.edu.ph"
+          }
+        },
+        "gradeCalculationOption": "GRADED",
+        "state": "TURNED_IN",
+        "assignmentSubmission": {
+          "attachments": [{
+            "driveFile": {
+              "id": "1a2T0dtWkOrXKhF4Qp5ysVzxPz_hPsB1Z",
+              "title": "ESTUDILLO-MATH 53-Exam 3.pdf",
+              "alternateLink": "https://drive.google.com/file/d/1a2T0dtWkOrXKhF4Qp5ysVzxPz_hPsB1Z/view?usp\u003ddrive_web",
+              "thumbnailUrl": "https://lh3.googleusercontent.com/drive-storage/AJQWtBNp3PuGrx1-isB5wCyTaasfSg3G3VPY5N93cPnkbYtc2RV_nGjjJ2nICc6C43kSV93r3VLHLAaFym31GqNtaVbpy5gUuDHHuaOc78VNu9fOTt8\u003ds200"
+            }
+          }]
+        }
+      }]
+    }
+  }, {
+    "creator": {
+      "name": {
+        "fullName": "Jun Francis Maldo"
+      }
+    },
+    "creationTime": "2021-11-30T11:38:48.465Z",
+    "updateTime": "2021-12-03T05:00:25.252Z",
+    "scheduledTime": "2021-12-03T05:00:00Z",
+    "publicationTime": "2021-12-03T05:00:24.798Z",
+    "state": "PUBLISHED",
+    "topics": [{
+      "name": "EXAM 2"
+    }],
+    "materials": [{
+      "driveFile": {
+        "driveFile": {
+          "id": "1KwbkGP6neBqoW2pIOaS5rwm2ergBLWD5",
+          "title": "MATH_53_Exam_2.pdf",
+          "alternateLink": "https://drive.google.com/file/d/1KwbkGP6neBqoW2pIOaS5rwm2ergBLWD5/view?usp\u003ddrive_web",
+          "thumbnailUrl": "https://lh3.googleusercontent.com/drive-storage/AJQWtBOIA6OHdCuTYni7QT2xOTjzO24ZXRp1tWa4O42ICy16cZucRdZiodP4gydKB3F5AM4ZuPLN4XWf4mAVbxvlZBJsgGKbx63gUtXXomMRcSE33wk\u003ds200"
+        },
+        "shareMode": "VIEW"
+      }
+    }],
+    "courseWork": {
+      "title": "MATH 53 Exam 2",
+      "description": "Attached is your 2ND EXAM in MATH 53. \n\nProvide each item with a step-by-step solution/proof. Scan/Take pictures of your answer sheets. Submit/Upload them as JPEG or PNG files.\n\nGood Luck and God Bless!",
+      "descriptionHtml": "\u003cdiv\u003eAttached is your 2ND EXAM in MATH 53. \u003cbr\u003e\u003cbr\u003eProvide each item with a step-by-step solution/proof. Scan/Take pictures of your answer sheets. Submit/Upload them as JPEG or PNG files.\u003cbr\u003e\u003cbr\u003eGood Luck and God Bless!\u003c/div\u003e",
+      "dueTime": "2021-12-03T09:00:00Z",
+      "maxPoints": 40.0,
+      "workType": "ASSIGNMENT",
+      "submissions": [{
+        "student": {
+          "profile": {
+            "name": {
+              "fullName": "REFINO KASHI KYLE ESTUDILLO"
+            },
+            "emailAddress": "rgestudillo@up.edu.ph"
+          }
+        },
+        "gradeCalculationOption": "GRADED",
+        "state": "TURNED_IN",
+        "assignmentSubmission": {
+          "attachments": [{
+            "driveFile": {
+              "id": "1DWKtV1ZvHHZlXfNrja9R6Ik0GKLTMLSY",
+              "title": "CamScanner 12-03-2021 16.09.pdf",
+              "alternateLink": "https://drive.google.com/file/d/1DWKtV1ZvHHZlXfNrja9R6Ik0GKLTMLSY/view?usp\u003ddrive_web",
+              "thumbnailUrl": "https://lh3.googleusercontent.com/drive-storage/AJQWtBMMgB8sxLZnaHGPf7t1Qs4XEqwjGF_8txBdX5Q_su4qhtzzA4E2-jTa9Ld-hNBSiw8fzZx9dXmrSKm9IQgqH-CD5LYGNPFhT80lhL8yTyXjum8\u003ds200"
+            }
+          }]
+        }
+      }]
+    }
+  }, {
+    "creator": {
+      "name": {
+        "fullName": "Jun Francis Maldo"
+      }
+    },
+    "creationTime": "2021-11-25T20:24:22.503Z",
+    "updateTime": "2021-11-26T00:01:25.960Z",
+    "scheduledTime": "2021-11-26T00:00:00Z",
+    "publicationTime": "2021-11-26T00:01:25.332Z",
+    "state": "PUBLISHED",
+    "topics": [{
+      "name": "Antiderivatives"
+    }],
+    "materials": [{
+      "driveFile": {
+        "driveFile": {
+          "id": "1-Gs1Oj5_M0GLAfApTFaIcrlnnKxIoGFo",
+          "title": "MATH_53_Quiz_9.pdf",
+          "alternateLink": "https://drive.google.com/file/d/1-Gs1Oj5_M0GLAfApTFaIcrlnnKxIoGFo/view?usp\u003ddrive_web",
+          "thumbnailUrl": "https://lh3.googleusercontent.com/drive-storage/AJQWtBPiusCwtedPPDIomo0l9dYVvNoEEQV_29mcugTkTtMj8zRRyKAqqNJ6PbZ2rLig15vo3jiNVrNoWHaq-oC--P2xXZR6RA6--a5REFYlsyuOVK4\u003ds200"
+        },
+        "shareMode": "VIEW"
+      }
+    }],
+    "courseWork": {
+      "title": "MATH 53 Quiz 9",
+      "description": "Attached is your 9th Quiz in MATH 53. \n\nProvide each item with a step-by-step solution/proof. Scan/Take pictures of your answer sheets. Submit/Upload them as JPEG or PNG files.\n\nGood Luck and God Bless!",
+      "descriptionHtml": "\u003cdiv\u003eAttached is your 9th Quiz in MATH 53. \u003cbr\u003e\u003cbr\u003eProvide each item with a step-by-step solution/proof. Scan/Take pictures of your answer sheets. Submit/Upload them as JPEG or PNG files.\u003cbr\u003e\u003cbr\u003eGood Luck and God Bless!\u003c/div\u003e",
+      "dueTime": "2021-11-26T16:00:00Z",
+      "maxPoints": 28.0,
+      "workType": "ASSIGNMENT",
+      "submissions": [{
+        "student": {
+          "profile": {
+            "name": {
+              "fullName": "REFINO KASHI KYLE ESTUDILLO"
+            },
+            "emailAddress": "rgestudillo@up.edu.ph"
+          }
+        },
+        "gradeCalculationOption": "GRADED",
+        "state": "TURNED_IN",
+        "assignmentSubmission": {
+          "attachments": [{
+            "driveFile": {
+              "id": "1TOHofUN6l_xghqJ3mN7_-2SCsNsHQUv4",
+              "title": "Estudillo-Quiz9.pdf",
+              "alternateLink": "https://drive.google.com/file/d/1TOHofUN6l_xghqJ3mN7_-2SCsNsHQUv4/view?usp\u003ddrive_web",
+              "thumbnailUrl": "https://lh3.googleusercontent.com/drive-storage/AJQWtBPNrDHb-XU9yolhOuTLXI2w3nWU7vagM6EOMWbkpbxjdie67r407st-6OpW6L4YNjJt90E9l4X-Hj7fzbpJntsJGh7EQpo9aqCXx4yqxk2v4w8\u003ds200"
+            }
+          }]
+        },
+        "comments": [{
+          "creator": {
+            "name": {
+              "fullName": "REFINO KASHI KYLE ESTUDILLO"
+            },
+            "emailAddress": "rgestudillo@up.edu.ph"
+          },
+          "creationTime": "2021-11-27T04:40:25.250Z",
+          "updateTime": "2021-11-27T04:40:25.212Z",
+          "comment": "Good day sir, sorry for submitting late. Our place, Liloan, had a power interruption yesterday due to the heavy rain and took a lot of time before things went back to normal. I am hoping for your kind consideration sir. Thank you and God bless!",
+          "commentHtml": "\u003cdiv\u003eGood day sir, sorry for submitting late. Our place, Liloan, had a power interruption yesterday due to the heavy rain and took a lot of time before things went back to normal. I am hoping for your kind consideration sir. Thank you and God bless!\u003c/div\u003e",
+          "state": "PUBLISHED",
+          "commentVisibility": "PRIVATE"
+        }]
+      }]
+    }
+  }, {
+    "creator": {
+      "name": {
+        "fullName": "Jun Francis Maldo"
+      }
+    },
+    "creationTime": "2021-11-25T17:12:00.727Z",
+    "updateTime": "2021-11-25T17:12:28.520Z",
+    "publicationTime": "2021-11-25T17:12:27.978Z",
+    "state": "PUBLISHED",
+    "topics": [{
+      "name": "Assignments"
+    }],
+    "courseWork": {
+      "title": "MATH 53 Assignment 6",
+      "description": "\n\nDeadline: 12 am, December 11\n",
+      "descriptionHtml": "\u003cdiv\u003eDeadline: 12 am, December 11\u003c/div\u003e",
+      "dueTime": "2021-12-10T16:00:00Z",
+      "maxPoints": 30.0,
+      "workType": "ASSIGNMENT",
+      "submissions": [{
+        "student": {
+          "profile": {
+            "name": {
+              "fullName": "REFINO KASHI KYLE ESTUDILLO"
+            },
+            "emailAddress": "rgestudillo@up.edu.ph"
+          }
+        },
+        "gradeCalculationOption": "GRADED",
+        "state": "TURNED_IN",
+        "assignmentSubmission": {
+          "attachments": [{
+            "driveFile": {
+              "id": "1QiUXHk6nRsyJuUEyIXyqM6OV_Klksblm",
+              "title": "CamScanner 12-10-2021 21.25.pdf",
+              "alternateLink": "https://drive.google.com/file/d/1QiUXHk6nRsyJuUEyIXyqM6OV_Klksblm/view?usp\u003ddrive_web",
+              "thumbnailUrl": "https://lh3.googleusercontent.com/drive-storage/AJQWtBPbFNnf1_dzhSJjLh6ls35oxga846ErCE1H2rkkNAQaswq4oC0fGG3srzaQZ1rztHvLO_Mma9zp38HQ54JF9OCvkwd1RbRoMkCEodlWoYyr95E\u003ds200"
+            }
+          }]
+        }
+      }]
+    }
+  }, {
+    "creator": {
+      "name": {
+        "fullName": "Jun Francis Maldo"
+      }
+    },
+    "creationTime": "2021-11-25T17:11:00.396Z",
+    "updateTime": "2021-11-25T17:11:47.163Z",
+    "publicationTime": "2021-11-25T17:11:46.622Z",
+    "state": "PUBLISHED",
+    "topics": [{
+      "name": "Assignments"
+    }],
+    "courseWork": {
+      "title": "MATH 53 Assignment 5",
+      "description": "\n\nDeadline: 12 am, December 11",
+      "descriptionHtml": "\u003cdiv\u003eDeadline: 12 am, December 11\u003c/div\u003e",
+      "dueTime": "2021-12-10T16:00:00Z",
+      "maxPoints": 30.0,
+      "workType": "ASSIGNMENT",
+      "submissions": [{
+        "student": {
+          "profile": {
+            "name": {
+              "fullName": "REFINO KASHI KYLE ESTUDILLO"
+            },
+            "emailAddress": "rgestudillo@up.edu.ph"
+          }
+        },
+        "gradeCalculationOption": "GRADED",
+        "state": "TURNED_IN",
+        "assignmentSubmission": {
+          "attachments": [{
+            "driveFile": {
+              "id": "1v__VYTaLqOyhqFSwXuWlUnWvODv4YnPM",
+              "title": "CamScanner 12-10-2021 22.33.pdf",
+              "alternateLink": "https://drive.google.com/file/d/1v__VYTaLqOyhqFSwXuWlUnWvODv4YnPM/view?usp\u003ddrive_web",
+              "thumbnailUrl": "https://lh3.googleusercontent.com/drive-storage/AJQWtBP5rPlEXyy9gfS1iWWlDfyVbx6xomZtgiblWWgbe97z8s94y6yhSoyOcIEUi4AYDy_8Vd7i6X-USLzRWuoSdtg-qFFFytRMuJnUnEffFBV4Hts\u003ds200"
+            }
+          }]
+        }
+      }]
+    }
+  }, {
+    "creator": {
+      "name": {
+        "fullName": "Jun Francis Maldo"
+      }
+    },
+    "creationTime": "2021-11-25T17:09:48.844Z",
+    "updateTime": "2021-11-25T17:10:34.765Z",
+    "publicationTime": "2021-11-25T17:10:34.221Z",
+    "state": "PUBLISHED",
+    "topics": [{
+      "name": "Assignments"
+    }],
+    "courseWork": {
+      "title": "MATH 53 Assignment 4",
+      "description": "\n\nDeadline: 12 am, December 4",
+      "descriptionHtml": "\u003cdiv\u003eDeadline: 12 am, December 4\u003c/div\u003e",
+      "dueTime": "2021-12-03T16:00:00Z",
+      "maxPoints": 30.0,
+      "workType": "ASSIGNMENT",
+      "submissions": [{
+        "student": {
+          "profile": {
+            "name": {
+              "fullName": "REFINO KASHI KYLE ESTUDILLO"
+            },
+            "emailAddress": "rgestudillo@up.edu.ph"
+          }
+        },
+        "gradeCalculationOption": "GRADED",
+        "state": "TURNED_IN",
+        "assignmentSubmission": {
+          "attachments": [{
+            "driveFile": {
+              "id": "1Xw5uAS4-16LoN9S8i3ZUjcNnny8Og737",
+              "title": "CamScanner 12-04-2021 20.20.pdf",
+              "alternateLink": "https://drive.google.com/file/d/1Xw5uAS4-16LoN9S8i3ZUjcNnny8Og737/view?usp\u003ddrive_web",
+              "thumbnailUrl": "https://lh3.googleusercontent.com/drive-storage/AJQWtBMdCZz4RQFMWX8hzCrCUjAhkIToebhyumDW2LQrzpH6ssBskDtaxATNQDWA3NMK2booqDJzYvOA9K1Mk5dkCz_Y9jESKB840aCoP_xVFKFeh4Y\u003ds200"
+            }
+          }]
+        }
+      }]
+    }
+  }, {
+    "creator": {
+      "name": {
+        "fullName": "Jun Francis Maldo"
+      }
+    },
+    "creationTime": "2021-11-25T17:08:11.607Z",
+    "updateTime": "2021-11-25T17:09:34.937Z",
+    "publicationTime": "2021-11-25T17:09:34.388Z",
+    "state": "PUBLISHED",
+    "topics": [{
+      "name": "Assignments"
+    }],
+    "courseWork": {
+      "title": "MATH 53 Assignment 3",
+      "description": "\n\nDeadline: 12 am, December 4",
+      "descriptionHtml": "\u003cdiv\u003eDeadline: 12 am, December 4\u003c/div\u003e",
+      "dueTime": "2021-12-03T16:00:00Z",
+      "maxPoints": 30.0,
+      "workType": "ASSIGNMENT",
+      "submissions": [{
+        "student": {
+          "profile": {
+            "name": {
+              "fullName": "REFINO KASHI KYLE ESTUDILLO"
+            },
+            "emailAddress": "rgestudillo@up.edu.ph"
+          }
+        },
+        "gradeCalculationOption": "GRADED",
+        "state": "TURNED_IN",
+        "assignmentSubmission": {
+          "attachments": [{
+            "driveFile": {
+              "id": "11V8BhiPJP3mIjgRa9zAhoAZBtSFXBY1l",
+              "title": "CamScanner 12-04-2021 20.36.pdf",
+              "alternateLink": "https://drive.google.com/file/d/11V8BhiPJP3mIjgRa9zAhoAZBtSFXBY1l/view?usp\u003ddrive_web",
+              "thumbnailUrl": "https://lh3.googleusercontent.com/drive-storage/AJQWtBPUoKnsEzkC0vM8uTsEVKxKEcNZ1qOiRYEyddRxma-KG93Gp1BAt1iXPzUtQLG3MlVk4Glw7nHrKSyMO0ACJhCXi8G-bNuczuYYgtlAx9RbKVY\u003ds200"
+            }
+          }]
+        }
+      }]
+    }
+  }, {
+    "creator": {
+      "name": {
+        "fullName": "Jun Francis Maldo"
+      }
+    },
+    "creationTime": "2021-11-18T18:53:22.715Z",
+    "updateTime": "2021-11-19T08:28:19.178Z",
+    "scheduledTime": "2021-11-19T00:00:00Z",
+    "publicationTime": "2021-11-19T00:00:06.646Z",
+    "state": "PUBLISHED",
+    "topics": [{
+      "name": "Antiderivatives"
+    }],
+    "materials": [{
+      "driveFile": {
+        "driveFile": {
+          "id": "1--K6yEGavuT_HXWfkvnCzHxZUZ7Z0rKB",
+          "title": "MATH_53_Quiz_8.pdf",
+          "alternateLink": "https://drive.google.com/file/d/1--K6yEGavuT_HXWfkvnCzHxZUZ7Z0rKB/view?usp\u003ddrive_web",
+          "thumbnailUrl": "https://lh3.googleusercontent.com/drive-storage/AJQWtBM6cvGFkHfMSpYL47P62C_AjEPgJDGV5Yx7dtthrOgdFbJlEYje0ml2L0u8t-T-QiE9O-hrZNGXJfpy4d4wdPqPONI271pejGTryCc1nN-HQls\u003ds200"
+        },
+        "shareMode": "VIEW"
+      }
+    }],
+    "courseWork": {
+      "title": "MATH 53 Quiz 8",
+      "description": "Attached is your 8th Quiz in MATH 53. \n\nProvide each item with a step-by-step solution/proof. Scan/Take pictures of your answer sheets. Submit/Upload them as JPEG or PNG files.\n\nGood Luck and God Bless!",
+      "descriptionHtml": "\u003cdiv\u003eAttached is your 8th Quiz in MATH 53. \u003cbr\u003e\u003cbr\u003eProvide each item with a step-by-step solution/proof. Scan/Take pictures of your answer sheets. Submit/Upload them as JPEG or PNG files.\u003cbr\u003e\u003cbr\u003eGood Luck and God Bless!\u003c/div\u003e",
+      "dueTime": "2021-11-20T16:00:00Z",
+      "maxPoints": 28.0,
+      "workType": "ASSIGNMENT",
+      "submissions": [{
+        "student": {
+          "profile": {
+            "name": {
+              "fullName": "REFINO KASHI KYLE ESTUDILLO"
+            },
+            "emailAddress": "rgestudillo@up.edu.ph"
+          }
+        },
+        "gradeCalculationOption": "GRADED",
+        "state": "TURNED_IN",
+        "assignmentSubmission": {
+          "attachments": [{
+            "driveFile": {
+              "id": "1IBOLUnRybfXFVztw10ZK3sZ6tAncu3uW",
+              "title": "CamScanner 11-20-2021 23.58.pdf",
+              "alternateLink": "https://drive.google.com/file/d/1IBOLUnRybfXFVztw10ZK3sZ6tAncu3uW/view?usp\u003ddrive_web",
+              "thumbnailUrl": "https://lh3.googleusercontent.com/drive-storage/AJQWtBNco9V1kmD5bQUT9YPlPERgMkTSTzpo_tLY2QZ5DMRNea4y_eQher79OWzjSMhrY3vJIJpVdyc7PDf5aJ0-gu1pmACuqCoVwmSkxwjYYdxxLs4\u003ds200"
+            }
+          }]
+        }
+      }]
+    }
+  }, {
+    "creator": {
+      "name": {
+        "fullName": "Jun Francis Maldo"
+      }
+    },
+    "creationTime": "2021-11-11T17:58:57.618Z",
+    "updateTime": "2021-11-12T00:04:51.419Z",
+    "scheduledTime": "2021-11-12T00:00:00Z",
+    "publicationTime": "2021-11-12T00:04:51.395Z",
+    "state": "PUBLISHED",
+    "topics": [{
+      "name": "Derivatives"
+    }],
+    "materials": [{
+      "driveFile": {
+        "driveFile": {
+          "id": "1I2vqAXCRes03dNrGSlHkkE7un4F5EE2f",
+          "title": "MATH_53_Quiz_7.pdf",
+          "alternateLink": "https://drive.google.com/file/d/1I2vqAXCRes03dNrGSlHkkE7un4F5EE2f/view?usp\u003ddrive_web",
+          "thumbnailUrl": "https://lh3.googleusercontent.com/drive-storage/AJQWtBOvZLy2C8QUgyp4rpDDhbzkYwRWrVYS2GbnrtCh2py9h3hqCmw1CRaBmNdOW2G_aPWBzmdMKGw8nwMDqLKYqSn1FFfw_m9WgAlQrkNsde4pTK4\u003ds200"
+        },
+        "shareMode": "VIEW"
+      }
+    }],
+    "courseWork": {
+      "title": "MATH 53 Quiz 7",
+      "description": "Attached is your 7th Quiz in MATH 53. \n\nProvide each item with a step-by-step solution/proof. Scan/Take pictures of your answer sheets. Submit/Upload them as JPEG or PNG files.\n\nGood Luck and God Bless!",
+      "descriptionHtml": "\u003cdiv\u003eAttached is your 7th Quiz in MATH 53. \u003cbr\u003e\u003cbr\u003eProvide each item with a step-by-step solution/proof. Scan/Take pictures of your answer sheets. Submit/Upload them as JPEG or PNG files.\u003cbr\u003e\u003cbr\u003eGood Luck and God Bless!\u003c/div\u003e",
+      "dueTime": "2021-11-12T16:00:00Z",
+      "maxPoints": 20.0,
+      "workType": "ASSIGNMENT",
+      "submissions": [{
+        "student": {
+          "profile": {
+            "name": {
+              "fullName": "REFINO KASHI KYLE ESTUDILLO"
+            },
+            "emailAddress": "rgestudillo@up.edu.ph"
+          }
+        },
+        "gradeCalculationOption": "GRADED",
+        "state": "TURNED_IN",
+        "assignmentSubmission": {
+          "attachments": [{
+            "driveFile": {
+              "id": "1EfZqsRB6ZOs-7Xpfm9AXUZhFXVGNbMBP",
+              "title": "CamScanner 11-12-2021 21.18.pdf",
+              "alternateLink": "https://drive.google.com/file/d/1EfZqsRB6ZOs-7Xpfm9AXUZhFXVGNbMBP/view?usp\u003ddrive_web",
+              "thumbnailUrl": "https://lh3.googleusercontent.com/drive-storage/AJQWtBM44OI1X29gM74HRxdMUd-yZKxymVOK6mk86AtsCDyJJXN2L8qMCfqqO4ySk-hM6DiG3W9J0bHvelgLtusVFaPJsDcnNPEUk5nkdf5Hf2u3ah0\u003ds200"
+            }
+          }]
+        }
+      }]
+    }
+  }, {
+    "creator": {
+      "name": {
+        "fullName": "Jun Francis Maldo"
+      }
+    },
+    "creationTime": "2021-10-28T21:05:12.843Z",
+    "updateTime": "2021-10-29T04:56:08.456Z",
+    "scheduledTime": "2021-10-29T04:55:00Z",
+    "publicationTime": "2021-10-29T04:56:08.416Z",
+    "state": "PUBLISHED",
+    "topics": [{
+      "name": "EXAM 1"
+    }],
+    "materials": [{
+      "driveFile": {
+        "driveFile": {
+          "id": "1KVB1PTHiMVSQ9MJozQFUHh8qEV8iv8NH",
+          "title": "MATH_53_EXAM_1.pdf",
+          "alternateLink": "https://drive.google.com/file/d/1KVB1PTHiMVSQ9MJozQFUHh8qEV8iv8NH/view?usp\u003ddrive_web",
+          "thumbnailUrl": "https://lh3.googleusercontent.com/drive-storage/AJQWtBPOXgw1KPFb7yR-ULjKYDbq81SniNVF2NnSPeQZkSmzVXWJwfORRhk1aOdRBRFkNy7k_oKdXT9z2FyABXjZ5mdP5uoIN6g-ha4mddpj65Ess4k\u003ds200"
+        },
+        "shareMode": "VIEW"
+      }
+    }],
+    "courseWork": {
+      "title": "MATH 53 EXAM 1",
+      "description": "Good afternoon!\n\nWelcome to your EXAM 1 in MATH 53!\n\nUse a pen and clean sheets of paper in solving the problems.\n\nUpload your EXAM 1 scanned/photographed outputs here. Make sure the files are in either JPEG or PNG format. Do not upload unclear photos.\n\nSubmit before 5 pm hits your clock.\n\nGood Luck and God Bless You!\n\nSir Maldo",
+      "descriptionHtml": "\u003cdiv\u003eGood afternoon!\u003cbr\u003e\u003cbr\u003eWelcome to your EXAM 1 in MATH 53!\u003cbr\u003e\u003cbr\u003eUse a pen and clean sheets of paper in solving the problems.\u003cbr\u003e\u003cbr\u003eUpload your EXAM 1 scanned/photographed outputs here. Make sure the files are in either JPEG or PNG format. Do not upload unclear photos.\u003cbr\u003e\u003cbr\u003eSubmit before 5 pm hits your clock.\u003cbr\u003e\u003cbr\u003eGood Luck and God Bless You!\u003cbr\u003e\u003cbr\u003eSir Maldo\u003c/div\u003e",
+      "dueTime": "2021-10-29T09:05:00Z",
+      "maxPoints": 40.0,
+      "workType": "ASSIGNMENT",
+      "submissions": [{
+        "student": {
+          "profile": {
+            "name": {
+              "fullName": "REFINO KASHI KYLE ESTUDILLO"
+            },
+            "emailAddress": "rgestudillo@up.edu.ph"
+          }
+        },
+        "gradeCalculationOption": "GRADED",
+        "state": "TURNED_IN",
+        "assignmentSubmission": {
+          "attachments": [{
+            "link": {
+              "url": "https://www.camscanner.com/share/show?encrypt_id\u003dMHhlN2ZlYjYxZg%3D%3D\u0026sid\u003dE35254791853457ANK71C79RUS\u0026pid\u003ddsa\u0026style\u003d1\u0026share_link_style\u003d0",
+              "title": "CamScanner 10-29-2021 14.24",
+              "thumbnailUrl": "https://classroom.google.com/webthumbnail?url\u003dhttps://www.camscanner.com/share/show?encrypt_id%3DMHhlN2ZlYjYxZg%253D%253D%26sid%3DE35254791853457ANK71C79RUS%26pid%3Ddsa%26style%3D1%26share_link_style%3D0"
+            }
+          }]
+        }
+      }]
+    }
+  }, {
+    "creator": {
+      "name": {
+        "fullName": "Jun Francis Maldo"
+      }
+    },
+    "creationTime": "2021-10-28T12:56:42.026Z",
+    "updateTime": "2021-10-28T13:05:01.616Z",
+    "scheduledTime": "2021-10-28T13:05:00Z",
+    "publicationTime": "2021-10-28T13:05:01.509Z",
+    "state": "PUBLISHED",
+    "topics": [{
+      "name": "Derivatives"
+    }],
+    "courseWork": {
+      "title": "MATH 53 Assignment 2",
+      "description": "Upload your Assignment 2 outputs here.",
+      "descriptionHtml": "\u003cdiv\u003eUpload your Assignment 2 outputs here.\u003c/div\u003e",
+      "dueTime": "2021-10-29T16:00:00Z",
+      "maxPoints": 50.0,
+      "workType": "ASSIGNMENT",
+      "submissions": [{
+        "student": {
+          "profile": {
+            "name": {
+              "fullName": "REFINO KASHI KYLE ESTUDILLO"
+            },
+            "emailAddress": "rgestudillo@up.edu.ph"
+          }
+        },
+        "gradeCalculationOption": "GRADED",
+        "state": "TURNED_IN",
+        "assignmentSubmission": {
+          "attachments": [{
+            "driveFile": {
+              "id": "1UjFjeOAtcN4g_bnip_eDqh-LubDjxawv",
+              "title": "Estudillo.pdf",
+              "alternateLink": "https://drive.google.com/file/d/1UjFjeOAtcN4g_bnip_eDqh-LubDjxawv/view?usp\u003ddrive_web",
+              "thumbnailUrl": "https://lh3.googleusercontent.com/drive-storage/AJQWtBOL2Zi3no-Py-PuxzwC_MsiGbh1lO9FYY2HSmSH9RxS9yDsTb7f1k-31B4hLHalAp7Ax-Mwl6nKuG4whrDkl0UwfPBWgbuGHUMijiGwVr8p0tc\u003ds200"
+            }
+          }]
+        }
+      }]
+    }
+  }, {
+    "creator": {
+      "name": {
+        "fullName": "Jun Francis Maldo"
+      }
+    },
+    "creationTime": "2021-10-21T19:00:53.838Z",
+    "updateTime": "2021-10-22T00:03:29.469Z",
+    "scheduledTime": "2021-10-22T00:00:00Z",
+    "publicationTime": "2021-10-22T00:03:28.767Z",
+    "state": "PUBLISHED",
+    "topics": [{
+      "name": "Derivatives"
+    }],
+    "materials": [{
+      "driveFile": {
+        "driveFile": {
+          "id": "1z30r7tNVISo5WlnFvzbqiaPHb-S4FFHX",
+          "title": "MATH_53_Quiz_6_for_Section_A.pdf",
+          "alternateLink": "https://drive.google.com/file/d/1z30r7tNVISo5WlnFvzbqiaPHb-S4FFHX/view?usp\u003ddrive_web",
+          "thumbnailUrl": "https://lh3.googleusercontent.com/drive-storage/AJQWtBP3wDUtZNKqWGo8qvmYxdz596_iySloEOZogVnrA5k-kQlXsf3PvxbhEeCTo0SzM5G2CG4eBD6-wiTzp4S7_oYLgbLLqaMYd8t96jI_f-OANXI\u003ds200"
+        },
+        "shareMode": "VIEW"
+      }
+    }],
+    "courseWork": {
+      "title": "MATH 53 Quiz 6",
+      "description": "Attached is your 6th Quiz in Math 53. \n\nProvide each item with a step-by-step solution/proof. Scan/Take pictures of your answer sheets. Submit/Upload them as JPEG or PNG files.\n\nGood Luck and God Bless!",
+      "descriptionHtml": "\u003cdiv\u003eAttached is your 6th Quiz in Math 53. \u003cbr\u003e\u003cbr\u003eProvide each item with a step-by-step solution/proof. Scan/Take pictures of your answer sheets. Submit/Upload them as JPEG or PNG files.\u003cbr\u003e\u003cbr\u003eGood Luck and God Bless!\u003c/div\u003e",
+      "dueTime": "2021-10-22T16:00:00Z",
+      "maxPoints": 16.0,
+      "workType": "ASSIGNMENT",
+      "submissions": [{
+        "student": {
+          "profile": {
+            "name": {
+              "fullName": "REFINO KASHI KYLE ESTUDILLO"
+            },
+            "emailAddress": "rgestudillo@up.edu.ph"
+          }
+        },
+        "gradeCalculationOption": "GRADED",
+        "state": "TURNED_IN",
+        "assignmentSubmission": {
+          "attachments": [{
+            "driveFile": {
+              "id": "1ooAfCjXEiOaB0Mt3Z7mATWzefYPsmpYZ",
+              "title": "Estudillo_Quiz6.pdf",
+              "alternateLink": "https://drive.google.com/file/d/1ooAfCjXEiOaB0Mt3Z7mATWzefYPsmpYZ/view?usp\u003ddrive_web",
+              "thumbnailUrl": "https://lh3.googleusercontent.com/drive-storage/AJQWtBNIbkuLxeHCzVNBpVYAU3PXIoeIF1yJOAPKlyBDk58BceevdOhOKF8HqIrqb-8q5Ej9hJTJDOFTokIScfN-zR8Mt70ZzyLXLEjApJgc_naAwz8\u003ds200"
+            }
+          }]
+        }
+      }]
+    }
+  }, {
+    "creator": {
+      "name": {
+        "fullName": "Jun Francis Maldo"
+      }
+    },
+    "creationTime": "2021-10-14T23:16:39.577Z",
+    "updateTime": "2021-10-14T23:18:57.018Z",
+    "publicationTime": "2021-10-14T23:18:56.756Z",
+    "state": "PUBLISHED",
+    "topics": [{
+      "name": "Limits"
+    }],
+    "materials": [{
+      "driveFile": {
+        "driveFile": {
+          "id": "1yTmFqg_JbF9obar0t3zxAlS6x4wR9req",
+          "title": "MATH_53_Quiz_5.pdf",
+          "alternateLink": "https://drive.google.com/file/d/1yTmFqg_JbF9obar0t3zxAlS6x4wR9req/view?usp\u003ddrive_web",
+          "thumbnailUrl": "https://lh3.googleusercontent.com/drive-storage/AJQWtBM7uwXIMbSrxlaQFJx-nQ_l-PxqXMFZtwusLtnTSRv9TiH4pUNPxBH4XJaFPdU8mjGfAk1m7G_TrlqTCGalCkMznjb1PGeRkUBs0N5CI603Ucw\u003ds200"
+        },
+        "shareMode": "VIEW"
+      }
+    }],
+    "courseWork": {
+      "title": "MATH 53 Quiz 5",
+      "description": "Attached is your 5th Quiz in Math 53. \n\nProvide each item with a step-by-step solution/proof. Scan/Take pictures of your answer sheets. Submit/Upload them as JPEG or PNG files.\n\nGood Luck and God Bless!",
+      "descriptionHtml": "\u003cdiv\u003eAttached is your 5th Quiz in Math 53. \u003cbr\u003e\u003cbr\u003eProvide each item with a step-by-step solution/proof. Scan/Take pictures of your answer sheets. Submit/Upload them as JPEG or PNG files.\u003cbr\u003e\u003cbr\u003eGood Luck and God Bless!\u003c/div\u003e",
+      "dueTime": "2021-10-15T16:00:00Z",
+      "maxPoints": 16.0,
+      "workType": "ASSIGNMENT",
+      "submissions": [{
+        "student": {
+          "profile": {
+            "name": {
+              "fullName": "REFINO KASHI KYLE ESTUDILLO"
+            },
+            "emailAddress": "rgestudillo@up.edu.ph"
+          }
+        },
+        "gradeCalculationOption": "GRADED",
+        "state": "TURNED_IN",
+        "assignmentSubmission": {
+          "attachments": [{
+            "driveFile": {
+              "id": "14JUilfpkMJr5TyL4pD1FEyG9rFb9NopY",
+              "title": "CamScanner 10-15-2021 23.41.pdf",
+              "alternateLink": "https://drive.google.com/file/d/14JUilfpkMJr5TyL4pD1FEyG9rFb9NopY/view?usp\u003ddrive_web",
+              "thumbnailUrl": "https://lh3.googleusercontent.com/drive-storage/AJQWtBOmS8g3vtQy5LTHyVQBOz19j9FlAA1ZQwqY7zTz0ai0EXzEBLEh5WYkrPlbGU8gAE8J7z9R2oyFsjjwdpFvbj3wuxmV-ssRCCGsvtzqBuHvkxU\u003ds200"
+            }
+          }]
+        }
+      }]
+    }
+  }, {
+    "creator": {
+      "name": {
+        "fullName": "Jun Francis Maldo"
+      }
+    },
+    "creationTime": "2021-10-07T17:59:03.331Z",
+    "updateTime": "2021-10-08T00:04:05.118Z",
+    "scheduledTime": "2021-10-08T00:00:00Z",
+    "publicationTime": "2021-10-08T00:04:04.958Z",
+    "state": "PUBLISHED",
+    "topics": [{
+      "name": "Limits"
+    }],
+    "materials": [{
+      "driveFile": {
+        "driveFile": {
+          "id": "11YKt7oXgVoFRBBeeNRs00TnuyNRgjQSy",
+          "title": "MATH_53_Quiz_4.pdf",
+          "alternateLink": "https://drive.google.com/file/d/11YKt7oXgVoFRBBeeNRs00TnuyNRgjQSy/view?usp\u003ddrive_web",
+          "thumbnailUrl": "https://lh3.googleusercontent.com/drive-storage/AJQWtBPocNnyltGNeQ8F4Qv9ZxO5O9HnPQ5CV6kF0x_y0oHF8M6u7Re-nGa_eASra7SlyHjTGHpA5tbUVdWZ0KqVSEKcuKeayADNPhnAJTCFhydrxxM\u003ds200"
+        },
+        "shareMode": "VIEW"
+      }
+    }],
+    "courseWork": {
+      "title": "MATH 53 Quiz 4",
+      "description": "Attached is your 4th Quiz in Math 53. \n\nProvide each item with a step-by-step solution. Scan/Take pictures of your answer sheets. Submit/Upload them as PDF files.\n\nGood Luck and God Bless!",
+      "descriptionHtml": "\u003cdiv\u003eAttached is your 4th Quiz in Math 53. \u003cbr\u003e\u003cbr\u003eProvide each item with a step-by-step solution. Scan/Take pictures of your answer sheets. Submit/Upload them as PDF files.\u003cbr\u003e\u003cbr\u003eGood Luck and God Bless!\u003c/div\u003e",
+      "dueTime": "2021-10-08T16:00:00Z",
+      "maxPoints": 20.0,
+      "workType": "ASSIGNMENT",
+      "submissions": [{
+        "student": {
+          "profile": {
+            "name": {
+              "fullName": "REFINO KASHI KYLE ESTUDILLO"
+            },
+            "emailAddress": "rgestudillo@up.edu.ph"
+          }
+        },
+        "gradeCalculationOption": "GRADED",
+        "state": "TURNED_IN",
+        "assignmentSubmission": {
+          "attachments": [{
+            "driveFile": {
+              "id": "1nFYdg3HkV0iG5cftl5501ccKxOIg75IY",
+              "title": "CamScanner 10-08-2021 23.47.pdf",
+              "alternateLink": "https://drive.google.com/file/d/1nFYdg3HkV0iG5cftl5501ccKxOIg75IY/view?usp\u003ddrive_web",
+              "thumbnailUrl": "https://lh3.googleusercontent.com/drive-storage/AJQWtBMtA0tjGQ51_wz86X84UejowHosm_vJBQK_skNwhkYvKuwg13LTbjhHNN1R1TV_7yn6jkukpsvSx-HXBfAPeV-sENBJUzlVjQnDlBqB0GUSZww\u003ds200"
+            }
+          }]
+        },
+        "comments": [{
+          "creator": {
+            "name": {
+              "fullName": "REFINO KASHI KYLE ESTUDILLO"
+            },
+            "emailAddress": "rgestudillo@up.edu.ph"
+          },
+          "creationTime": "2021-10-08T16:05:01.920Z",
+          "updateTime": "2021-10-08T16:05:01.736Z",
+          "comment": "Good evening sir, I passed earlier sir but I realized at 11:59 PM that I forgot to turn in my answers. I was only late for 1 minute sir, I am very sorry.",
+          "commentHtml": "\u003cdiv\u003eGood evening sir, I passed earlier sir but I realized at 11:59 PM that I forgot to turn in my answers. I was only late for 1 minute sir, I am very sorry.\u003c/div\u003e",
+          "state": "PUBLISHED",
+          "commentVisibility": "PRIVATE"
+        }, {
+          "creator": {
+            "name": {
+              "fullName": "Jun Francis Maldo"
+            }
+          },
+          "creationTime": "2021-10-09T06:29:15.097Z",
+          "updateTime": "2021-10-09T06:29:14.938Z",
+          "comment": "It\u0027s okay, Refino.",
+          "commentHtml": "\u003cdiv\u003eIt\u0026#39;s okay, Refino.\u003c/div\u003e",
+          "state": "PUBLISHED",
+          "commentVisibility": "PRIVATE"
+        }]
+      }]
+    }
+  }, {
+    "creator": {
+      "name": {
+        "fullName": "Jun Francis Maldo"
+      }
+    },
+    "creationTime": "2021-09-30T18:41:10.587Z",
+    "updateTime": "2021-10-01T00:04:16.121Z",
+    "scheduledTime": "2021-10-01T00:00:00Z",
+    "publicationTime": "2021-10-01T00:04:16.080Z",
+    "state": "PUBLISHED",
+    "topics": [{
+      "name": "Limits"
+    }],
+    "materials": [{
+      "driveFile": {
+        "driveFile": {
+          "id": "1ZOxDR1iJ-KLTUdc38VPQzHBFd4UOd0BW",
+          "title": "MATH 53 _ Quiz 3.pdf",
+          "alternateLink": "https://drive.google.com/file/d/1ZOxDR1iJ-KLTUdc38VPQzHBFd4UOd0BW/view?usp\u003ddrive_web",
+          "thumbnailUrl": "https://lh3.googleusercontent.com/drive-storage/AJQWtBOZjAAv7ZcEzPjJjHz2YV_vHG7XqPq8r--4MVuJ5EONMiqfhjI48usYnN8YtkWb_HTXIhTCHdFSa9JJQoX0-N-hBdURVx7XE9SEsGRVtK5dwWE\u003ds200"
+        },
+        "shareMode": "VIEW"
+      }
+    }],
+    "courseWork": {
+      "title": "MATH 53 Quiz 3",
+      "description": "Good day!\n\nAttached is your 3rd QUIZ in MATH 53. Evaluate each limit. Show ALL solutions.\n\nIn #4, [A] denotes the greatest integer function value at A.\n\nScan/Take pictures of your work. Upload your work as PDF.\n\nLate submissions will no longer be accepted.\n\nGod bless!",
+      "descriptionHtml": "\u003cdiv\u003eGood day!\u003cbr\u003e\u003cbr\u003eAttached is your 3rd QUIZ in MATH 53. Evaluate each limit. Show ALL solutions.\u003cbr\u003e\u003cbr\u003eIn #4, [A] denotes the greatest integer function value at A.\u003cbr\u003e\u003cbr\u003eScan/Take pictures of your work. Upload your work as PDF.\u003cbr\u003e\u003cbr\u003eLate submissions will no longer be accepted.\u003cbr\u003e\u003cbr\u003eGod bless!\u003c/div\u003e",
+      "dueTime": "2021-10-01T16:00:00Z",
+      "maxPoints": 20.0,
+      "workType": "ASSIGNMENT",
+      "submissions": [{
+        "student": {
+          "profile": {
+            "name": {
+              "fullName": "REFINO KASHI KYLE ESTUDILLO"
+            },
+            "emailAddress": "rgestudillo@up.edu.ph"
+          }
+        },
+        "gradeCalculationOption": "GRADED",
+        "state": "TURNED_IN",
+        "assignmentSubmission": {
+          "attachments": [{
+            "driveFile": {
+              "id": "1xsJV3T8lqiKSE28GIQZ7gIpjowB2L7HK",
+              "title": "Estudillo-Quiz-3.pdf",
+              "alternateLink": "https://drive.google.com/file/d/1xsJV3T8lqiKSE28GIQZ7gIpjowB2L7HK/view?usp\u003ddrive_web",
+              "thumbnailUrl": "https://lh3.googleusercontent.com/drive-storage/AJQWtBMHgvh9lgmYuSv0XS-qRl5YtXTZ9RHCZFRlPjy_1irjNpINdd-7Xi30dcA4qf89Q7khpPS3K7yQj0rTuXBGJ8fhyQivVaYBJxpEAvjJfeaPg7M\u003ds200"
+            }
+          }]
+        }
+      }]
+    }
+  }, {
+    "creator": {
+      "name": {
+        "fullName": "Jun Francis Maldo"
+      }
+    },
+    "creationTime": "2021-09-23T23:31:19.664Z",
+    "updateTime": "2021-09-24T01:23:11.786Z",
+    "publicationTime": "2021-09-23T23:33:55.944Z",
+    "state": "PUBLISHED",
+    "topics": [{
+      "name": "Review on Functions"
+    }],
+    "materials": [{
+      "driveFile": {
+        "driveFile": {
+          "id": "1WSWCBjqyK9QsvJA5EnqMlMvPjySVlQy0",
+          "title": "MATH 53 _ Quiz 2.pdf",
+          "alternateLink": "https://drive.google.com/file/d/1WSWCBjqyK9QsvJA5EnqMlMvPjySVlQy0/view?usp\u003ddrive_web",
+          "thumbnailUrl": "https://lh3.googleusercontent.com/drive-storage/AJQWtBNUuyFOXLsLRhGZBv_b4Id0e3fFOJjYxpI1__nUdHIB_pdsXy4QjTeqA61V2jbkcdgZx44cBatnT9gzIjSWKlc3JLY0h1dYRFWfDO5DkFjQ0ds\u003ds200"
+        },
+        "shareMode": "VIEW"
+      }
+    }],
+    "courseWork": {
+      "title": "MATH 53 Quiz 2",
+      "description": "Scan/Take pictures of your work. Upload your work as PDF. Note: NO SOLUTIONS, NO CREDITS!\n\n\nThe brackets in  #1 signify the greatest integer function while in #4 signify grouping symbols.\n",
+      "descriptionHtml": "\u003cdiv\u003eScan/Take pictures of your work. Upload your work as PDF. Note: NO SOLUTIONS, NO CREDITS!\u003cbr\u003e\u003cbr\u003e\u003cbr\u003eThe brackets in  #1 signify the greatest integer function while in #4 signify grouping symbols.\u003c/div\u003e",
+      "dueTime": "2021-09-24T16:00:00Z",
+      "maxPoints": 24.0,
+      "workType": "ASSIGNMENT",
+      "submissions": [{
+        "student": {
+          "profile": {
+            "name": {
+              "fullName": "REFINO KASHI KYLE ESTUDILLO"
+            },
+            "emailAddress": "rgestudillo@up.edu.ph"
+          }
+        },
+        "gradeCalculationOption": "GRADED",
+        "state": "TURNED_IN",
+        "assignmentSubmission": {
+          "attachments": [{
+            "driveFile": {
+              "id": "19knlA6s8xeveZTbN3-LskvCxmgJOfToG",
+              "title": "Estudillo-Math53_Quiz2.pdf",
+              "alternateLink": "https://drive.google.com/file/d/19knlA6s8xeveZTbN3-LskvCxmgJOfToG/view?usp\u003ddrive_web",
+              "thumbnailUrl": "https://lh3.googleusercontent.com/drive-storage/AJQWtBMn0KwDcSRBR2EhFQCZL45D9WMPwNPvNtNqNS-s-KZIa1-x5jilDN7nzNjZnEKkReS_lVMf82EGSDIIJPSAVEvkt9SLHscJyMh6sRxV2hgVFVo\u003ds200"
+            }
+          }]
+        },
+        "comments": [{
+          "creator": {
+            "name": {
+              "fullName": "REFINO KASHI KYLE ESTUDILLO"
+            },
+            "emailAddress": "rgestudillo@up.edu.ph"
+          },
+          "creationTime": "2021-09-24T14:53:20.522Z",
+          "updateTime": "2021-09-24T14:53:20.391Z",
+          "comment": "Good evening sir, sorry for the low quality pictures sir, I took the picture using an old android phone.",
+          "commentHtml": "\u003cdiv\u003eGood evening sir, sorry for the low quality pictures sir, I took the picture using an old android phone.\u003c/div\u003e",
+          "state": "PUBLISHED",
+          "commentVisibility": "PRIVATE"
+        }, {
+          "creator": {
+            "name": {
+              "fullName": "Jun Francis Maldo"
+            }
+          },
+          "creationTime": "2021-09-24T15:10:38.071Z",
+          "updateTime": "2021-09-24T15:10:37.047Z",
+          "comment": "Okay lang. I can still see the solutions.",
+          "commentHtml": "\u003cdiv\u003eOkay lang. I can still see the solutions.\u003c/div\u003e",
+          "state": "PUBLISHED",
+          "commentVisibility": "PRIVATE"
+        }]
+      }]
+    }
+  }, {
+    "creator": {
+      "name": {
+        "fullName": "Jun Francis Maldo"
+      }
+    },
+    "creationTime": "2021-09-21T17:34:14.498Z",
+    "updateTime": "2021-09-24T01:37:49.336Z",
+    "publicationTime": "2021-09-21T17:34:54.321Z",
+    "state": "PUBLISHED",
+    "topics": [{
+      "name": "Review on Functions"
+    }],
+    "courseWork": {
+      "title": "ASSIGNMENT 1",
+      "description": "Upload your work here. Please convert your file type to pdf before uploading.",
+      "descriptionHtml": "\u003cdiv\u003eUpload your work here. Please convert your file type to pdf before uploading.\u003c/div\u003e",
+      "dueTime": "2021-09-29T16:00:00Z",
+      "maxPoints": 50.0,
+      "workType": "ASSIGNMENT",
+      "submissions": [{
+        "student": {
+          "profile": {
+            "name": {
+              "fullName": "REFINO KASHI KYLE ESTUDILLO"
+            },
+            "emailAddress": "rgestudillo@up.edu.ph"
+          }
+        },
+        "gradeCalculationOption": "GRADED",
+        "state": "TURNED_IN",
+        "assignmentSubmission": {
+          "attachments": [{
+            "driveFile": {
+              "id": "1oaaWTwcmrd2opU1OpgAtVOg-X3lRwFdw",
+              "title": "Estudillo-Assignment-1.pdf",
+              "alternateLink": "https://drive.google.com/file/d/1oaaWTwcmrd2opU1OpgAtVOg-X3lRwFdw/view?usp\u003ddrive_web",
+              "thumbnailUrl": "https://lh3.googleusercontent.com/drive-storage/AJQWtBMu_m6eYAqK2Mym8rlzERTfHcl_gPrNWFOI_uV56vo8t6fFpbEHCaKoK7pfP3Ei51MbY8qkgx3j4VYVW4Ot6UH7BgZPU0pmeVkcuyUAekF-TD0\u003ds200"
+            }
+          }]
+        },
+        "comments": [{
+          "creator": {
+            "name": {
+              "fullName": "REFINO KASHI KYLE ESTUDILLO"
+            },
+            "emailAddress": "rgestudillo@up.edu.ph"
+          },
+          "creationTime": "2021-09-30T15:12:40.309Z",
+          "updateTime": "2021-09-30T15:12:40.196Z",
+          "comment": "Good evening sir. I am very sorry for submitting my assignment late, I was out yesterday and today because I was getting documents and signature  for my DOST Scholarship  (my father is in Cebu City and I am living alone in Liloan). After I got home sir I was very exhausted and forgot to submit my assignment. Thank you and have a good night sir.",
+          "commentHtml": "\u003cdiv\u003eGood evening sir. I am very sorry for submitting my assignment late, I was out yesterday and today because I was getting documents and signature  for my DOST Scholarship  (my father is in Cebu City and I am living alone in Liloan). After I got home sir I was very exhausted and forgot to submit my assignment. Thank you and have a good night sir.\u003c/div\u003e",
+          "state": "PUBLISHED",
+          "commentVisibility": "PRIVATE"
+        }]
+      }]
+    }
+  }, {
+    "creator": {
+      "name": {
+        "fullName": "Jun Francis Maldo"
+      }
+    },
+    "creationTime": "2021-09-16T22:44:08.387Z",
+    "updateTime": "2021-09-17T00:03:15.156Z",
+    "scheduledTime": "2021-09-17T00:00:00Z",
+    "publicationTime": "2021-09-17T00:03:14.927Z",
+    "state": "PUBLISHED",
+    "topics": [{
+      "name": "Review on Functions"
+    }],
+    "materials": [{
+      "form": {
+        "formUrl": "https://docs.google.com/forms/d/e/1FAIpQLSeFAYSYVDfUZkx-XAHRQY_GyRMyjAeaUBTLnwbcuO0yJo9MJw/viewform?hr_submission\u003dChkIr_CQ77wLEhAIpY-92sMLEgcIgK79zZELEAE",
+        "title": "MATH 53 Quiz 1",
+        "thumbnailUrl": "https://lh5.googleusercontent.com/kqkLPcZk4ceS1DLz3mMCuRSU60c7h5-6j5PMWtBrvYRhKigCb8mnEDrnXPf-63RjV-hr0lry7BA\u003dw90-h90-p"
+      }
+    }],
+    "courseWork": {
+      "title": "MATH 53 Quiz 1",
+      "description": "Answer the Google form attached here. This quiz is a warm-up to your future quizzes.",
+      "descriptionHtml": "\u003cdiv\u003eAnswer the Google form attached here. This quiz is a warm-up to your future quizzes.\u003c/div\u003e",
+      "dueTime": "2021-09-17T16:00:00Z",
+      "maxPoints": 2.0,
+      "workType": "ASSIGNMENT",
+      "submissions": [{
+        "student": {
+          "profile": {
+            "name": {
+              "fullName": "REFINO KASHI KYLE ESTUDILLO"
+            },
+            "emailAddress": "rgestudillo@up.edu.ph"
+          }
+        },
+        "gradeCalculationOption": "GRADED",
+        "state": "TURNED_IN",
+        "assignmentSubmission": {
+        }
+      }]
+    }
+  }]
+}

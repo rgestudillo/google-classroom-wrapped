@@ -1,0 +1,589 @@
+{
+  "version": 1,
+  "name": "CMSC 192A-1231",
+  "section": "Section A",
+  "description": "Lec A - Mon 4:30 - 5:30PM",
+  "room": "Undergraduate Building Rm 114",
+  "calendarUrl": "https://calendar.google.com/render?cid\u003dc_classroomd7ba9ac0@group.calendar.google.com",
+  "courseFolder": {
+    "id": "1KcewuOyxk7a3BcCK0lAT38QlBduNr_szrHNMdNXd8U7E3jH4tApIciTEdveNUJTsvITTvkxq",
+    "name": "CMSC 192A-1231 Section A",
+    "openUrl": "https://drive.google.com/drive/folders/1KcewuOyxk7a3BcCK0lAT38QlBduNr_szrHNMdNXd8U7E3jH4tApIciTEdveNUJTsvITTvkxq"
+  },
+  "photoUrl": "https://gstatic.com/classroom/themes/img_reachout.jpg",
+  "subject": "Ethical and Professional Issues in Computing",
+  "courseState": "ARCHIVED",
+  "gradeCategories": [{
+    "name": "Assignment"
+  }, {
+    "name": "Class Project"
+  }, {
+    "name": "Class Participation"
+  }],
+  "posts": [{
+    "creator": {
+      "name": {
+        "fullName": "Demelo Lao"
+      }
+    },
+    "creationTime": "2023-08-21T03:15:17.914Z",
+    "updateTime": "2023-11-13T09:30:03.367Z",
+    "scheduledTime": "2023-11-13T09:30:00Z",
+    "publicationTime": "2023-11-13T09:30:02.968Z",
+    "state": "PUBLISHED",
+    "topics": [{
+      "name": "Week 12 (13-17 November 2023)-Professional Ethics and Responsibilities"
+    }],
+    "materials": [{
+      "driveFile": {
+        "driveFile": {
+          "id": "1GwWKGbDd9ZHL0ofmfmeEnTN3iDTgJS7R",
+          "title": "ActivityGuide-Week12.pdf",
+          "alternateLink": "https://drive.google.com/file/d/1GwWKGbDd9ZHL0ofmfmeEnTN3iDTgJS7R/view?usp\u003ddrive_web",
+          "thumbnailUrl": "https://lh3.googleusercontent.com/drive-storage/AJQWtBOOl8w-rITXIzu458O7ujfCZjyqXSMFs1DJNY1LF_pptfdb-l1LUn4rh8Az-Zr9MfheM34wc0s9ncoVdp_c__5-pMuG5_QYYM6LvqCxO-ctH0c\u003ds200"
+        },
+        "shareMode": "VIEW"
+      }
+    }],
+    "courseWork": {
+      "title": "Class Project",
+      "description": "Organize your group of 3-4 students to accomplish the class project. Choose among your classmates. Post group membership in the comment section for the Class Project with an identified Team Leader in your respective groups.",
+      "descriptionHtml": "\u003cdiv\u003eOrganize your group of 3-4 students to accomplish the class project. Choose among your classmates. Post group membership in the comment section for the Class Project with an identified Team Leader in your respective groups.\u003c/div\u003e",
+      "dueTime": "2023-12-08T16:59:00Z",
+      "maxPoints": 100.0,
+      "gradeCategory": {
+        "name": "Class Project"
+      },
+      "workType": "ASSIGNMENT",
+      "rubric": {
+        "criterion": [{
+          "title": "Completeness",
+          "description": "all relevant tasks to the assignment have been accomplished",
+          "rating": [{
+            "points": 25.0
+          }]
+        }, {
+          "title": "Content",
+          "description": "all required responses are present",
+          "rating": [{
+            "points": 50.0
+          }]
+        }, {
+          "title": "Organization, Grammar, and Citation",
+          "description": "in chronological order, clear, concise, grammatically correct, and appropriately referenced",
+          "rating": [{
+            "points": 15.0
+          }]
+        }, {
+          "title": "Creativity",
+          "description": "shows creativity in presenting the responses",
+          "rating": [{
+            "points": 10.0
+          }]
+        }]
+      },
+      "submissions": [{
+        "student": {
+          "profile": {
+            "name": {
+              "fullName": "REFINO KASHI KYLE ESTUDILLO"
+            },
+            "emailAddress": "rgestudillo@up.edu.ph"
+          }
+        },
+        "assignedGrade": 85.0,
+        "gradeCalculationOption": "GRADED",
+        "state": "RETURNED",
+        "assignmentSubmission": {
+          "attachments": [{
+            "driveFile": {
+              "id": "1___s7Cbp-yz8RQiGqsbSXt1w-viYrwn4",
+              "title": "CMSC192-Project-Abrau_Canete_Estudillo.pdf",
+              "alternateLink": "https://drive.google.com/file/d/1___s7Cbp-yz8RQiGqsbSXt1w-viYrwn4/view?usp\u003ddrive_web",
+              "thumbnailUrl": "https://lh3.googleusercontent.com/drive-storage/AJQWtBMB1wW-uqG-gQWlUQelpVzVsli7e6G1-FU_CP1cmcvFWDqtNlEl3tYUlRMZ4wfJnsoX29La287ULrGk-tst9TB_mhrm_PXN69r5w_lvqfORkiw\u003ds200"
+            }
+          }]
+        },
+        "assignedRubricScore": {
+          "criterionScore": [{
+            "criterion": "Creativity",
+            "points": 10.0
+          }, {
+            "criterion": "Organization, Grammar, and Citation",
+            "points": 15.0
+          }, {
+            "criterion": "Completeness",
+            "points": 25.0
+          }, {
+            "criterion": "Content",
+            "points": 35.0
+          }]
+        }
+      }]
+    }
+  }, {
+    "creator": {
+      "name": {
+        "fullName": "Demelo Lao"
+      }
+    },
+    "creationTime": "2023-08-28T16:42:53.386Z",
+    "updateTime": "2023-10-30T09:32:38.476Z",
+    "scheduledTime": "2023-10-30T09:30:00Z",
+    "publicationTime": "2023-10-30T09:32:38.453Z",
+    "state": "PUBLISHED",
+    "topics": [{
+      "name": "Week 10-11 (30 October-10 November 2023)-AI Concerns"
+    }],
+    "courseWork": {
+      "title": "Discussion Forum - In the context of the use of ChatGPT and the likes among UP students in accomplishing their academic requirements, which of the 10 adopted UP principles for responsible AI you think address(es) this issue?",
+      "description": "Identify. If you believe that is not articulated in the 10, then suggest cum articulate. Justify.",
+      "descriptionHtml": "\u003cdiv\u003eIdentify. If you believe that is not articulated in the 10, then suggest \u003ci\u003ecum\u003c/i\u003e articulate. Justify.\u003c/div\u003e",
+      "dueTime": "2023-11-02T16:59:00Z",
+      "maxPoints": 100.0,
+      "gradeCategory": {
+        "name": "Class Participation"
+      },
+      "workType": "SHORT_ANSWER_QUESTION",
+      "submissions": [{
+        "student": {
+          "profile": {
+            "name": {
+              "fullName": "REFINO KASHI KYLE ESTUDILLO"
+            },
+            "emailAddress": "rgestudillo@up.edu.ph"
+          }
+        },
+        "assignedGrade": 95.0,
+        "gradeCalculationOption": "GRADED",
+        "state": "RETURNED",
+        "shortAnswerSubmission": {
+          "answer": "Hello everyone,\n\nI trust this message finds you all immersed in the vibrant intellectual pursuits that define our esteemed university. Today, I wish to address a matter of great importance and relevance to our academic community: the integration of AI tools such as ChatGPT in fulfilling our academic requirements.\n\nUpon reflecting on the \"University of the Philippines Principles for Responsible and Trustworthy Artificial Intelligence,\" particularly principles 1 through 10, I assert that Principle 7, \"Transparency,\" is the cornerstone for guiding our use of these advanced tools in an academic setting.\n\nTransparency is not merely a principle but a commitment to an open and honest academic environment. It ensures that when we, as students, utilize AI tools like ChatGPT, we do so with a clear understanding of how these systems operate and the outcomes they generate. This principle safeguards the essence of our learning, ensuring that the use of AI remains an aid to our intellectual growth rather than a substitute for it.\n\nWhy is transparency pivotal, you might ask? It is because it fosters an environment where the use of AI is not shrouded in secrecy but is openly discussed and critically examined. It compels us to acknowledge the use of AI in our work, thereby promoting an academic culture that values originality and critical thinking above all. When we are transparent about the role of AI in our academic endeavors, we are taking a stand for academic integrity and the value of our educational experiences.\n\nMoreover, transparency in the use of AI tools like ChatGPT aligns with our university\u0027s dedication to producing not only knowledgeable graduates but also ethical individuals who are prepared to contribute responsibly to the ever-evolving digital society.\n\nIn conclusion, as we navigate the complexities of integrating AI into our learning and research, let us champion transparency. Let us commit to using these tools in ways that enhance our understanding and contribute positively to our academic pursuits. I encourage all of us to engage in this dialogue, to share our insights, and to collaboratively forge a path forward that honors the spirit of our university\u0027s principles.\n\nI look forward to your thoughts and constructive discussions on this matter."
+        }
+      }]
+    }
+  }, {
+    "creator": {
+      "name": {
+        "fullName": "Demelo Lao"
+      }
+    },
+    "creationTime": "2023-08-21T03:15:17.850Z",
+    "updateTime": "2023-10-16T09:30:46.491Z",
+    "scheduledTime": "2023-10-16T09:30:00Z",
+    "publicationTime": "2023-10-16T09:30:46.449Z",
+    "state": "PUBLISHED",
+    "topics": [{
+      "name": "Week 8-9 (16-27 October 2023)-Privacy and Computer Technologies"
+    }],
+    "courseWork": {
+      "title": "Discussion Forum - Can a student invoke the Data Privacy Act of 2012 if he/she refuses to give a copy of his/her hardbound thesis manuscript to the department as required?",
+      "description": "Justify. If you borrow ideas in some parts of your post, then cite the source(s) appropriately.",
+      "descriptionHtml": "\u003cdiv\u003eJustify. If you borrow ideas in some parts of your post, then cite the source(s) appropriately.\u003c/div\u003e",
+      "dueTime": "2023-10-19T16:59:00Z",
+      "maxPoints": 100.0,
+      "gradeCategory": {
+        "name": "Class Participation"
+      },
+      "workType": "SHORT_ANSWER_QUESTION",
+      "submissions": [{
+        "student": {
+          "profile": {
+            "name": {
+              "fullName": "REFINO KASHI KYLE ESTUDILLO"
+            },
+            "emailAddress": "rgestudillo@up.edu.ph"
+          }
+        },
+        "assignedGrade": 70.0,
+        "gradeCalculationOption": "GRADED",
+        "state": "RETURNED",
+        "shortAnswerSubmission": {
+          "answer": "Hello everyone, I\u0027d like to warmly welcome you all to this engaging discussion forum. Today, we delve into a topic that resonates with us as computer science students: whether a student can rightfully invoke the Data Privacy Act of 2012 to refuse providing a copy of their hardbound thesis manuscript to the department.\n\nIn our ever-evolving digital age, data privacy has become a cornerstone of ethical and legal considerations. As budding computer scientists, we are well aware of the importance of safeguarding personal information and adhering to privacy principles in our research and projects. Thus, this topic holds particular relevance to our field.\n\nFrom my perspective, I lean towards the standpoint that students should have the prerogative to utilize the Data Privacy Act in situations like this. The act is essentially a shield that protects personal data, and considering that our thesis manuscripts may contain a wealth of personal and potentially sensitive information, it seems only fair that students maintain control over who can access their work.\n\nHowever, I am also aware that there may be differing opinions on this matter. Some might argue that academic requirements and the evaluation process are equally crucial. Refusing to provide a thesis manuscript could potentially hinder the department\u0027s ability to assess a student\u0027s work thoroughly and fairly.\n\nI am eager to hear your thoughts and insights on this matter. Do you believe that data privacy should take precedence in this context? Or do you lean towards the viewpoint that academic requirements should be prioritized? Perhaps there are innovative solutions that can strike a balance between these two aspects. Let\u0027s engage in a thoughtful and respectful discussion to explore these perspectives further.\n\n\n\n\n"
+        },
+        "comments": [{
+          "creator": {
+            "name": {
+              "fullName": "Jhoanna Rica Lagumbay"
+            },
+            "emailAddress": "jtlagumbay@up.edu.ph"
+          },
+          "creationTime": "2023-10-19T14:15:46.517Z",
+          "updateTime": "2023-10-19T14:15:46.517Z",
+          "comment": "If the student refuses to give the hardbound copy but still presents the paper to the panelists, do you think the student should receive a grade and pass the course despite not fulfilling the hardcopy requirement?",
+          "commentHtml": "\u003cdiv\u003eIf the student refuses to give the hardbound copy but still presents the paper to the panelists, do you think the student should receive a grade and pass the course despite not fulfilling the hardcopy requirement?\u003c/div\u003e",
+          "state": "PUBLISHED",
+          "commentVisibility": "COURSE"
+        }]
+      }]
+    }
+  }, {
+    "creator": {
+      "name": {
+        "fullName": "Demelo Lao"
+      }
+    },
+    "creationTime": "2023-08-21T03:15:17.784Z",
+    "updateTime": "2023-09-29T19:57:06.233Z",
+    "scheduledTime": "2023-09-25T09:30:00Z",
+    "publicationTime": "2023-09-25T09:32:39.796Z",
+    "state": "PUBLISHED",
+    "topics": [{
+      "name": "Week 6-7 (25 September-6 October 2023)-Aspects of Computer Crime"
+    }],
+    "courseWork": {
+      "title": "Discussion Forum - Do you think hiring former hackers to enhance security is a good idea or a bad one?",
+      "description": "Justify. If you borrow ideas in some parts of your post, then cite the source(s) appropriately.",
+      "descriptionHtml": "\u003cdiv\u003eJustify. If you borrow ideas in some parts of your post, then cite the source(s) appropriately.\u003c/div\u003e",
+      "dueTime": "2023-09-28T16:59:00Z",
+      "maxPoints": 100.0,
+      "gradeCategory": {
+        "name": "Class Participation"
+      },
+      "workType": "SHORT_ANSWER_QUESTION",
+      "submissions": [{
+        "student": {
+          "profile": {
+            "name": {
+              "fullName": "REFINO KASHI KYLE ESTUDILLO"
+            },
+            "emailAddress": "rgestudillo@up.edu.ph"
+          }
+        },
+        "assignedGrade": 60.0,
+        "gradeCalculationOption": "GRADED",
+        "state": "RETURNED",
+        "shortAnswerSubmission": {
+          "answer": "Greetings, esteemed forum members,\n\nToday\u0027s discussion topic is both timely and complex, touching on the ethical, legal, and practical dimensions of hacking and cybersecurity. I\u0027ll begin by addressing the preliminary questions before diving into the main topic of hiring former hackers.\n\nPreliminary Questions\n1.1. Is “Harmless Hacking” Harmless?\n\nThe term \"harmless hacking\" is, in my opinion, an oxymoron. Even if the intent is not malicious, unauthorized access to a system is a breach of privacy and security. It creates a precedent that could be exploited by others with less benign intentions. Therefore, I argue that there is no such thing as \"harmless hacking.\"\n\n1.2. Is Hacking That Does Not Cause Direct Damage a Victimless Crime?\n\nMuch like the ethical complexities we discussed in our previous conversation on intellectual property, hacking that does not cause direct damage is not necessarily victimless. The intrusion itself is a violation of privacy and can cause emotional or reputational harm, even if no tangible damage occurs.\n\n1.3. Who Are Referred to as “White Hat Hackers”?\n\nWhite hat hackers are cybersecurity professionals who use their skills to identify and fix security vulnerabilities. They operate within legal and ethical boundaries, often employed by organizations to strengthen their security measures. Think of them as the \"good guys\" in the hacking world, akin to inventors who use their intellectual property for societal benefit.\n\nMain Discussion Topic\nDo You Think Hiring Former Hackers to Enhance Security Is a Good Idea or a Bad One? Justify.\n\nI believe that hiring former hackers can be a beneficial strategy for enhancing cybersecurity, but it comes with caveats. These individuals offer unparalleled expertise in identifying system vulnerabilities, much like how a deep understanding of intellectual property laws can offer competitive advantages.  However, as we\u0027ve seen in our intellectual property discussion, ethical considerations are paramount. Can a former hacker be trusted to operate ethically? This is a question that must be addressed on a case-by-case basis. From a legal standpoint, stringent contractual agreements and due diligence are essential to mitigate risks, similar to how intellectual property contracts protect inventors and organizations.\n\nIn summary, while hiring former hackers poses ethical and legal risks, the potential benefits in enhanced security could outweigh these concerns if approached cautiously and responsibly.\n\nI look forward to your thoughts and counterarguments on this intricate issue."
+        }
+      }]
+    }
+  }, {
+    "creator": {
+      "name": {
+        "fullName": "Demelo Lao"
+      }
+    },
+    "creationTime": "2023-08-21T03:15:17.719Z",
+    "updateTime": "2023-09-20T01:37:38.468Z",
+    "scheduledTime": "2023-09-18T09:30:00Z",
+    "publicationTime": "2023-09-18T09:30:12.166Z",
+    "state": "PUBLISHED",
+    "topics": [{
+      "name": "Week 5 (18-22 September 2023)-Intellectual Property (IP)"
+    }],
+    "courseWork": {
+      "title": "Discussion Forum - Do you agree on the idea that someone can “own” intellectual property?",
+      "description": "If you borrow ideas in some parts of your post, then cite the source(s) appropriately.",
+      "descriptionHtml": "\u003cdiv\u003eIf you borrow ideas in some parts of your post, then cite the source(s) appropriately.\u003c/div\u003e",
+      "dueTime": "2023-09-22T15:59:00Z",
+      "maxPoints": 100.0,
+      "gradeCategory": {
+        "name": "Class Participation"
+      },
+      "workType": "SHORT_ANSWER_QUESTION",
+      "submissions": [{
+        "student": {
+          "profile": {
+            "name": {
+              "fullName": "REFINO KASHI KYLE ESTUDILLO"
+            },
+            "emailAddress": "rgestudillo@up.edu.ph"
+          }
+        },
+        "assignedGrade": 100.0,
+        "gradeCalculationOption": "GRADED",
+        "state": "RETURNED",
+        "shortAnswerSubmission": {
+          "answer": "Hello everyone,\n\nI\u0027d like to delve into the often contentious topic of intellectual property (IP) ownership. While the legal frameworks supporting IP rights are essential for fostering innovation and creativity, I believe we need to critically examine and perhaps rethink how we approach this concept.\n\nFirstly, let\u0027s acknowledge that legal protections like patents, copyrights, and trademarks are not inherently bad. They serve a crucial role in motivating individuals and companies to innovate. However, have we considered the long-term implications of these protections? Copyright terms, for instance, can last for decades beyond the creator\u0027s life. Is it fair to lock away cultural and scientific works for such extended periods? I argue that we need to recalibrate these durations to better serve the public interest while still rewarding creators.\n\nMoving on to the ethical and philosophical aspects, the notion of \"owning\" an idea or a sequence of words is, to me, a puzzling concept. Ideas are built on the collective knowledge of humanity. So, when we claim ownership of an idea, are we not, in some way, taking credit for a communal heritage? I urge everyone to consider the ethical implications of this. Could a more open approach, akin to the open-source software movement, be a middle ground?\n\nEconomically speaking, IP laws can create monopolies that disproportionately benefit large corporations at the expense of smaller entities and the general public. While the intent is to reward innovation, the actual outcome often concentrates power and resources, stifling competition. Is this the kind of innovation ecosystem we want?\n\nIn conclusion, while I recognize the necessity of IP laws, I advocate for a more balanced approach. We need to reassess the durations of legal protections, consider the ethical implications of \"owning\" intangible assets, and scrutinize the economic outcomes of our current systems. Only then can we create an IP landscape that truly serves both individual creators and the collective good.\n\nI look forward to hearing your thoughts on this matter."
+        },
+        "comments": [{
+          "creator": {
+            "name": {
+              "fullName": "Lizter Angelo Abrau"
+            },
+            "emailAddress": "lmabrau@up.edu.ph"
+          },
+          "creationTime": "2023-09-22T15:47:58.925Z",
+          "updateTime": "2023-09-22T15:47:58.925Z",
+          "comment": "Your points on intellectual property (IP) are thought-provoking, and I appreciate the nuanced approach you\u0027ve taken to discuss the legal, ethical, and economic aspects. I have a few questions and comments to further delve into your perspective.\n\nYou mentioned that copyright terms can last for decades beyond the creator\u0027s life, and you advocate for recalibrating these durations. Do you have specific suggestions on what an ideal timeframe would be? How would this balance between rewarding creators and serving the public interest look in practice?",
+          "commentHtml": "\u003cdiv\u003eYour points on intellectual property (IP) are thought-provoking, and I appreciate the nuanced approach you\u0026#39;ve taken to discuss the legal, ethical, and economic aspects. I have a few questions and comments to further delve into your perspective.\u003cbr\u003e\u003cbr\u003eYou mentioned that copyright terms can last for decades beyond the creator\u0026#39;s life, and you advocate for recalibrating these durations. Do you have specific suggestions on what an ideal timeframe would be? How would this balance between rewarding creators and serving the public interest look in practice?\u003c/div\u003e",
+          "state": "PUBLISHED",
+          "commentVisibility": "COURSE"
+        }, {
+          "creator": {
+            "name": {
+              "fullName": "REFINO KASHI KYLE ESTUDILLO"
+            },
+            "emailAddress": "rgestudillo@up.edu.ph"
+          },
+          "creationTime": "2023-09-22T15:51:21.546Z",
+          "updateTime": "2023-09-22T15:51:21.546Z",
+          "comment": "@lmabrau@up.edu.ph \n\nThank you for your thoughtful questions and comments. Let me address your inquiries regarding copyright terms and the balance between rewarding creators and serving the public interest.\nRegarding copyright durations, I believe there is no one-size-fits-all answer, as it can vary depending on the type of work and its societal impact. However, a potential starting point could be to reassess the current \"life of the creator plus 70 years\" standard. This extended duration might be suitable for certain industries like literature or music but may not be appropriate for rapidly evolving fields like technology. Perhaps we could adopt a tiered system, with shorter copyright terms for digital media and software, and longer terms for traditional works like books.\n\nIn practice, striking the balance between rewarding creators and serving the public interest could involve periodic reviews and adjustments to copyright terms based on an evaluation of the work\u0027s significance and the pace of innovation in the respective field. It would require a collaborative effort involving legal experts, creators, and the public to determine the optimal copyright duration for different types of intellectual property.\n\nUltimately, the goal is to ensure that intellectual property protections continue to incentivize innovation while preventing the stifling of creativity and access to knowledge. I welcome further discussion and ideas on how we can achieve this delicate equilibrium.",
+          "commentHtml": "\u003cdiv\u003e@lmabrau@up.edu.ph \u003cbr\u003e\u003cbr\u003eThank you for your thoughtful questions and comments. Let me address your inquiries regarding copyright terms and the balance between rewarding creators and serving the public interest.\u003cbr\u003eRegarding copyright durations, I believe there is no one-size-fits-all answer, as it can vary depending on the type of work and its societal impact. However, a potential starting point could be to reassess the current \u0026quot;life of the creator plus 70 years\u0026quot; standard. This extended duration might be suitable for certain industries like literature or music but may not be appropriate for rapidly evolving fields like technology. Perhaps we could adopt a tiered system, with shorter copyright terms for digital media and software, and longer terms for traditional works like books.\u003cbr\u003e\u003cbr\u003eIn practice, striking the balance between rewarding creators and serving the public interest could involve periodic reviews and adjustments to copyright terms based on an evaluation of the work\u0026#39;s significance and the pace of innovation in the respective field. It would require a collaborative effort involving legal experts, creators, and the public to determine the optimal copyright duration for different types of intellectual property.\u003cbr\u003e\u003cbr\u003eUltimately, the goal is to ensure that intellectual property protections continue to incentivize innovation while preventing the stifling of creativity and access to knowledge. I welcome further discussion and ideas on how we can achieve this delicate equilibrium.\u003c/div\u003e",
+          "state": "PUBLISHED",
+          "commentVisibility": "COURSE"
+        }, {
+          "creator": {
+            "name": {
+              "fullName": "Kenz Jehu Barina"
+            },
+            "emailAddress": "kcbarina@up.edu.ph"
+          },
+          "creationTime": "2023-09-22T16:07:27.609Z",
+          "updateTime": "2023-09-22T16:07:27.609Z",
+          "comment": "In your argument against extended copyright terms, you mention that copyright terms can last for decades beyond the creator\u0027s life. While this is true in some cases, do you think it\u0027s fair to generalize this point without considering the nuances of different types of IP, such as patents, trademarks, and copyrights, which have varying durations and purposes? How might these differences impact the overall discussion about IP ownership and its implications?",
+          "commentHtml": "\u003cdiv\u003eIn your argument against extended copyright terms, you mention that copyright terms can last for decades beyond the creator\u0026#39;s life. While this is true in some cases, do you think it\u0026#39;s fair to generalize this point without considering the nuances of different types of IP, such as patents, trademarks, and copyrights, which have varying durations and purposes? How might these differences impact the overall discussion about IP ownership and its implications?\u003c/div\u003e",
+          "state": "PUBLISHED",
+          "commentVisibility": "COURSE"
+        }, {
+          "creator": {
+            "name": {
+              "fullName": "REFINO KASHI KYLE ESTUDILLO"
+            },
+            "emailAddress": "rgestudillo@up.edu.ph"
+          },
+          "creationTime": "2023-09-22T16:31:39.704Z",
+          "updateTime": "2023-09-22T16:31:39.704Z",
+          "comment": "I appreciate your thoughtful question and the opportunity to clarify my perspective. You\u0027re absolutely correct in pointing out the nuances among different types of intellectual property (IP), each with its distinct purposes and durations. It\u0027s essential to consider these differences when discussing IP ownership and its implications.\n\nIndeed, copyrights, patents, and trademarks serve unique roles in protecting various forms of creative and innovative work. Copyrights, as I mentioned, can indeed last for decades, which can be particularly problematic for works of cultural and scientific significance. However, I acknowledge that patents and trademarks often have shorter durations, designed to encourage innovation and protect brands, respectively.\n\nConsidering these nuances, it\u0027s vital to approach the discussion of IP ownership with a level of granularity that accounts for these differences. While shorter durations for patents and trademarks might be more aligned with their intended purposes, we should still scrutinize whether those purposes are being achieved effectively. Are patents genuinely encouraging innovation, or do they sometimes lead to patent wars and hinder progress?\n\nUltimately, my overarching point remains: We need to continually reassess the durations and implications of all forms of IP ownership to ensure they strike the right balance between rewarding creators and serving the greater public interest. Thank you for bringing up this important aspect of the conversation.",
+          "commentHtml": "\u003cdiv\u003eI appreciate your thoughtful question and the opportunity to clarify my perspective. You\u0026#39;re absolutely correct in pointing out the nuances among different types of intellectual property (IP), each with its distinct purposes and durations. It\u0026#39;s essential to consider these differences when discussing IP ownership and its implications.\u003cbr\u003e\u003cbr\u003eIndeed, copyrights, patents, and trademarks serve unique roles in protecting various forms of creative and innovative work. Copyrights, as I mentioned, can indeed last for decades, which can be particularly problematic for works of cultural and scientific significance. However, I acknowledge that patents and trademarks often have shorter durations, designed to encourage innovation and protect brands, respectively.\u003cbr\u003e\u003cbr\u003eConsidering these nuances, it\u0026#39;s vital to approach the discussion of IP ownership with a level of granularity that accounts for these differences. While shorter durations for patents and trademarks might be more aligned with their intended purposes, we should still scrutinize whether those purposes are being achieved effectively. Are patents genuinely encouraging innovation, or do they sometimes lead to patent wars and hinder progress?\u003cbr\u003e\u003cbr\u003eUltimately, my overarching point remains: We need to continually reassess the durations and implications of all forms of IP ownership to ensure they strike the right balance between rewarding creators and serving the greater public interest. Thank you for bringing up this important aspect of the conversation.\u003c/div\u003e",
+          "state": "PUBLISHED",
+          "commentVisibility": "COURSE"
+        }]
+      }]
+    }
+  }, {
+    "creator": {
+      "name": {
+        "fullName": "Demelo Lao"
+      }
+    },
+    "creationTime": "2023-08-21T03:15:17.567Z",
+    "updateTime": "2023-09-09T17:53:13.363Z",
+    "publicationTime": "2023-09-04T08:58:13.782Z",
+    "state": "PUBLISHED",
+    "topics": [{
+      "name": "Week 3-4 (4-15 September 2023)-Review of Ethical Theories"
+    }],
+    "materials": [{
+      "driveFile": {
+        "driveFile": {
+          "id": "1nkl4Mqa6xPKQ_y05ZVFjWHKLPJXINs9I",
+          "title": "AssignmentGuide-1Rev2.pdf",
+          "alternateLink": "https://drive.google.com/file/d/1nkl4Mqa6xPKQ_y05ZVFjWHKLPJXINs9I/view?usp\u003ddrive_web",
+          "thumbnailUrl": "https://lh3.googleusercontent.com/drive-storage/AJQWtBOKBnXoLjWoqQWtW49SUy3O7Ra4IN71eUSTkNQiN4NoyyalLMODttbQ8cwzt1jEvY5Pl5sHGqOlCucJAriR08m5xMclVcUI0_b_iC47jehNdi4\u003ds200"
+        },
+        "shareMode": "VIEW"
+      }
+    }],
+    "courseWork": {
+      "title": "Assignment 1 - Applying Ethical Theories",
+      "description": "Accomplish with a partner (i.e. pair learning). Choose among your classmates. Each partner should contribute - collaborate and discuss.",
+      "descriptionHtml": "\u003cdiv\u003eAccomplish with a partner (i.e. pair learning). Choose among your classmates. Each partner should contribute - collaborate and discuss.\u003c/div\u003e",
+      "dueTime": "2023-09-22T15:59:00Z",
+      "maxPoints": 100.0,
+      "gradeCategory": {
+        "name": "Assignment"
+      },
+      "workType": "ASSIGNMENT",
+      "rubric": {
+        "criterion": [{
+          "title": "Completeness",
+          "description": "all relevant tasks to the assignment have been accomplished",
+          "rating": [{
+            "points": 25.0
+          }]
+        }, {
+          "title": "Content",
+          "description": "all required responses are present",
+          "rating": [{
+            "points": 50.0
+          }]
+        }, {
+          "title": "Organization, Grammar, and Citation",
+          "description": "in chronological order, clear, concise, grammatically correct, and appropriately referenced",
+          "rating": [{
+            "points": 15.0
+          }]
+        }, {
+          "title": "Creativity",
+          "description": "shows creativity in presenting the responses",
+          "rating": [{
+            "points": 10.0
+          }]
+        }]
+      },
+      "submissions": [{
+        "student": {
+          "profile": {
+            "name": {
+              "fullName": "REFINO KASHI KYLE ESTUDILLO"
+            },
+            "emailAddress": "rgestudillo@up.edu.ph"
+          }
+        },
+        "assignedGrade": 92.0,
+        "gradeCalculationOption": "GRADED",
+        "state": "RETURNED",
+        "assignmentSubmission": {
+          "attachments": [{
+            "driveFile": {
+              "id": "1tD3FBeu-DJ6nfsj6V_RHS9NFVA6Je3Kd",
+              "title": "Assignment 1-Abrau_Estudillo.pdf",
+              "alternateLink": "https://drive.google.com/file/d/1tD3FBeu-DJ6nfsj6V_RHS9NFVA6Je3Kd/view?usp\u003ddrive_web",
+              "thumbnailUrl": "https://lh3.googleusercontent.com/drive-storage/AJQWtBPq0HOuC8v5qGcPTo79v0QeaEAqNmJ32EdoXnPvIiiF03bWH3Pc6Z-PFXAzgvIGMKCmvpRkltd5YZPAM7LEZNyc1jwOMDWVrVagv7K617O6V0A\u003ds200"
+            }
+          }, {
+            "driveFile": {
+              "id": "1_310nt2HvvsaGHASedo85nB9FdgYN07lJ8EOk-VEDq8",
+              "title": "Assignment1-Estudillo_Abrau",
+              "alternateLink": "https://docs.google.com/document/d/1_310nt2HvvsaGHASedo85nB9FdgYN07lJ8EOk-VEDq8/edit?usp\u003ddrive_web",
+              "thumbnailUrl": "https://lh3.google.com/drive-storage/AJQWtBNs2T_6uZF7DyjoIlEp2x0WiHsdp2hvbPEW3LDxHuzuSNx_W5agB0QvYWycPRKczjWuovKe-X5emWhmfhR8fp-9_cWGabBAEE34wribiJhKiemRxQtEjWPEtPxwJ42PLNbjlio\u003ds200"
+            }
+          }]
+        },
+        "assignedRubricScore": {
+          "criterionScore": [{
+            "criterion": "Completeness",
+            "points": 22.0
+          }, {
+            "criterion": "Content",
+            "points": 45.0
+          }, {
+            "criterion": "Organization, Grammar, and Citation",
+            "points": 15.0
+          }, {
+            "criterion": "Creativity",
+            "points": 10.0
+          }]
+        }
+      }]
+    }
+  }, {
+    "creator": {
+      "name": {
+        "fullName": "Demelo Lao"
+      }
+    },
+    "creationTime": "2023-08-21T03:15:17.504Z",
+    "updateTime": "2023-08-30T01:19:57.968Z",
+    "scheduledTime": "2023-08-29T00:00:00Z",
+    "publicationTime": "2023-08-29T00:01:01.284Z",
+    "state": "PUBLISHED",
+    "topics": [{
+      "name": "Week 2 (29 August-1 September 2023)-General Introduction"
+    }],
+    "courseWork": {
+      "title": "Discussion Forum - What devices/services/processes are now computerized that originally were not?” Think back 10, 20, 30, or 50 years ago.",
+      "description": "Briefly describe the digital transformation that has occurred of your chosen devices/services/processes that were not computer-enabled before. If you borrow ideas in some parts of your post, then cite the source(s) appropriately.",
+      "descriptionHtml": "\u003cdiv\u003eBriefly describe the digital transformation that has occurred of your chosen devices/services/processes that were not computer-enabled before. If you borrow ideas in some parts of your post, then cite the source(s) appropriately.\u003c/div\u003e",
+      "dueTime": "2023-09-01T16:59:00Z",
+      "maxPoints": 100.0,
+      "gradeCategory": {
+        "name": "Class Participation"
+      },
+      "workType": "SHORT_ANSWER_QUESTION",
+      "submissions": [{
+        "student": {
+          "profile": {
+            "name": {
+              "fullName": "REFINO KASHI KYLE ESTUDILLO"
+            },
+            "emailAddress": "rgestudillo@up.edu.ph"
+          }
+        },
+        "assignedGrade": 95.0,
+        "gradeCalculationOption": "GRADED",
+        "state": "RETURNED",
+        "shortAnswerSubmission": {
+          "answer": "The transformation of art through digital technology has been nothing short of revolutionary, fundamentally altering how art is created, distributed, and appreciated. In particular, the advent of Artificial Intelligence (AI) has introduced new paradigms that were previously unimaginable in the artistic landscape.\n\nIn the not-so-distant past, artistic expression was largely confined to traditional mediums—canvas, clay, and film to name a few. The early 2000s saw a shift towards digital platforms, with software like Adobe Photoshop and Corel Painter opening up new avenues for creativity (Elkins, James. \"What Painting Is.\" Routledge, 1999). This was the first wave of the digital transformation in art, democratizing access to artistic tools and broadening the scope of what could be created. Online platforms further fueled this democratization, allowing artists to share their work globally with a click of a button. But this was just the tip of the iceberg.\n\nIn the last decade, AI has emerged as a powerful force in the art world, adding a whole new layer of complexity and potential. The use of machine learning algorithms in art creation has grown exponentially. Algorithms like DeepDream and style-transfer techniques have not only been able to replicate existing styles but also create new, previously inconceivable forms of art (Gatys, Leon A., Alexander S. Ecker, and Matthias Bethge. \"Image Style Transfer Using Convolutional Neural Networks.\" CVPR, 2016). This AI-driven approach has resulted in a new genre often referred to as \"AI Art,\" which challenges our traditional understanding of artistic creativity and authorship.\n\nMoreover, AI has expanded the reach and accessibility of art. Algorithms can now analyze vast datasets of historical art, helping to identify previously unnoticed patterns, authenticate works, or even restore damaged masterpieces (McCosker, Anthony, and Rowan Wilken. \"Automating Vision: The Social Impact of the New Camera Consciousness.\" Routledge, 2020). Furthermore, AI-powered recommendation systems can personalize art experiences in museums and online galleries, making art more accessible to the general public (Li, L., \u0026 Wang, D. \"User Behavior Modeling for Personalized Art Recommendation.\" ACM Transactions on Interactive Intelligent Systems, 2019).\n\nIn conclusion, the digital transformation of art has been profound, with AI serving as a key catalyst. From altering the methods of art creation to redefining how art is consumed and understood, AI has pushed the boundaries in ways that continue to surprise and challenge us. As we look forward, it\u0027s evident that the intersection of art and AI will continue to be a space of dynamic innovation and exploration, forever changing how we understand the realm of artistic possibility.\n\nSources\n\n- Elkins, James. \"What Painting Is.\" Routledge, 1999.\n- Gatys, Leon A., Alexander S. Ecker, and Matthias Bethge. \"Image Style Transfer Using Convolutional Neural Networks.\" CVPR, 2016.\n- McCosker, Anthony, and Rowan Wilken. \"Automating Vision: The Social Impact of the New Camera Consciousness.\" Routledge, 2020.\n- Li, L., \u0026 Wang, D. \"User Behavior Modeling for Personalized Art Recommendation.\" ACM Transactions on Interactive Intelligent Systems, 2019.\n\nTL;DR: The art world has experienced a profound digital transformation over the years. While digital tools like Adobe Photoshop initially democratized art creation and distribution, the advent of Artificial Intelligence (AI) has further revolutionized the field. AI algorithms are capable of creating unique art forms, analyzing historical works, and even personalizing art experiences, fundamentally altering how art is made and consumed."
+        },
+        "comments": [{
+          "creator": {
+            "name": {
+              "fullName": "Wince Dela Fuente"
+            },
+            "emailAddress": "wbdelafuente@up.edu.ph"
+          },
+          "creationTime": "2023-09-01T15:12:59.593Z",
+          "updateTime": "2023-09-01T15:12:59.593Z",
+          "comment": "Your paper is a surface-level regurgitation of what feels like a Wikipedia summary on digital transformation in art. You throw around buzzwords like \"revolutionary\" and \"new paradigms\" as if they\u0027re candy, but never actually sink your teeth into the meat of the topic. It\u0027s like you\u0027re giving us the trailer without ever showing the movie.\n\nYour historical context is, frankly, shallow. You mention traditional art forms and then leapfrog straight to Photoshop and AI without adequately connecting the dots. It\u0027s like saying humans went from the Stone Age to space travel, skipping the entire course of human civilization in between.\n\nYour section on AI\u0027s influence is woefully underdeveloped. You say AI has introduced \"new forms of art\"—like what? Give us examples. Show us how it\u0027s redefining art, don\u0027t just tell us it is. Your paper reads like an overly long abstract without the actual content to back it up.\n\nAnd let\u0027s talk about your conclusion. A conclusion should offer new insights, not just rehash what\u0027s already been said. Yours doesn\u0027t do that. It\u0027s as if you\u0027re assuming your audience has short-term memory loss.\n\nLastly, where\u0027s the critical analysis? You\u0027ve laid out this digital utopia of art transformation without any mention of the implications or drawbacks. It\u0027s not all sunshine and rainbows, you know. Do algorithms have a \u0027creative soul\u0027? What are we losing when we automate art? Tackle these questions, for heaven\u0027s sake.\n\nBottom line: Your paper lacks depth, critical thinking, and nuance. It\u0027s a cursory glance at a subject that demands a scrutinizing look. If this were an art piece, it\u0027d be a stick figure drawing next to a Da Vinci. Time to go back to the drawing board.",
+          "commentHtml": "\u003cdiv\u003eYour paper is a surface-level regurgitation of what feels like a Wikipedia summary on digital transformation in art. You throw around buzzwords like \u0026quot;revolutionary\u0026quot; and \u0026quot;new paradigms\u0026quot; as if they\u0026#39;re candy, but never actually sink your teeth into the meat of the topic. It\u0026#39;s like you\u0026#39;re giving us the trailer without ever showing the movie.\u003cbr\u003e\u003cbr\u003eYour historical context is, frankly, shallow. You mention traditional art forms and then leapfrog straight to Photoshop and AI without adequately connecting the dots. It\u0026#39;s like saying humans went from the Stone Age to space travel, skipping the entire course of human civilization in between.\u003cbr\u003e\u003cbr\u003eYour section on AI\u0026#39;s influence is woefully underdeveloped. You say AI has introduced \u0026quot;new forms of art\u0026quot;—like what? Give us examples. Show us how it\u0026#39;s redefining art, don\u0026#39;t just tell us it is. Your paper reads like an overly long abstract without the actual content to back it up.\u003cbr\u003e\u003cbr\u003eAnd let\u0026#39;s talk about your conclusion. A conclusion should offer new insights, not just rehash what\u0026#39;s already been said. Yours doesn\u0026#39;t do that. It\u0026#39;s as if you\u0026#39;re assuming your audience has short-term memory loss.\u003cbr\u003e\u003cbr\u003eLastly, where\u0026#39;s the critical analysis? You\u0026#39;ve laid out this digital utopia of art transformation without any mention of the implications or drawbacks. It\u0026#39;s not all sunshine and rainbows, you know. Do algorithms have a \u0026#39;creative soul\u0026#39;? What are we losing when we automate art? Tackle these questions, for heaven\u0026#39;s sake.\u003cbr\u003e\u003cbr\u003eBottom line: Your paper lacks depth, critical thinking, and nuance. It\u0026#39;s a cursory glance at a subject that demands a scrutinizing look. If this were an art piece, it\u0026#39;d be a stick figure drawing next to a Da Vinci. Time to go back to the drawing board.\u003c/div\u003e",
+          "state": "PUBLISHED",
+          "commentVisibility": "COURSE"
+        }, {
+          "creator": {
+            "name": {
+              "fullName": "Kenz Jehu Barina"
+            },
+            "emailAddress": "kcbarina@up.edu.ph"
+          },
+          "creationTime": "2023-09-01T16:27:18Z",
+          "updateTime": "2023-09-01T16:27:18Z",
+          "comment": "I agree with most of Wince\u0027 critiques regarding your output. To start, I would like to open up on the AI\u0027s lack of creativity. One of the central arguments in favor of AI in art is its ability to create new and innovative forms of art. However, critics argue on how AI lacks true creativity and emotional depth (Hughes, n.d.). I hope you know that AI systems rely on data and patterns, they don\u0027t really possess the depth of human experiences, emotions, or conceptual thinking that often drive genuine artistic innovation and expression. You also must have learned in your previous Arts I class that \"art\", as a reflection of the human experience, relies on these emotional and intellectual aspects that AI cannot fully replicate.\nThe second and my last take that I would like to point out is regarding the erosion of artistic traditions. Your take doesn\u0027t adequately address the potential erosion of traditional artistic traditions and techniques. For your information, these traditional forms of art have evolved over centuries, embodying cultural heritage and artistic mastery, and with the rapid rise of AI in art, this could pose a threat to these rich and historically significant traditions, potentially diminishing their value and relevance in contemporary art. I do hope that you give your feedback using your patriotic self. Anyways, good thoughts but it is as shallow a puddle. \n\nReference:\nHughes, A. (n.d.). Why AI will ultimately lose the war of creativity with humanity. BBC Science Focus Magazine. https://www.sciencefocus.com/future-technology/ai-art-creativity-war",
+          "commentHtml": "\u003cdiv\u003eI agree with most of Wince\u0026#39; critiques regarding your output. To start, I would like to open up on the AI\u0026#39;s lack of creativity. One of the central arguments in favor of AI in art is its ability to create new and innovative forms of art. However, critics argue on how AI lacks true creativity and emotional depth (Hughes, n.d.). I hope you know that AI systems rely on data and patterns, they don\u0026#39;t really possess the depth of human experiences, emotions, or conceptual thinking that often drive genuine artistic innovation and expression. You also must have learned in your previous Arts I class that \u0026quot;art\u0026quot;, as a reflection of the human experience, relies on these emotional and intellectual aspects that AI cannot fully replicate.\u003cbr\u003eThe second and my last take that I would like to point out is regarding the erosion of artistic traditions. Your take doesn\u0026#39;t adequately address the potential erosion of traditional artistic traditions and techniques. For your information, these traditional forms of art have evolved over centuries, embodying cultural heritage and artistic mastery, and with the rapid rise of AI in art, this could pose a threat to these rich and historically significant traditions, potentially diminishing their value and relevance in contemporary art. I do hope that you give your feedback using your patriotic self. Anyways, good thoughts but it is as shallow a puddle. \u003cbr\u003e\u003cbr\u003eReference:\u003cbr\u003eHughes, A. (n.d.). Why AI will ultimately lose the war of creativity with humanity. BBC Science Focus Magazine. https://www.sciencefocus.com/future-technology/ai-art-creativity-war\u003c/div\u003e",
+          "state": "PUBLISHED",
+          "commentVisibility": "COURSE"
+        }]
+      }]
+    }
+  }, {
+    "creator": {
+      "name": {
+        "fullName": "Demelo Lao"
+      }
+    },
+    "creationTime": "2023-08-21T03:15:18.197Z",
+    "updateTime": "2023-08-30T01:27:08.100Z",
+    "publicationTime": "2023-08-28T10:54:19.449Z",
+    "state": "PUBLISHED",
+    "topics": [{
+      "name": "Week 13 (F2F Forum, 20 November 2023 @4:30-5:30PM Monday)"
+    }],
+    "materials": [{
+      "driveFile": {
+        "driveFile": {
+          "id": "1IPB3TDaYwOmMl7D9JYMi9KGScSjka1aE",
+          "title": "AssignmentGuide-2Rev2.pdf",
+          "alternateLink": "https://drive.google.com/file/d/1IPB3TDaYwOmMl7D9JYMi9KGScSjka1aE/view?usp\u003ddrive_web",
+          "thumbnailUrl": "https://lh3.googleusercontent.com/drive-storage/AJQWtBPe_3vP-NqVrsSD0Q-zTGycJxTZgccfIecB3f_UoK_B8eOXf_3o4JrlwVatPS3qcy_h_zWHLMHroM1ymIZzW64ya-N0HwAKzm6D1VC4MDzg2UU\u003ds200"
+        },
+        "shareMode": "VIEW"
+      }
+    }],
+    "courseWork": {
+      "title": "Assignment 2 - Learning Portfolio",
+      "description": "Accomplish this requirement individually.",
+      "descriptionHtml": "\u003cdiv\u003eAccomplish this requirement individually.\u003c/div\u003e",
+      "dueTime": "2023-12-08T16:59:00Z",
+      "maxPoints": 100.0,
+      "gradeCategory": {
+        "name": "Assignment"
+      },
+      "workType": "ASSIGNMENT",
+      "submissions": [{
+        "student": {
+          "profile": {
+            "name": {
+              "fullName": "REFINO KASHI KYLE ESTUDILLO"
+            },
+            "emailAddress": "rgestudillo@up.edu.ph"
+          }
+        },
+        "assignedGrade": 100.0,
+        "gradeCalculationOption": "GRADED",
+        "state": "RETURNED",
+        "assignmentSubmission": {
+          "attachments": [{
+            "driveFile": {
+              "id": "1GdMSn5QQt1ipfUBVVrgcl8CxqX70mLxO",
+              "title": "Assignment2‐Estudillo.pdf",
+              "alternateLink": "https://drive.google.com/file/d/1GdMSn5QQt1ipfUBVVrgcl8CxqX70mLxO/view?usp\u003ddrive_web",
+              "thumbnailUrl": "https://lh3.googleusercontent.com/drive-storage/AJQWtBPTNIjMRhAnq8vLNPEHD1ANjUah1ujm2Iu1VcJjRvBDyYikyHkR2gYCdTqiNUCKySSASq4JwoCTzSiKum13hxtZKGaOAjphtHYAHqyfYVTXRAU\u003ds200"
+            }
+          }]
+        }
+      }]
+    }
+  }]
+}

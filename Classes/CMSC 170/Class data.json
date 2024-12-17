@@ -1,0 +1,209 @@
+{
+  "version": 1,
+  "name": "CMSC 170",
+  "section": "A",
+  "room": "302",
+  "calendarUrl": "https://calendar.google.com/render?cid\u003dc_classroomf6b2862c@group.calendar.google.com",
+  "videoCallUrl": "https://meet.google.com/mer-bymd-pdf",
+  "courseFolder": {
+    "id": "1xAWTApUov39EhA2hcy7Y1c0TefMi7roQsexE2b_ICoHDimV-e7m79Bfjr_bAdXP0LJrphNt0",
+    "name": "CMSC 170 A",
+    "openUrl": "https://drive.google.com/drive/folders/1xAWTApUov39EhA2hcy7Y1c0TefMi7roQsexE2b_ICoHDimV-e7m79Bfjr_bAdXP0LJrphNt0"
+  },
+  "photoUrl": "https://gstatic.com/classroom/themes/img_graduation.jpg",
+  "subject": "Introduction to Artificial Intelligence",
+  "courseState": "ARCHIVED",
+  "posts": [{
+    "creator": {
+      "name": {
+        "fullName": "Sandra Mae Famador"
+      }
+    },
+    "creationTime": "2024-01-30T08:10:32.280Z",
+    "updateTime": "2024-05-24T03:14:54.787Z",
+    "publicationTime": "2024-01-30T08:12:15.877Z",
+    "state": "PUBLISHED",
+    "materials": [{
+      "driveFile": {
+        "driveFile": {
+          "id": "1mUliLRrzXJsgBdj0Zz0ASQ3bGYoFCQS7pbcDlnhAMRs",
+          "title": "Search and Logic",
+          "alternateLink": "https://docs.google.com/document/d/1mUliLRrzXJsgBdj0Zz0ASQ3bGYoFCQS7pbcDlnhAMRs/edit?usp\u003ddrive_web",
+          "thumbnailUrl": "https://lh3.google.com/drive-storage/AJQWtBM1uUaRIWAx3iR5yDa9xAfgNgrM_1Z7X_eYraemZVh-jXffyj6e6hKkJsA-cpk1y4pOvKZA0m5Gvs0WtBxflmqGRF23izBKC9DKrczwfY4zxfno9wTm4kAXn_cO5sMzunrPxg\u003ds200"
+        },
+        "shareMode": "VIEW"
+      }
+    }, {
+      "driveFile": {
+        "driveFile": {
+          "id": "1h2v7ZBQSGvm8rQ4FSat0QQsHJ-RwMwAzxqg93koqECY",
+          "title": "Melbourne Housing Data for Naive Bayes",
+          "alternateLink": "https://docs.google.com/spreadsheets/d/1h2v7ZBQSGvm8rQ4FSat0QQsHJ-RwMwAzxqg93koqECY/edit?usp\u003ddrive_web",
+          "thumbnailUrl": "https://lh3.google.com/drive-storage/AJQWtBPzXQD2owOJHzWfRDamxT5b6JdMwfbwIGIW9jZX6iLB_VAt7QZm1FD1bUZKVMqAK5UHRcOjf7ew1mHkafesraAg2ofWo-EqvFz_WmO6W30JuHJ1iAkOfwonH9c1GkFXWFelAw\u003ds200"
+        },
+        "shareMode": "VIEW"
+      }
+    }, {
+      "driveFile": {
+        "driveFile": {
+          "id": "1NaL-7BRoXtFaN-V29wHu4LQstd6rvy_y4LimLsKd1S8",
+          "title": "Cleaned Data",
+          "alternateLink": "https://docs.google.com/spreadsheets/d/1NaL-7BRoXtFaN-V29wHu4LQstd6rvy_y4LimLsKd1S8/edit?usp\u003ddrive_web",
+          "thumbnailUrl": "https://lh3.google.com/drive-storage/AJQWtBMiLCdzVHmm25w4bPlMWTAp4sxNluE3es45GI52OVqDXZcp4iT4H894dS5tpOomMZAHdjsgF6u8rlKY-h8rKy67SvGWJrU5VhUfgAEx0VtF6Lo2qBvipd-ZsYRTnM_GvZ2Ahw\u003ds200"
+        },
+        "shareMode": "VIEW"
+      }
+    }, {
+      "driveFile": {
+        "driveFile": {
+          "id": "1dl3I274iYIUQlHEYXUXIXISmE2V5NXz2QViAaGnhXz8",
+          "title": "Code and Documentation",
+          "alternateLink": "https://docs.google.com/document/d/1dl3I274iYIUQlHEYXUXIXISmE2V5NXz2QViAaGnhXz8/edit?usp\u003ddrive_web",
+          "thumbnailUrl": "https://lh3.google.com/drive-storage/AJQWtBMFptf5Zr1sbe00dQNTDXeGoo0FBBPmNotSFfhnKvlZH41ARFAzi8HFn3s9mCkkQyy7BGXoVsMwY_c1kmJ6wnfImYCigtGi2_Q8cFUP6hEWTragqUFB0x02CcG1x2isp6pr9g\u003ds200"
+        },
+        "shareMode": "EDIT"
+      }
+    }, {
+      "driveFile": {
+        "driveFile": {
+          "id": "1lGAdnS7AcyayUjAmT0jkelkGFcfdCdoeeVETdVPHuSc",
+          "title": "Alpha-Beta Pruning",
+          "alternateLink": "https://docs.google.com/document/d/1lGAdnS7AcyayUjAmT0jkelkGFcfdCdoeeVETdVPHuSc/edit?usp\u003ddrive_web",
+          "thumbnailUrl": "https://lh3.google.com/drive-storage/AJQWtBM8wCAkvw6dc0poRLAugWQi_snPR6HVoyRQ1xvLtgGxvOMHRlJS3uaQCHGby8OxS6qQJjuvK0qLfMqCVx-54LP3An5Vq2W1JvU7Pg5FOn7nH5Jqc4Rm_2nWlZ37_86otviZ4g\u003ds200"
+        },
+        "shareMode": "VIEW"
+      }
+    }, {
+      "driveFile": {
+        "driveFile": {
+          "id": "1KwUJBFZbEJ0mnzE_IW0dteFiNJh3ECB-WaESHl0kSK4",
+          "title": "Model",
+          "alternateLink": "https://docs.google.com/document/d/1KwUJBFZbEJ0mnzE_IW0dteFiNJh3ECB-WaESHl0kSK4/edit?usp\u003ddrive_web",
+          "thumbnailUrl": "https://lh3.google.com/drive-storage/AJQWtBMqf19pO6AQPuO6t8V4RoDoHfn3LK5Y7-PdKAYWGoUrHX-lVfKUUDy0akeEg4KU11CsHDClNFFPDFe0m8oP3O2gAuaHyijIiv39u1-IYlv5fo61lNcPP9-TvJeE9RALsBomKA\u003ds200"
+        },
+        "shareMode": "VIEW"
+      }
+    }, {
+      "driveFile": {
+        "driveFile": {
+          "id": "1HMGkwc51_ZFCeoExytTE3s0Kt-k6b-Wds8_Sp_hbYCw",
+          "title": "DEBMAC_Word Duelist",
+          "alternateLink": "https://docs.google.com/document/d/1HMGkwc51_ZFCeoExytTE3s0Kt-k6b-Wds8_Sp_hbYCw/edit?usp\u003ddrive_web",
+          "thumbnailUrl": "https://lh3.google.com/drive-storage/AJQWtBOelrIhL7I_kNlrlunV1kMrYOKUACGcGVixQLVu7GqyCvfU2DhIOYHtMqrbBijV_nu3TgoSJFZAV7oIXAD5AwFedN5hbA_A9sDY4ZE11q0RREgN_6HqoAoVCxPkcPwjBKJq3A\u003ds200"
+        },
+        "shareMode": "VIEW"
+      }
+    }],
+    "courseWork": {
+      "title": "Group 5",
+      "maxPoints": 100.0,
+      "workType": "ASSIGNMENT",
+      "submissions": [{
+        "student": {
+          "profile": {
+            "name": {
+              "fullName": "REFINO KASHI KYLE ESTUDILLO"
+            },
+            "emailAddress": "rgestudillo@up.edu.ph"
+          }
+        },
+        "gradeCalculationOption": "GRADED",
+        "state": "TURNED_IN",
+        "assignmentSubmission": {
+          "attachments": [{
+            "driveFile": {
+              "id": "1y8wFSnUTr_Fum3tNeSzN10K9JQDjcGKk",
+              "title": "01 Estudillo Arcade_Game_Design.pdf",
+              "alternateLink": "https://drive.google.com/file/d/1y8wFSnUTr_Fum3tNeSzN10K9JQDjcGKk/view?usp\u003ddrive_web",
+              "thumbnailUrl": "https://lh3.googleusercontent.com/drive-storage/AJQWtBMmCJtn2pI1nzasG4sGv-z_dOa3wDJJYmByNTyNxEsxqenOKAGoU9YQPqHpmMfguR69HE9SBfysIXZDTro2URfwTvMD2i3aCZReq4JiZ8hk9g\u003ds200"
+            }
+          }]
+        }
+      }]
+    }
+  }, {
+    "creator": {
+      "name": {
+        "fullName": "Sandra Mae Famador"
+      }
+    },
+    "creationTime": "2024-01-29T11:54:34.023Z",
+    "updateTime": "2024-01-29T11:57:16.505Z",
+    "publicationTime": "2024-01-29T11:57:16.325Z",
+    "state": "PUBLISHED",
+    "materials": [{
+      "driveFile": {
+        "driveFile": {
+          "id": "1tZb7Y9pesXXxuEVMYwT9Dsg4_WaVXJ5i",
+          "title": "170 Acceptable Use Policy.pdf",
+          "alternateLink": "https://drive.google.com/file/d/1tZb7Y9pesXXxuEVMYwT9Dsg4_WaVXJ5i/view?usp\u003ddrive_web",
+          "thumbnailUrl": "https://lh3.googleusercontent.com/drive-storage/AJQWtBPNi-FlqE4Kw5kjIu9zMWrV7ub-9KctTYk3XhA8PhtKaFdocecqtno4Ev6vlp7AnZF6ICZHvQ4QTmLLTaz49GkePmCQ0jcdZTsqpQgBUd0t4A\u003ds200"
+        },
+        "shareMode": "VIEW"
+      }
+    }, {
+      "driveFile": {
+        "driveFile": {
+          "id": "1DtC4Et7XkhfjwrNXg4YQ-t1o7sycw9df",
+          "title": "170 Copyright Notice.pdf",
+          "alternateLink": "https://drive.google.com/file/d/1DtC4Et7XkhfjwrNXg4YQ-t1o7sycw9df/view?usp\u003ddrive_web",
+          "thumbnailUrl": "https://lh3.googleusercontent.com/drive-storage/AJQWtBN-B5lmQnMjaTuHXIRkq4-DUANun0G60XFgPN7fEXJtbr83o7RRgMzBRYwoEhZzYV4E5eVBIfPdKgkqdy1KZjDFzWmho5CzY0K06bcmMJRTeg\u003ds200"
+        },
+        "shareMode": "VIEW"
+      }
+    }, {
+      "driveFile": {
+        "driveFile": {
+          "id": "1nO3NdQ5i58fFYhfz8hsdO0degSsGoLl0",
+          "title": "170 Ethical Pledge.pdf",
+          "alternateLink": "https://drive.google.com/file/d/1nO3NdQ5i58fFYhfz8hsdO0degSsGoLl0/view?usp\u003ddrive_web",
+          "thumbnailUrl": "https://lh3.googleusercontent.com/drive-storage/AJQWtBOBuLFGxNTr7Ev5CaK86rsxgOBEWFywyDMyvN8533g3pNFMUVOi2bgb6sjcx-YRT3fwkC0u8G4cQUglty-ic6aOaLbMmh-JlTmJyZwUQU35JQ\u003ds200"
+        },
+        "shareMode": "VIEW"
+      }
+    }],
+    "courseWork": {
+      "title": "Agreements",
+      "description": "Kindly complete the forms and submit them here. You cannot proceed with the course if you do not complete these forms.",
+      "descriptionHtml": "\u003cdiv\u003eKindly complete the forms and submit them here. You cannot proceed with the course if you do not complete these forms.\u003c/div\u003e",
+      "dueTime": "2024-01-31T15:59:00Z",
+      "workType": "ASSIGNMENT",
+      "submissions": [{
+        "student": {
+          "profile": {
+            "name": {
+              "fullName": "REFINO KASHI KYLE ESTUDILLO"
+            },
+            "emailAddress": "rgestudillo@up.edu.ph"
+          }
+        },
+        "gradeCalculationOption": "GRADED",
+        "state": "TURNED_IN",
+        "assignmentSubmission": {
+          "attachments": [{
+            "driveFile": {
+              "id": "12G-jo1pUo6cvltu8n08VHRBvYd7WzYcg",
+              "title": "Estudillo - 170 Copyright Notice.pdf",
+              "alternateLink": "https://drive.google.com/file/d/12G-jo1pUo6cvltu8n08VHRBvYd7WzYcg/view?usp\u003ddrive_web",
+              "thumbnailUrl": "https://lh3.googleusercontent.com/drive-storage/AJQWtBN-RpFOkxoPlafeRBfObFKCWQWLfSbKutFS4_ogsf5YzNrZGs2ETvetIkVddFTcCZAl8U9wOQ4PnFWNKvkHbpW2sYClfvqwr_dx2Bl-Y52Eqg\u003ds200"
+            }
+          }, {
+            "driveFile": {
+              "id": "1f2grJQf7NxcBhc-vakeimQnULKJEAnTd",
+              "title": "Estudillo - 170 Acceptable Use Policy.pdf",
+              "alternateLink": "https://drive.google.com/file/d/1f2grJQf7NxcBhc-vakeimQnULKJEAnTd/view?usp\u003ddrive_web",
+              "thumbnailUrl": "https://lh3.googleusercontent.com/drive-storage/AJQWtBOe2xktfVU-AXyFj81wyOlneBKa7gPVuzDXAiTJwjnrepwlocs_K9n1fY9RGORkbigdSiB3uJTOkS8-nw5-mLzMj3w3O7rd0GDPhukjhq9RZA\u003ds200"
+            }
+          }, {
+            "driveFile": {
+              "id": "1H5AO0k7jhdgsWjGBXNDOg_4pmGTDVLPx",
+              "title": "Estudillo - 170 Ethical Pledge.pdf",
+              "alternateLink": "https://drive.google.com/file/d/1H5AO0k7jhdgsWjGBXNDOg_4pmGTDVLPx/view?usp\u003ddrive_web",
+              "thumbnailUrl": "https://lh3.googleusercontent.com/drive-storage/AJQWtBOeZpAiKIXZD6ldOxYfnsEzJeD9tpxQP71SHXp1JqaYCVktcYj8MluHVglXw_bh3UUuV60ZBrENajb3z6gTKugHSnJbkfrKaHU_YbHuZEkanQ\u003ds200"
+            }
+          }]
+        }
+      }]
+    }
+  }]
+}

@@ -1,0 +1,1074 @@
+{
+  "version": 1,
+  "name": "CMSC 106A-1222",
+  "section": "Section A",
+  "description": "3-unit Lecture, Tuesday-Friday 1:30-3:00PM",
+  "calendarUrl": "https://calendar.google.com/render?cid\u003dc_classroom8f66687e@group.calendar.google.com",
+  "courseFolder": {
+    "id": "18EvO1SxNb9V73HVI5L6baiDtLXsLTXNrY6ZyPrNFODB0x4E1tjnA2C3QmXd4Y_Ordb4ox3Mp",
+    "name": "CMSC 106A-1222 Section A",
+    "openUrl": "https://drive.google.com/drive/folders/18EvO1SxNb9V73HVI5L6baiDtLXsLTXNrY6ZyPrNFODB0x4E1tjnA2C3QmXd4Y_Ordb4ox3Mp"
+  },
+  "photoUrl": "https://gstatic.com/classroom/themes/img_graduation.jpg",
+  "subject": "Research Methods for Computer Science",
+  "courseState": "ARCHIVED",
+  "gradeCategories": [{
+    "name": "Term Examination"
+  }, {
+    "name": "Assignment"
+  }, {
+    "name": "Class Activity"
+  }, {
+    "name": "Class Participation"
+  }],
+  "posts": [{
+    "creator": {
+      "name": {
+        "fullName": "Demelo Lao"
+      }
+    },
+    "creationTime": "2023-02-13T15:34:30.788Z",
+    "updateTime": "2023-06-09T05:33:34.214Z",
+    "scheduledTime": "2023-06-09T05:30:00Z",
+    "publicationTime": "2023-06-09T05:33:34.087Z",
+    "state": "PUBLISHED",
+    "topics": [{
+      "name": "Week 16 (Online Forum 2, 6 Jun 2023 @1:30 PM Tuesday)"
+    }],
+    "materials": [{
+      "form": {
+        "formUrl": "https://docs.google.com/forms/d/e/1FAIpQLScu8SUt3g3iuA-pnUZJ-Z2p02SLqZc0MSs284tVXs40dn46gA/viewform?hr_submission\u003dChkIr_CQ77wLEhAIs_Tb6p8REgcItPPb6p8REAE",
+        "title": "Final Examination",
+        "thumbnailUrl": "https://lh3.googleusercontent.com/nt4m9d2Dtkvv3P53Uz7ulpIObU3PmHzrqo2xVMv8-93iIyG3ac_8AdrEFk9YXw_jg03TpZXQaes\u003dw90-h90-p"
+      }
+    }],
+    "courseWork": {
+      "title": "Final Examination-F2F (9 Jun 2023, Friday@1:30-3 PM, Rm 304)",
+      "description": "To be taken during the lecture class schedule. Study coverage from \u0027Sampling Data\u0027 (Week 11) to \u0027Current Trends in Computer Science Research\u0027 (Week 15).",
+      "descriptionHtml": "\u003cdiv\u003eTo be taken during the lecture class schedule. Study coverage from \u0026#39;Sampling Data\u0026#39; (Week 11) to \u0026#39;Current Trends in Computer Science Research\u0026#39; (Week 15).\u003c/div\u003e",
+      "dueTime": "2023-06-09T08:00:00Z",
+      "maxPoints": 50.0,
+      "gradeCategory": {
+        "name": "Term Examination"
+      },
+      "workType": "ASSIGNMENT",
+      "submissions": [{
+        "student": {
+          "profile": {
+            "name": {
+              "fullName": "REFINO KASHI KYLE ESTUDILLO"
+            },
+            "emailAddress": "rgestudillo@up.edu.ph"
+          }
+        },
+        "assignedGrade": 36.0,
+        "gradeCalculationOption": "GRADED",
+        "state": "RETURNED",
+        "assignmentSubmission": {
+        }
+      }]
+    }
+  }, {
+    "creator": {
+      "name": {
+        "fullName": "Demelo Lao"
+      }
+    },
+    "creationTime": "2023-02-13T15:34:30.730Z",
+    "updateTime": "2023-06-05T00:00:47.485Z",
+    "scheduledTime": "2023-06-05T00:00:00Z",
+    "publicationTime": "2023-06-05T00:00:47.335Z",
+    "state": "PUBLISHED",
+    "topics": [{
+      "name": "Week 16 (Online Forum 2, 6 Jun 2023 @1:30 PM Tuesday)"
+    }],
+    "materials": [{
+      "driveFile": {
+        "driveFile": {
+          "id": "1y3WBU7_E1DLC2SeuCgNlfNOY2QQZNDkS",
+          "title": "AssignmentGuide-5Rev1.pdf",
+          "alternateLink": "https://drive.google.com/file/d/1y3WBU7_E1DLC2SeuCgNlfNOY2QQZNDkS/view?usp\u003ddrive_web",
+          "thumbnailUrl": "https://lh3.googleusercontent.com/drive-storage/AJQWtBOBnrVA4lwAwQ1NRveq4pDy1xGLEQad1yw9OvXzVzCc-ynGLAKuz-2j7SS7FWxX9YfGmVyQgomJmRIA5J-v7_rCTnGBtxQcq8ZHx18tr0uxFNg\u003ds200"
+        },
+        "shareMode": "VIEW"
+      }
+    }],
+    "courseWork": {
+      "title": "Assignment 5: Learning Portfolio",
+      "description": "Create a learning portfolio for attending the CMSC 106 course. Accomplish this requirement individually.",
+      "descriptionHtml": "\u003cdiv\u003eCreate a learning portfolio for attending the CMSC 106 course. Accomplish this requirement individually.\u003c/div\u003e",
+      "dueTime": "2023-06-15T15:59:00Z",
+      "maxPoints": 100.0,
+      "gradeCategory": {
+        "name": "Assignment"
+      },
+      "workType": "ASSIGNMENT",
+      "submissions": [{
+        "student": {
+          "profile": {
+            "name": {
+              "fullName": "REFINO KASHI KYLE ESTUDILLO"
+            },
+            "emailAddress": "rgestudillo@up.edu.ph"
+          }
+        },
+        "assignedGrade": 95.0,
+        "gradeCalculationOption": "GRADED",
+        "state": "RETURNED",
+        "assignmentSubmission": {
+          "attachments": [{
+            "driveFile": {
+              "id": "1gjvKz1GN__P3VkOXOP_f1NShmUow8hfF",
+              "title": "Assignment5‐Estudillo.pdf",
+              "alternateLink": "https://drive.google.com/file/d/1gjvKz1GN__P3VkOXOP_f1NShmUow8hfF/view?usp\u003ddrive_web",
+              "thumbnailUrl": "https://lh3.googleusercontent.com/drive-storage/AJQWtBNCJy6mCUjd3PCW82rIry_4sw5ia_xTQGKuPXB31oE0vieKFr_iufAJHqUpp57dF9S0gmbHfVs0xI1XOlOqHEIKHvJYD4N_1J-e1HF1t6IUJEM\u003ds200"
+            }
+          }]
+        }
+      }]
+    }
+  }, {
+    "creator": {
+      "name": {
+        "fullName": "Demelo Lao"
+      }
+    },
+    "creationTime": "2023-02-13T15:34:30.712Z",
+    "updateTime": "2023-05-29T00:03:29.716Z",
+    "scheduledTime": "2023-05-29T00:00:00Z",
+    "publicationTime": "2023-05-29T00:03:29.591Z",
+    "state": "PUBLISHED",
+    "topics": [{
+      "name": "Week 15 (29 May-2 Jun 2023) - Current Trends in Computer Science Research)"
+    }],
+    "courseWork": {
+      "title": "Activity 6 (Discussion Forum 3) - Which of the five (5) trends in computer science research do you think poses a clear and present danger if done in the wrong hands?",
+      "description": "Participate actively in the discussion forum since this constitutes your rating for ‘Active Class Participation’ in the grading scheme. If you borrow ideas in some parts of your post, then cite the source(s) appropriately.",
+      "descriptionHtml": "\u003cdiv\u003eParticipate actively in the discussion forum since this constitutes your rating for ‘Active Class Participation’ in the grading scheme. If you borrow ideas in some parts of your post, then cite the source(s) appropriately.\u003c/div\u003e",
+      "dueTime": "2023-06-02T15:59:00Z",
+      "maxPoints": 10.0,
+      "gradeCategory": {
+        "name": "Class Participation"
+      },
+      "workType": "SHORT_ANSWER_QUESTION",
+      "submissions": [{
+        "student": {
+          "profile": {
+            "name": {
+              "fullName": "REFINO KASHI KYLE ESTUDILLO"
+            },
+            "emailAddress": "rgestudillo@up.edu.ph"
+          }
+        },
+        "assignedGrade": 9.0,
+        "gradeCalculationOption": "GRADED",
+        "state": "RETURNED",
+        "shortAnswerSubmission": {
+          "answer": "Cybersecurity in computer science research can pose a clear and present danger if mishandled or misused because of the following reasons:\n\n1.) Exploitation of Vulnerabilities: Computer science research often focuses on identifying vulnerabilities in software, networks, and systems. If this knowledge falls into the wrong hands, malicious actors can exploit those vulnerabilities for unauthorized access, data breaches, or disruption of critical infrastructure. For example, zero-day vulnerabilities, which are unknown to software vendors, can be weaponized and used for targeted cyberattacks.\n\n2.) Creation of Advanced Malware: Researchers often develop advanced malware and hacking tools to better understand cyber threats and enhance defense mechanisms. However, if these tools are misused or their design details leaked, they can empower cybercriminals to launch sophisticated attacks, causing significant harm to individuals, organizations, and even nations.\n\n3.) Disruption of Critical Systems: Cybersecurity research involves studying the weaknesses of critical systems, such as power grids, transportation networks, or healthcare infrastructure, to develop countermeasures. However, if this knowledge is used maliciously, it can lead to disruptions that impact public safety, national security, and economic stability.\n\n4.) Privacy Invasion: In the wrong hands, cybersecurity research techniques and tools can be leveraged for invasive surveillance and privacy violations. Advanced hacking techniques, surveillance malware, or unauthorized access to personal data can compromise individuals\u0027 privacy, leading to identity theft, blackmail, or unauthorized surveillance.\n\n5.) Nation-State Cyber Warfare: Cybersecurity research also contributes to the development of defensive and offensive capabilities in the context of nation-state cyber warfare. In the wrong hands, these capabilities can be used for launching cyberattacks against other nations, disrupting critical infrastructure, stealing sensitive information, or engaging in cyber espionage, potentially leading to geopolitical tensions or conflicts.\n\nTo address these risks, responsible cybersecurity research should be guided by ethical considerations, adherence to legal frameworks, and international cooperation. Collaboration between researchers, industry, and government agencies is crucial to ensure the responsible use of cybersecurity knowledge and technology, and to develop robust defenses against cyber threats."
+        },
+        "comments": [{
+          "creator": {
+            "name": {
+              "fullName": "Dave Noceda"
+            },
+            "emailAddress": "dbnoceda@up.edu.ph"
+          },
+          "creationTime": "2023-06-02T13:12:20.869Z",
+          "updateTime": "2023-06-02T13:12:20.709Z",
+          "comment": "The statement highlights the potential dangers associated with mishandling or misusing cybersecurity research in computer science. It emphasizes the importance of responsible conduct, ethical considerations, and international cooperation in addressing these risks. It is essential for researchers, industry professionals, and government agencies to work together to ensure the responsible use of cybersecurity knowledge and technology.\n\nQuestion: How can the academic and research community promote responsible conduct in cybersecurity research and prevent the misuse of findings or tools developed during the research process?",
+          "commentHtml": "\u003cdiv\u003eThe statement highlights the potential dangers associated with mishandling or misusing cybersecurity research in computer science. It emphasizes the importance of responsible conduct, ethical considerations, and international cooperation in addressing these risks. It is essential for researchers, industry professionals, and government agencies to work together to ensure the responsible use of cybersecurity knowledge and technology.\u003cbr\u003e\u003cbr\u003eQuestion: How can the academic and research community promote responsible conduct in cybersecurity research and prevent the misuse of findings or tools developed during the research process?\u003c/div\u003e",
+          "state": "PUBLISHED",
+          "commentVisibility": "COURSE"
+        }, {
+          "creator": {
+            "name": {
+              "fullName": "JOHN ELIAS MOJADO"
+            },
+            "emailAddress": "jmojado@up.edu.ph"
+          },
+          "creationTime": "2023-06-02T14:08:46.253Z",
+          "updateTime": "2023-06-02T14:08:46.202Z",
+          "comment": "Your response adeptly highlights the perils associated with cybersecurity research when it falls into malevolent hands, accurately capturing the essence of its potential dangers. Nonetheless, I would greatly appreciate your insights regarding the remaining trends, as I firmly contend that they too harbor inherent risks if mishandled. It is crucial to adopt a holistic perspective, acknowledging the interconnections among these various trends, enabling us to discern profound correlations between the cybersecurity realm and other emerging domains. By exploring these linkages, we can comprehensively assess the potential hazards that may emerge within each trend when subjected to improper utilization and control.",
+          "commentHtml": "\u003cdiv\u003eYour response adeptly highlights the perils associated with cybersecurity research when it falls into malevolent hands, accurately capturing the essence of its potential dangers. Nonetheless, I would greatly appreciate your insights regarding the remaining trends, as I firmly contend that they too harbor inherent risks if mishandled. It is crucial to adopt a holistic perspective, acknowledging the interconnections among these various trends, enabling us to discern profound correlations between the cybersecurity realm and other emerging domains. By exploring these linkages, we can comprehensively assess the potential hazards that may emerge within each trend when subjected to improper utilization and control.\u003c/div\u003e",
+          "state": "PUBLISHED",
+          "commentVisibility": "COURSE"
+        }]
+      }]
+    }
+  }, {
+    "creator": {
+      "name": {
+        "fullName": "Demelo Lao"
+      }
+    },
+    "creationTime": "2023-02-13T15:34:30.538Z",
+    "updateTime": "2023-05-22T00:01:44.418Z",
+    "scheduledTime": "2023-05-22T00:00:00Z",
+    "publicationTime": "2023-05-22T00:01:44.266Z",
+    "state": "PUBLISHED",
+    "topics": [{
+      "name": "Week 14 (22-26 May 2023) - Presenting and Publishing the Research Findings"
+    }],
+    "materials": [{
+      "driveFile": {
+        "driveFile": {
+          "id": "1XbsRa1jk7easyv53WP94PnfVov_T6OFX",
+          "title": "AssignmentGuide-4Rev1.pdf",
+          "alternateLink": "https://drive.google.com/file/d/1XbsRa1jk7easyv53WP94PnfVov_T6OFX/view?usp\u003ddrive_web",
+          "thumbnailUrl": "https://lh3.googleusercontent.com/drive-storage/AJQWtBMxdlMKWeKPNLD44y1YrU2R4R641s3LOdcSV0FuT8MubUSxyABSD5b-iIb5bWTqZ-e8kIYIkqpOgutCjEhN2YW-3ZPwB5QfSmSyBnEygoDvP20\u003ds200"
+        },
+        "shareMode": "VIEW"
+      }
+    }],
+    "courseWork": {
+      "title": "Assignment 4 - Practice Presenting and Writing the Research Findings",
+      "description": "Pick the same partner as in the previous assignments.",
+      "descriptionHtml": "\u003cdiv\u003ePick the same partner as in the previous assignments.\u003c/div\u003e",
+      "dueTime": "2023-06-02T15:59:00Z",
+      "maxPoints": 100.0,
+      "gradeCategory": {
+        "name": "Assignment"
+      },
+      "workType": "ASSIGNMENT",
+      "rubric": {
+        "criterion": [{
+          "title": "Completeness",
+          "description": "All relevant or required items in the assignment have been provided responses.",
+          "rating": [{
+            "points": 10.0
+          }]
+        }, {
+          "title": "Content",
+          "description": "Correct calculations for Table 2 and correct manner of presenting results with analysis and discussion.",
+          "rating": [{
+            "points": 50.0
+          }]
+        }, {
+          "title": "Organization, Grammar, and Presentation",
+          "description": "Ordering and sectioning of the responses according to template provided; text narrative, note and figure captions are written in a clear and straight-forward manner with correct grammar and spelling, and following standard practice, respectively; and, correct structure of writing the text narrative for the ‘Results and Discussion’ section.",
+          "rating": [{
+            "points": 30.0
+          }]
+        }, {
+          "title": "Creativity",
+          "description": "Shows creativity in organizing and presenting the document which contains the responses.",
+          "rating": [{
+            "points": 10.0
+          }]
+        }]
+      },
+      "submissions": [{
+        "student": {
+          "profile": {
+            "name": {
+              "fullName": "REFINO KASHI KYLE ESTUDILLO"
+            },
+            "emailAddress": "rgestudillo@up.edu.ph"
+          }
+        },
+        "assignedGrade": 83.0,
+        "gradeCalculationOption": "GRADED",
+        "state": "RETURNED",
+        "assignmentSubmission": {
+          "attachments": [{
+            "driveFile": {
+              "id": "1OxAfI8v9HY1flyjTg4bgYgFwbTRdKbfA",
+              "title": "Assignment-4-Mojado_Estudillo.pdf",
+              "alternateLink": "https://drive.google.com/file/d/1OxAfI8v9HY1flyjTg4bgYgFwbTRdKbfA/view?usp\u003ddrive_web",
+              "thumbnailUrl": "https://lh3.googleusercontent.com/drive-storage/AJQWtBOYeCWVC5Nr_qX7ZXzLm-7yeidM6YSuHWvH3YixdZD56nkgo94vWN7ejkSZGEl_rxeL3EQsnTUkbH1MU32Xu6SQBzYFg5yUy204IPIpTxFsMUo\u003ds200"
+            }
+          }]
+        }
+      }]
+    }
+  }, {
+    "creator": {
+      "name": {
+        "fullName": "Demelo Lao"
+      }
+    },
+    "creationTime": "2023-02-13T15:34:30.324Z",
+    "updateTime": "2023-05-15T00:04:20.887Z",
+    "scheduledTime": "2023-05-15T00:00:00Z",
+    "publicationTime": "2023-05-15T00:04:20.765Z",
+    "state": "PUBLISHED",
+    "topics": [{
+      "name": "Week 13 (15-19 May 2023) - Applied Statistics – Part II"
+    }],
+    "materials": [{
+      "driveFile": {
+        "driveFile": {
+          "id": "1VIeVs0j-iGTM7mFOVhyu4-eThhYa0yww",
+          "title": "AssignmentGuide-3Rev1.pdf",
+          "alternateLink": "https://drive.google.com/file/d/1VIeVs0j-iGTM7mFOVhyu4-eThhYa0yww/view?usp\u003ddrive_web",
+          "thumbnailUrl": "https://lh3.googleusercontent.com/drive-storage/AJQWtBMlzHLZGce6a8sEgLp_oH10DVD2X4ZrX7gNle4-kDpMnQhNB2HgdmHwD-5g_BkCYBndvYOrtrmS2674xOtjBzY-QyC4_h_lq2xvaNdb6MHW5FU\u003ds200"
+        },
+        "shareMode": "VIEW"
+      }
+    }],
+    "courseWork": {
+      "title": "Assignment 3 - Answering Research Question by Hypothesis Testing",
+      "description": "Pick the same partner as in the previous assignments.",
+      "descriptionHtml": "\u003cdiv\u003ePick the same partner as in the previous assignments.\u003c/div\u003e",
+      "dueTime": "2023-05-26T15:59:00Z",
+      "maxPoints": 100.0,
+      "gradeCategory": {
+        "name": "Assignment"
+      },
+      "workType": "ASSIGNMENT",
+      "rubric": {
+        "criterion": [{
+          "title": "Completeness",
+          "description": "All relevant or required items in the assignment have been provided responses.",
+          "rating": [{
+            "points": 10.0
+          }]
+        }, {
+          "title": "Content",
+          "description": "Correct choice of statistical test and correct responses for each step-in hypothesis testing.",
+          "rating": [{
+            "points": 50.0
+          }]
+        }, {
+          "title": "Organization, Grammar, and Presentation",
+          "description": "Ordering and sectioning of the responses according to template provided; justification of the choice of statistical test and decision are written in a clear and straight-forward manner with correct grammar and spelling, and following standard practice, respectively.; and, correct manner in stating the implication of hypothesis testing decision (i.e., #5.4).",
+          "rating": [{
+            "points": 30.0
+          }]
+        }, {
+          "title": "Creativity",
+          "description": "Shows creativity in organizing and presenting the document which contains the responses.",
+          "rating": [{
+            "points": 10.0
+          }]
+        }]
+      },
+      "submissions": [{
+        "student": {
+          "profile": {
+            "name": {
+              "fullName": "REFINO KASHI KYLE ESTUDILLO"
+            },
+            "emailAddress": "rgestudillo@up.edu.ph"
+          }
+        },
+        "assignedGrade": 70.0,
+        "gradeCalculationOption": "GRADED",
+        "state": "RETURNED",
+        "assignmentSubmission": {
+          "attachments": [{
+            "driveFile": {
+              "id": "1JADEZex0_CJGEidiUuF3atQT_IQkcVM9",
+              "title": "Assignment-3-Estudillo_Mojado.pdf",
+              "alternateLink": "https://drive.google.com/file/d/1JADEZex0_CJGEidiUuF3atQT_IQkcVM9/view?usp\u003ddrive_web",
+              "thumbnailUrl": "https://lh3.googleusercontent.com/drive-storage/AJQWtBMGbfhjI6IWFMoVWthEGPTLD6hPxdoP4xqasn3DjWvsSPPfnyarfYLgwHFLmZ52JRbazuUbXgnb3CbDuhxHQYtOanK6Ydk18DaNgvDyc3WM8CM\u003ds200"
+            }
+          }]
+        },
+        "assignedRubricScore": {
+          "criterionScore": [{
+            "criterion": "Completeness",
+            "points": 10.0
+          }, {
+            "criterion": "Creativity",
+            "points": 9.0
+          }, {
+            "criterion": "Organization, Grammar, and Presentation",
+            "points": 29.0
+          }, {
+            "criterion": "Content",
+            "points": 22.0
+          }]
+        },
+        "comments": [{
+          "creator": {
+            "name": {
+              "fullName": "Demelo Lao"
+            }
+          },
+          "creationTime": "2023-06-01T08:53:17.701Z",
+          "updateTime": "2023-06-01T08:53:17.540Z",
+          "comment": "Please share my comments/feedback in this annotated PDF submission to your partner.",
+          "commentHtml": "\u003cdiv\u003ePlease share my comments/feedback in this annotated PDF submission to your partner.\u003c/div\u003e",
+          "state": "PUBLISHED",
+          "commentVisibility": "PRIVATE"
+        }, {
+          "creator": {
+            "name": {
+              "fullName": "Demelo Lao"
+            }
+          },
+          "creationTime": "2023-06-01T09:27:44.811Z",
+          "updateTime": "2023-06-01T09:27:44.571Z",
+          "comment": "I noticed that the following sections of your pair\u0027s response: Critical Region, Decision, and Implication of Decision are suspiciously the same as that of the response of Amamangpang and Noceda. Hence, please be forewarned that any attempt to repeat such actions in the succeeding class requirements will entail a grade of 5.0! For your guidance.",
+          "commentHtml": "\u003cdiv\u003eI noticed that the following sections of your pair\u0026#39;s response: Critical Region, Decision, and Implication of Decision are suspiciously the same as that of the response of Amamangpang and Noceda. Hence, please be forewarned that any attempt to repeat such actions in the succeeding class requirements will entail a grade of 5.0! For your guidance.\u003c/div\u003e",
+          "state": "PUBLISHED",
+          "commentVisibility": "PRIVATE"
+        }, {
+          "creator": {
+            "name": {
+              "fullName": "REFINO KASHI KYLE ESTUDILLO"
+            },
+            "emailAddress": "rgestudillo@up.edu.ph"
+          },
+          "creationTime": "2023-06-01T10:55:29.873Z",
+          "updateTime": "2023-06-01T10:55:29.859Z",
+          "comment": "Good evening sir. We would like to apologize regarding the situation about our Assignment 3. We fully admit our wrong doings and take responsibility for it. We deeply regret our thoughtlessness and lack of judgment, and we understand the impact it has on our own academic growth and the integrity of the educational institution we both hold dear. \n\nAgain, We are really sorry sir and we assure you that it will never happen again. Thank you.",
+          "commentHtml": "\u003cdiv\u003eGood evening sir. We would like to apologize regarding the situation about our Assignment 3. We fully admit our wrong doings and take responsibility for it. We deeply regret our thoughtlessness and lack of judgment, and we understand the impact it has on our own academic growth and the integrity of the educational institution we both hold dear. \u003cbr\u003e\u003cbr\u003eAgain, We are really sorry sir and we assure you that it will never happen again. Thank you.\u003c/div\u003e",
+          "state": "PUBLISHED",
+          "commentVisibility": "PRIVATE"
+        }, {
+          "creator": {
+            "name": {
+              "fullName": "Demelo Lao"
+            }
+          },
+          "creationTime": "2023-06-01T15:00:32.949Z",
+          "updateTime": "2023-06-01T15:00:32.897Z",
+          "comment": "I appreciate for your courage and candidness in readily admitting the wrongdoing your pair has committed. For me, honesty is the best policy. And, I hope that these traits you have shown now are genuinely sincere that can be put into practice for your pair\u0027s succeeding endeavors in this course and beyond. Thank you.",
+          "commentHtml": "\u003cdiv\u003eI appreciate for your courage and candidness in readily admitting the wrongdoing your pair has committed. For me, honesty is the best policy. And, I hope that these traits you have shown now are genuinely sincere that can be put into practice for your pair\u0026#39;s succeeding endeavors in this course and beyond. Thank you.\u003c/div\u003e",
+          "state": "PUBLISHED",
+          "commentVisibility": "PRIVATE"
+        }]
+      }]
+    }
+  }, {
+    "creator": {
+      "name": {
+        "fullName": "Demelo Lao"
+      }
+    },
+    "creationTime": "2023-02-13T15:34:30.172Z",
+    "updateTime": "2023-05-08T00:03:10.949Z",
+    "scheduledTime": "2023-05-08T00:00:00Z",
+    "publicationTime": "2023-05-08T00:03:10.739Z",
+    "state": "PUBLISHED",
+    "topics": [{
+      "name": "Week 12 (8-12 May 2023) - Applied Statistics – Part I"
+    }],
+    "materials": [{
+      "driveFile": {
+        "driveFile": {
+          "id": "189hUK9IBqrRD7fTeToY5TklnahNZIUn_",
+          "title": "AssignmentGuide-2Rev1.pdf",
+          "alternateLink": "https://drive.google.com/file/d/189hUK9IBqrRD7fTeToY5TklnahNZIUn_/view?usp\u003ddrive_web",
+          "thumbnailUrl": "https://lh3.googleusercontent.com/drive-storage/AJQWtBO-2iHR9NEYew5JLEREV3it27ZJ26c00Q5yGWSqFHVwTbTD5qjyKK8tcrKU1737G84JlaRPvasX5hVbKjzOd8-qpZw_8J9RQqXw0tNHodA5I_s\u003ds200"
+        },
+        "shareMode": "VIEW"
+      }
+    }],
+    "courseWork": {
+      "title": "Assignment 2 - Data Visualization",
+      "description": "Pick the same partner as in the previous assignment.",
+      "descriptionHtml": "\u003cdiv\u003ePick the same partner as in the previous assignment.\u003c/div\u003e",
+      "dueTime": "2023-05-19T15:59:00Z",
+      "maxPoints": 100.0,
+      "gradeCategory": {
+        "name": "Assignment"
+      },
+      "workType": "ASSIGNMENT",
+      "rubric": {
+        "criterion": [{
+          "title": "Completeness",
+          "description": "All relevant or required items in the assignment have been provided responses.",
+          "rating": [{
+            "points": 10.0
+          }]
+        }, {
+          "title": "Content",
+          "description": "Correct 5-number summary values and correct plotting of the parallel boxplot.",
+          "rating": [{
+            "points": 50.0
+          }]
+        }, {
+          "title": "Organization, Grammar, and Presentation",
+          "description": "Ordering and sectioning of the responses according to template provided; description of the results is written in a clear and straight-forward manner with correct grammar and spelling; and, correct tense and manner in presenting the figure (i.e., the parallel boxplot) in the ‘Results’ section (i.e., #6.5).",
+          "rating": [{
+            "points": 30.0
+          }]
+        }, {
+          "title": "Creativity",
+          "description": "Shows creativity in organizing and presenting the document which contains the responses.",
+          "rating": [{
+            "points": 10.0
+          }]
+        }]
+      },
+      "submissions": [{
+        "student": {
+          "profile": {
+            "name": {
+              "fullName": "REFINO KASHI KYLE ESTUDILLO"
+            },
+            "emailAddress": "rgestudillo@up.edu.ph"
+          }
+        },
+        "assignedGrade": 100.0,
+        "gradeCalculationOption": "GRADED",
+        "state": "RETURNED",
+        "assignmentSubmission": {
+          "attachments": [{
+            "driveFile": {
+              "id": "1uY6H8dZavLysQO4yz6HJFrlhThgHI7HM",
+              "title": "Assignment-2-Mojado_Estudillo.pdf",
+              "alternateLink": "https://drive.google.com/file/d/1uY6H8dZavLysQO4yz6HJFrlhThgHI7HM/view?usp\u003ddrive_web",
+              "thumbnailUrl": "https://lh3.googleusercontent.com/drive-storage/AJQWtBPkVbgYtW5uPj17F2B7UBDAhfVP6-jF7gJ0A8vYP1PWadccpjynx6fSW9-ckrwjFfzGh50c_gLI26tCxN5IWAP51CkKfgQajFzHJKKz7DcSuYw\u003ds200"
+            }
+          }]
+        },
+        "assignedRubricScore": {
+          "criterionScore": [{
+            "criterion": "Completeness",
+            "points": 10.0
+          }, {
+            "criterion": "Content",
+            "points": 50.0
+          }, {
+            "criterion": "Organization, Grammar, and Presentation",
+            "points": 30.0
+          }, {
+            "criterion": "Creativity",
+            "points": 10.0
+          }]
+        },
+        "comments": [{
+          "creator": {
+            "name": {
+              "fullName": "Demelo Lao"
+            }
+          },
+          "creationTime": "2023-05-26T10:30:22.634Z",
+          "updateTime": "2023-05-26T10:30:22.423Z",
+          "comment": "Hi, Refino! Please be informed that I cannot see your submission. Or, there is no uploaded document. Thank you.",
+          "commentHtml": "\u003cdiv\u003eHi, Refino! Please be informed that I cannot see your submission. Or, there is no uploaded document. Thank you.\u003c/div\u003e",
+          "state": "PUBLISHED",
+          "commentVisibility": "PRIVATE"
+        }, {
+          "creator": {
+            "name": {
+              "fullName": "REFINO KASHI KYLE ESTUDILLO"
+            },
+            "emailAddress": "rgestudillo@up.edu.ph"
+          },
+          "creationTime": "2023-05-26T10:41:22.179Z",
+          "updateTime": "2023-05-26T10:41:22.026Z",
+          "comment": "Hi sir, good evening. Sorry sir nakalimot ko wala diay na attach ang file but we really did the assignment on time sir. I’m really sorry sir. Na attach na nako balik sir.",
+          "commentHtml": "\u003cdiv\u003eHi sir, good evening. Sorry sir nakalimot ko wala diay na attach ang file but we really did the assignment on time sir. I’m really sorry sir. Na attach na nako balik sir.\u003c/div\u003e",
+          "state": "PUBLISHED",
+          "commentVisibility": "PRIVATE"
+        }]
+      }]
+    }
+  }, {
+    "creator": {
+      "name": {
+        "fullName": "Demelo Lao"
+      }
+    },
+    "creationTime": "2023-02-13T15:34:30.113Z",
+    "updateTime": "2023-05-02T00:00:52.806Z",
+    "scheduledTime": "2023-05-02T00:00:00Z",
+    "publicationTime": "2023-05-02T00:00:52.686Z",
+    "state": "PUBLISHED",
+    "topics": [{
+      "name": "Week 11 (2-5 May 2023) - Sampling Data"
+    }],
+    "materials": [{
+      "driveFile": {
+        "driveFile": {
+          "id": "1rLrmkZBRUGCHSE5pfTTEp0E8kRDt_tuT",
+          "title": "ActivityGuide-Week11Rev1.pdf",
+          "alternateLink": "https://drive.google.com/file/d/1rLrmkZBRUGCHSE5pfTTEp0E8kRDt_tuT/view?usp\u003ddrive_web",
+          "thumbnailUrl": "https://lh3.googleusercontent.com/drive-storage/AJQWtBPLmokwWkBZKMhUC5pIpepHxuQKmZoFDuAS3Tp5uAMhJZTkZRF5Q3YeGx2yr7xsn_hrCRLTryub7lQqt2mJuvjxQP1LWhQ6l5UdRjvcAWiC3UA\u003ds200"
+        },
+        "shareMode": "VIEW"
+      }
+    }],
+    "courseWork": {
+      "title": "Class Activity 5 - Setting up a Spreadsheet File for Data Encoding – A preparatory task for importing data to the SPSS statistical software",
+      "description": "Pick the same partner as in the previous class activities since this activity is to be accomplished in pairs to promote collaboration and interaction.",
+      "descriptionHtml": "\u003cdiv\u003ePick the same partner as in the previous class activities since this activity is to be accomplished in pairs to promote collaboration and interaction.\u003c/div\u003e",
+      "dueTime": "2023-05-12T15:59:00Z",
+      "maxPoints": 10.0,
+      "gradeCategory": {
+        "name": "Class Activity"
+      },
+      "workType": "ASSIGNMENT",
+      "submissions": [{
+        "student": {
+          "profile": {
+            "name": {
+              "fullName": "REFINO KASHI KYLE ESTUDILLO"
+            },
+            "emailAddress": "rgestudillo@up.edu.ph"
+          }
+        },
+        "assignedGrade": 0.0,
+        "gradeCalculationOption": "GRADED",
+        "state": "RETURNED",
+        "assignmentSubmission": {
+          "attachments": [{
+            "driveFile": {
+              "id": "1k6QR6iEZwydX00cfCKs73oanvXNOzkDW",
+              "title": "Class-Activity-5-Estudillo_Mojado.xlsx",
+              "alternateLink": "https://drive.google.com/file/d/1k6QR6iEZwydX00cfCKs73oanvXNOzkDW/view?usp\u003ddrive_web",
+              "thumbnailUrl": "https://lh3.googleusercontent.com/drive-storage/AJQWtBOKXNDW5EyS0ONflh0WVAXFjKepg6nEbm5O96jTGoH6ANV7vX_dmEKsM2Bk7b9QJALBf0r1eqXk0gsupYYvDC4C4KkUp2mlqErzG7HUOF6qS9o\u003ds200"
+            }
+          }]
+        },
+        "comments": [{
+          "creator": {
+            "name": {
+              "fullName": "Demelo Lao"
+            }
+          },
+          "creationTime": "2023-05-16T09:53:41.409Z",
+          "updateTime": "2023-05-16T09:53:41.189Z",
+          "comment": "Please share my comments/feedback in this annotated spreadsheet submission to your partner.",
+          "commentHtml": "\u003cdiv\u003ePlease share my comments/feedback in this annotated spreadsheet submission to your partner.\u003c/div\u003e",
+          "state": "PUBLISHED",
+          "commentVisibility": "PRIVATE"
+        }]
+      }]
+    }
+  }, {
+    "creator": {
+      "name": {
+        "fullName": "Demelo Lao"
+      }
+    },
+    "creationTime": "2023-02-13T15:34:30.050Z",
+    "updateTime": "2023-04-25T05:31:34.316Z",
+    "scheduledTime": "2023-04-25T05:30:00Z",
+    "publicationTime": "2023-04-25T05:31:34.247Z",
+    "state": "PUBLISHED",
+    "topics": [{
+      "name": "Week 10 (24-28 Apr 2023) - Mid-Term Exam"
+    }],
+    "materials": [{
+      "form": {
+        "formUrl": "https://docs.google.com/forms/d/e/1FAIpQLSfGockmtRRrPcOWW1T1Y7sqEFOwJrLrEkPphKQpmxyhs8D68A/viewform?hr_submission\u003dChkIr_CQ77wLEhAIiPTb6p8REgcItPPb6p8REAE",
+        "title": "Mid-Term Examination",
+        "thumbnailUrl": "https://lh3.googleusercontent.com/KXlnBmHAuo5YcI5IWVnaNdz5xZiY_kmH4FRU9_Qq6FldxNKJMEEnwXspkvGrTk5l2oYYTb5zg9I\u003dw90-h90-p"
+      }
+    }],
+    "courseWork": {
+      "title": "Mid-Term Examination-F2F (25 April 2023, Tuesday@1:30-3PM, Rm 304)",
+      "description": "To be taken during the lecture class schedule. Study coverage from \u0027Introduction to Research\u0027 (Week 2) to \u0027Sampling Methods - A Refresher\u0027 (Week 9)",
+      "descriptionHtml": "\u003cdiv\u003eTo be taken during the lecture class schedule. Study coverage from \u0026#39;Introduction to Research\u0026#39; (Week 2) to \u0026#39;Sampling Methods - A Refresher\u0026#39; (Week 9)\u003c/div\u003e",
+      "dueTime": "2023-04-25T08:00:00Z",
+      "maxPoints": 50.0,
+      "gradeCategory": {
+        "name": "Term Examination"
+      },
+      "workType": "ASSIGNMENT",
+      "submissions": [{
+        "student": {
+          "profile": {
+            "name": {
+              "fullName": "REFINO KASHI KYLE ESTUDILLO"
+            },
+            "emailAddress": "rgestudillo@up.edu.ph"
+          }
+        },
+        "assignedGrade": 32.0,
+        "gradeCalculationOption": "GRADED",
+        "state": "RETURNED",
+        "assignmentSubmission": {
+        }
+      }]
+    }
+  }, {
+    "creator": {
+      "name": {
+        "fullName": "Demelo Lao"
+      }
+    },
+    "creationTime": "2023-02-13T15:34:30.030Z",
+    "updateTime": "2023-04-17T00:00:40.617Z",
+    "scheduledTime": "2023-04-17T00:00:00Z",
+    "publicationTime": "2023-04-17T00:00:40.547Z",
+    "state": "PUBLISHED",
+    "topics": [{
+      "name": "Week 9 (17-21 Apr 2023) - Sampling Methods: A Refresher"
+    }],
+    "courseWork": {
+      "title": "Activity 4 (Discussion Forum 2) - Which criteria for selecting a probability-based sampling technique you consider as key deciding factor(s) when planning to conduct a computer experiment (e.g., study on different web site design for various users)?",
+      "description": "Participate actively in the discussion forum since this constitutes your rating for ‘Active Class Participation’ in the grading scheme. If you borrow ideas in some parts of your post, then cite the source(s) appropriately.",
+      "descriptionHtml": "\u003cdiv\u003eParticipate actively in the discussion forum since this constitutes your rating for ‘Active Class Participation’ in the grading scheme. If you borrow ideas in some parts of your post, then cite the source(s) appropriately.\u003c/div\u003e",
+      "dueTime": "2023-04-21T15:59:00Z",
+      "maxPoints": 10.0,
+      "gradeCategory": {
+        "name": "Class Participation"
+      },
+      "workType": "SHORT_ANSWER_QUESTION",
+      "submissions": [{
+        "student": {
+          "profile": {
+            "name": {
+              "fullName": "REFINO KASHI KYLE ESTUDILLO"
+            },
+            "emailAddress": "rgestudillo@up.edu.ph"
+          }
+        },
+        "assignedGrade": 10.0,
+        "gradeCalculationOption": "GRADED",
+        "state": "RETURNED",
+        "shortAnswerSubmission": {
+          "answer": "When planning to conduct a computer experiment, several criteria for selecting a probability-based sampling technique must be considered. The nature of the experiment, its purpose, target population, and target respondents are all essential factors to take into account. For example, if the experiment aims to compare different website designs for various users, the target population would be users who frequently visit websites. The purpose would be to identify the most effective website design that can improve user experience.\nThe timeframe for conducting the computer experiment is also a crucial factor. The length of time required for the experiment should be attainable within the specified timeframe. This will help ensure that the research project is feasible and can be completed within the expected timeline.\nThe necessary computing resources, including hardware and software, must also be considered. Mohammadi et al. (2018) pointed out that the availability of computing resources plays a crucial role in selecting a probability-based sampling technique. A comprehensive understanding of the resources needed for the experiment, including the software tools and other equipment, should be considered. If the necessary computing resources are not available, it may be challenging to conduct the experiment effectively.\nThe degree of reliability and validity desired for the results is another essential criterion when selecting a probability-based sampling technique. The research student must decide on the level of accuracy and confidence they need in the results. A sample size that is too small may not provide accurate results, while a sample size that is too large may be impractical to manage. Therefore, selecting an appropriate probability-based sampling technique is crucial in ensuring that the experiment provides reliable and valid results.\nFinally, the cost of conducting the experiment should be considered. The cost of conducting the experiment should be affordable while ensuring the desired level of reliability and validity of results. This includes the cost of man-hours and computing costs. It is essential to conduct a cost-benefit analysis to determine the feasibility of the experiment within the available budget.\nIn conclusion, several criteria should be considered when selecting a probability-based sampling technique for a computer experiment. These include the nature and purpose of the experiment, the target population and respondents, the timeframe for conducting the experiment, the availability of computing resources, the desired level of reliability and validity of results, and the cost of conducting the experiment. By taking these criteria into account, the research student can make an informed decision on the most appropriate probability-based sampling technique for their experiment.\n\nTLDR: When selecting a probability-based sampling technique for a computer experiment, the key deciding factors to consider include the nature and purpose of the experiment, the target population and respondents, the required timeframe, the availability of computing resources, the desired level of reliability and validity, and the cost involved. By assessing these factors, the research student can select an appropriate probability-based sampling technique that will provide reliable and valid results for their experiment."
+        },
+        "comments": [{
+          "creator": {
+            "name": {
+              "fullName": "April Jane Rosal"
+            },
+            "emailAddress": "aarosal@up.edu.ph"
+          },
+          "creationTime": "2023-04-21T14:49:29.299Z",
+          "updateTime": "2023-04-21T14:49:29.284Z",
+          "comment": "Great day, Kashi! What are the factors to consider in estimating the duration of a computer experiment? Aside from attainability of specified time frame, what are other criteria to ensure that the research is feasible?",
+          "commentHtml": "\u003cdiv\u003eGreat day, Kashi! What are the factors to consider in estimating the duration of a computer experiment? Aside from attainability of specified time frame, what are other criteria to ensure that the research is feasible?\u003c/div\u003e",
+          "state": "PUBLISHED",
+          "commentVisibility": "COURSE"
+        }, {
+          "creator": {
+            "name": {
+              "fullName": "Theresse Faith Amamangpang"
+            },
+            "emailAddress": "tcamamangpang@up.edu.ph"
+          },
+          "creationTime": "2023-04-22T01:08:04.462Z",
+          "updateTime": "2023-04-22T01:08:04.389Z",
+          "comment": "Hello Kashi! I think you gave a thorough response that covers most of the important factors to consider when selecting a probability-based sampling technique for a computer experiment. Your answer shows a good grasp of the selection process and the factors that influence it. Though I think it would be even more helpful if you provide examples of probability-based sampling techniques that to illustrate the concepts you mentioned. I think it might be more useful to emphasize the importance of selecting a probability-based sampling technique that is suitable for the research question rather than one that is simply convenient or available. I think highlighting the importance of ensuring that the sample is representative of the target population would also prove to be beneficial. This means that the sample should include individuals with similar characteristics to the target population.\n\nOverall, I believe you gave a well-organized and informative response that displays a good understanding of the essential factors to consider when selecting a probability-based sampling technique for a computer experiment. These are just suggestions that I believe can help you further enhance your answer.",
+          "commentHtml": "\u003cdiv\u003eHello Kashi! I think you gave a thorough response that covers most of the important factors to consider when selecting a probability-based sampling technique for a computer experiment. Your answer shows a good grasp of the selection process and the factors that influence it. Though I think it would be even more helpful if you provide examples of probability-based sampling techniques that to illustrate the concepts you mentioned. I think it might be more useful to emphasize the importance of selecting a probability-based sampling technique that is suitable for the research question rather than one that is simply convenient or available. I think highlighting the importance of ensuring that the sample is representative of the target population would also prove to be beneficial. This means that the sample should include individuals with similar characteristics to the target population.\u003cbr\u003e\u003cbr\u003eOverall, I believe you gave a well-organized and informative response that displays a good understanding of the essential factors to consider when selecting a probability-based sampling technique for a computer experiment. These are just suggestions that I believe can help you further enhance your answer.\u003c/div\u003e",
+          "state": "PUBLISHED",
+          "commentVisibility": "COURSE"
+        }]
+      }]
+    }
+  }, {
+    "creator": {
+      "name": {
+        "fullName": "Demelo Lao"
+      }
+    },
+    "creationTime": "2023-02-13T15:34:29.947Z",
+    "updateTime": "2023-04-03T17:29:26.499Z",
+    "scheduledTime": "2023-03-27T00:00:00Z",
+    "publicationTime": "2023-03-27T00:01:22.052Z",
+    "state": "PUBLISHED",
+    "topics": [{
+      "name": "Week 6 (27-31 Mar 2023) - Research Design – Part II"
+    }],
+    "materials": [{
+      "driveFile": {
+        "driveFile": {
+          "id": "1HngCdzViRJyOJLPj0F6G8KGAjaUIakqf",
+          "title": "ActivityGuide-Week6Rev1.pdf",
+          "alternateLink": "https://drive.google.com/file/d/1HngCdzViRJyOJLPj0F6G8KGAjaUIakqf/view?usp\u003ddrive_web",
+          "thumbnailUrl": "https://lh3.googleusercontent.com/drive-storage/AJQWtBPARNmAdhLv5jem8YuSbrg1GNGt66Bsgp05gtwKXuAisdpp-zTejvZf0QqqkU37Ju-k3N1UmRBOHXSFXY3mw3C4aLGedQ8F-aQtgRXTXpjamv8\u003ds200"
+        },
+        "shareMode": "VIEW"
+      }
+    }],
+    "courseWork": {
+      "title": "Class Activity 3 - Analyzing Sections of a Published Research Article for Part of the Text Narrative Describing the Research Design",
+      "description": "Pick the same partner as in the previous class activity since this activity is to be accomplished in pairs to promote collaboration and interaction.",
+      "descriptionHtml": "\u003cdiv\u003ePick the same partner as in the previous class activity since this activity is to be accomplished in pairs to promote collaboration and interaction.\u003c/div\u003e",
+      "dueTime": "2023-04-17T15:59:00Z",
+      "maxPoints": 15.0,
+      "gradeCategory": {
+        "name": "Class Activity"
+      },
+      "workType": "ASSIGNMENT",
+      "submissions": [{
+        "student": {
+          "profile": {
+            "name": {
+              "fullName": "REFINO KASHI KYLE ESTUDILLO"
+            },
+            "emailAddress": "rgestudillo@up.edu.ph"
+          }
+        },
+        "assignedGrade": 7.0,
+        "gradeCalculationOption": "GRADED",
+        "state": "RETURNED",
+        "assignmentSubmission": {
+          "attachments": [{
+            "driveFile": {
+              "id": "1Wk4Y-uks9zfhhM0gjqiPweSws_FjXoQ1",
+              "title": "Class-Activity-3-Mojado_Estudillo.pdf",
+              "alternateLink": "https://drive.google.com/file/d/1Wk4Y-uks9zfhhM0gjqiPweSws_FjXoQ1/view?usp\u003ddrive_web",
+              "thumbnailUrl": "https://lh3.googleusercontent.com/drive-storage/AJQWtBOi6zPVdWvR7Oha14ggFFrP3MFPqx_5phLYOaz1q7FIKji-FdkrNrtn3yFClrCDBWT7Ov46lQI3XvJm2bjpEW9LOSdFc-qBtB1tujfddi-_E08\u003ds200"
+            }
+          }]
+        },
+        "comments": [{
+          "creator": {
+            "name": {
+              "fullName": "Demelo Lao"
+            }
+          },
+          "creationTime": "2023-05-05T08:10:46.357Z",
+          "updateTime": "2023-05-05T08:10:46.213Z",
+          "comment": "Please share my comments/feedback in this annotated PDF submission to your partner.",
+          "commentHtml": "\u003cdiv\u003ePlease share my comments/feedback in this annotated PDF submission to your partner.\u003c/div\u003e",
+          "state": "PUBLISHED",
+          "commentVisibility": "PRIVATE"
+        }]
+      }]
+    }
+  }, {
+    "creator": {
+      "name": {
+        "fullName": "Demelo Lao"
+      }
+    },
+    "creationTime": "2023-02-13T15:34:29.930Z",
+    "updateTime": "2023-03-20T00:02:08.692Z",
+    "scheduledTime": "2023-03-20T00:00:00Z",
+    "publicationTime": "2023-03-20T00:02:08.630Z",
+    "state": "PUBLISHED",
+    "topics": [{
+      "name": "Week 5 (20-24 Mar 2023) - Research Design – Part I"
+    }],
+    "courseWork": {
+      "title": "Activity 2 (Discussion Forum 1) - How would you set up (and conduct) the experiment taking into consideration other factors that might influence the processing times other than the specific compression algorithm itself?",
+      "description": "Participate actively in the discussion forum since this constitutes your rating for ‘Active Class Participation’ in the grading scheme. If you borrow ideas in some parts of your post, then cite the source(s) appropriately.",
+      "descriptionHtml": "\u003cdiv\u003eParticipate actively in the discussion forum since this constitutes your rating for ‘Active Class Participation’ in the grading scheme. If you borrow ideas in some parts of your post, then cite the source(s) appropriately.\u003c/div\u003e",
+      "dueTime": "2023-03-24T15:59:00Z",
+      "maxPoints": 10.0,
+      "gradeCategory": {
+        "name": "Class Participation"
+      },
+      "workType": "SHORT_ANSWER_QUESTION",
+      "submissions": [{
+        "student": {
+          "profile": {
+            "name": {
+              "fullName": "REFINO KASHI KYLE ESTUDILLO"
+            },
+            "emailAddress": "rgestudillo@up.edu.ph"
+          }
+        },
+        "assignedGrade": 7.0,
+        "gradeCalculationOption": "GRADED",
+        "state": "RETURNED",
+        "shortAnswerSubmission": {
+          "answer": "To set up and conduct an experiment on file compression algorithms while taking into consideration other factors that might influence processing times, here are some steps to follow:\n\n2.1. The number of IBM PC compatible units required for the experiment will depend on the scale of the experiment and the number of treatments being compared. Generally, it is recommended to have at least three experimental units per treatment to ensure statistical significance. Thus, at least three PC units will be needed for each compression algorithm being tested.\n\n2.2. Some parts of the computer that can affect processing times include the CPU speed, amount of RAM, disk speed, and network bandwidth. To make these parts \"uniform\" across the PC units used as experimental platforms, the same model and specifications of the computer should be used for all units. Furthermore, all computers should be tested for hardware consistency and regularly monitored during the experiment to ensure that there are no hardware issues or malfunctions that could affect processing times.\n\n2.3. The software aspect of \"uniformity\" can be addressed by using the same operating system and software versions across all PC units. Additionally, any unnecessary applications running in the background should be closed to prevent any potential impact on processing times. The antivirus and other background software should also be disabled or stopped during the experiment.\n\n2.4. The file compression jobs (with 360p, 720p, and 1080p video qualities) should be randomly assigned to each experimental platform to ensure that there is no bias in treatment allocation. Each PC unit should then run all three compression algorithms in a randomized order to prevent any order effects. Before running the algorithms, the experimental platforms should be checked for consistent configuration and software versions, and any necessary software updates or patches should be applied.\n\n2.5. The number of observations will depend on the number of treatments being compared and the number of runs conducted. Each job\u0027s processing time will be measured by recording the start and end times of the compression and decompression processes. The time taken to complete each job should be recorded in seconds or milliseconds, and the average processing time for each job should be calculated across multiple runs to ensure statistical significance.\n\nSources:\n\n\"A Practical Guide to Experimental Design for Compression Algorithm Evaluation\" by A. Selcuk Uluagac and Adnan Aijaz, 2020.\n\"Practical Guidelines for Rigorous Evaluation of Video Compression Algorithms\" by R. de Queiroz et al., 2018."
+        },
+        "comments": [{
+          "creator": {
+            "name": {
+              "fullName": "Demelo Lao"
+            }
+          },
+          "creationTime": "2023-03-25T15:34:44.531Z",
+          "updateTime": "2023-03-25T15:34:44.367Z",
+          "comment": "This is already considered as late submission.",
+          "commentHtml": "\u003cdiv\u003eThis is already considered as late submission.\u003c/div\u003e",
+          "state": "PUBLISHED",
+          "commentVisibility": "PRIVATE"
+        }]
+      }]
+    }
+  }, {
+    "creator": {
+      "name": {
+        "fullName": "Demelo Lao"
+      }
+    },
+    "creationTime": "2023-02-13T15:34:29.744Z",
+    "updateTime": "2023-03-06T00:01:15.259Z",
+    "scheduledTime": "2023-03-06T00:00:00Z",
+    "publicationTime": "2023-03-06T00:01:15.099Z",
+    "state": "PUBLISHED",
+    "topics": [{
+      "name": "Week 3 (6-10 Mar 2023) - Literature Survey and Problem Statement: A Refresher"
+    }],
+    "materials": [{
+      "driveFile": {
+        "driveFile": {
+          "id": "1v4JR_hn0UsJDwLp5h5ipGtwKWozHTrI8",
+          "title": "AssignmentGuide-1Rev1.pdf",
+          "alternateLink": "https://drive.google.com/file/d/1v4JR_hn0UsJDwLp5h5ipGtwKWozHTrI8/view?usp\u003ddrive_web",
+          "thumbnailUrl": "https://lh3.googleusercontent.com/drive-storage/AJQWtBN2Gwg9gr3QnVMeM90rprmM_PGutaJ1q5yX7XxWUO-cmmlclg7FdOuHup18sx3A4B9IWmJZzivyszq0KDRTiSLmLuVSayrqXlfK1n_WascMcTE\u003ds200"
+        },
+        "shareMode": "VIEW"
+      }
+    }],
+    "courseWork": {
+      "title": "Assignment 1 - Retrieving Published Research Articles from Online Computer Science Journal\nand Analyzing for Paper’s Section that Indicates Research Gap and Problem Statement",
+      "description": "Find a partner. You may pick the same partner with the one you chose in accomplishing the class activity.",
+      "descriptionHtml": "\u003cdiv\u003eFind a partner. You may pick the same partner with the one you chose in accomplishing the class activity.\u003c/div\u003e",
+      "dueTime": "2023-03-17T15:59:00Z",
+      "maxPoints": 100.0,
+      "gradeCategory": {
+        "name": "Assignment"
+      },
+      "workType": "ASSIGNMENT",
+      "rubric": {
+        "criterion": [{
+          "title": "Completeness",
+          "description": "All relevant or required items in the assignment have been provided responses.",
+          "rating": [{
+            "points": 10.0
+          }]
+        }, {
+          "title": "Content",
+          "description": "Appropriateness of the responses corresponding to the required items or “accurateness” of the responses.",
+          "rating": [{
+            "points": 50.0
+          }]
+        }, {
+          "title": "Organization, Grammar, and Citation",
+          "description": "In chronological order, clear, concise, grammatically correct, and appropriately referenced.",
+          "rating": [{
+            "points": 30.0
+          }]
+        }, {
+          "title": "Creativity",
+          "description": "Shows creativity in organizing and presenting the document which contains the responses.",
+          "rating": [{
+            "points": 10.0
+          }]
+        }]
+      },
+      "submissions": [{
+        "student": {
+          "profile": {
+            "name": {
+              "fullName": "REFINO KASHI KYLE ESTUDILLO"
+            },
+            "emailAddress": "rgestudillo@up.edu.ph"
+          }
+        },
+        "assignedGrade": 90.0,
+        "gradeCalculationOption": "GRADED",
+        "state": "RETURNED",
+        "assignmentSubmission": {
+          "attachments": [{
+            "driveFile": {
+              "id": "1X9fVddX7vdra7LQsMgRZlqNFfpQxIVM_",
+              "title": "Assignment-1-Estudillo_Mojado.pdf",
+              "alternateLink": "https://drive.google.com/file/d/1X9fVddX7vdra7LQsMgRZlqNFfpQxIVM_/view?usp\u003ddrive_web",
+              "thumbnailUrl": "https://lh3.googleusercontent.com/drive-storage/AJQWtBPEF9h-lVtt5n5lyWE7YGmAX5MnqOSPvWjSBfcgYUqrNvLOkGcQZ1oTDA06ZyCHlecefxB70KVrmESWUmNk2KUktbS3fTyfzuIk3kNS6-t8sQQ\u003ds200"
+            }
+          }]
+        },
+        "assignedRubricScore": {
+          "criterionScore": [{
+            "criterion": "Organization, Grammar, and Citation",
+            "points": 30.0
+          }, {
+            "criterion": "Creativity",
+            "points": 9.0
+          }, {
+            "criterion": "Completeness",
+            "points": 10.0
+          }, {
+            "criterion": "Content",
+            "points": 41.0
+          }]
+        },
+        "comments": [{
+          "creator": {
+            "name": {
+              "fullName": "Demelo Lao"
+            }
+          },
+          "creationTime": "2023-04-07T13:36:31.072Z",
+          "updateTime": "2023-04-07T13:36:30.866Z",
+          "comment": "Please share my comments/feedback in this annotated PDF submission to your partner.",
+          "commentHtml": "\u003cdiv\u003ePlease share my comments/feedback in this annotated PDF submission to your partner.\u003c/div\u003e",
+          "state": "PUBLISHED",
+          "commentVisibility": "PRIVATE"
+        }]
+      }]
+    }
+  }, {
+    "creator": {
+      "name": {
+        "fullName": "Demelo Lao"
+      }
+    },
+    "creationTime": "2023-02-13T15:34:29.687Z",
+    "updateTime": "2023-02-27T00:03:30.931Z",
+    "scheduledTime": "2023-02-27T00:00:00Z",
+    "publicationTime": "2023-02-27T00:03:30.789Z",
+    "state": "PUBLISHED",
+    "topics": [{
+      "name": "Week 2 (27 Feb-3 Mar 2023) - Introduction to Research"
+    }],
+    "materials": [{
+      "driveFile": {
+        "driveFile": {
+          "id": "1tbT0agJw68S5gTdCXNepVbYkKBmmta5u",
+          "title": "ActivityGuide-Week2Rev1.pdf",
+          "alternateLink": "https://drive.google.com/file/d/1tbT0agJw68S5gTdCXNepVbYkKBmmta5u/view?usp\u003ddrive_web",
+          "thumbnailUrl": "https://lh3.googleusercontent.com/drive-storage/AJQWtBPjfGDQ9mMXnavKytJ_zxrnkJC4UP5zBmZEzxfKGj7jR5vPjQJ18OF0GzZha1RXTG0PLj0D3i_yGclzQQwZ3yQysT5fFE1MN6CBWgpaXPvNofk\u003ds200"
+        },
+        "shareMode": "VIEW"
+      }
+    }],
+    "courseWork": {
+      "title": "Class Activity 1 - Arranging Activities according to Sequence of Events in the Research Process",
+      "description": "Choose a partner among your classmates in the same class section since this activity is to be accomplished in pairs to promote collaboration and interaction.",
+      "descriptionHtml": "\u003cdiv\u003eChoose a partner among your classmates in the same class section since this activity is to be accomplished in pairs to promote collaboration and interaction.\u003c/div\u003e",
+      "dueTime": "2023-03-10T15:59:00Z",
+      "maxPoints": 15.0,
+      "gradeCategory": {
+        "name": "Class Activity"
+      },
+      "workType": "ASSIGNMENT",
+      "submissions": [{
+        "student": {
+          "profile": {
+            "name": {
+              "fullName": "REFINO KASHI KYLE ESTUDILLO"
+            },
+            "emailAddress": "rgestudillo@up.edu.ph"
+          }
+        },
+        "assignedGrade": 14.0,
+        "gradeCalculationOption": "GRADED",
+        "state": "RETURNED",
+        "assignmentSubmission": {
+          "attachments": [{
+            "driveFile": {
+              "id": "1cEFGVowb-QOjxlX7JmWi1faBO9BgUxTn",
+              "title": "Class Activity 1-Mojado_Estudillo.pdf",
+              "alternateLink": "https://drive.google.com/file/d/1cEFGVowb-QOjxlX7JmWi1faBO9BgUxTn/view?usp\u003ddrive_web",
+              "thumbnailUrl": "https://lh3.googleusercontent.com/drive-storage/AJQWtBMS5_jO1AjDZg3VVWNt_7XGdYpXQ8WhZT2E4PvTUPCpGvGYn62MJ_qR1ZC8kg0nnVcvjI2DG0H5kG8KB6fFs-rQ6IUE0HU0HLcbo5by1IUd1WQ\u003ds200"
+            }
+          }]
+        },
+        "comments": [{
+          "creator": {
+            "name": {
+              "fullName": "Demelo Lao"
+            }
+          },
+          "creationTime": "2023-03-09T14:43:25.761Z",
+          "updateTime": "2023-03-09T14:43:25.681Z",
+          "comment": "Submit a copy of your pair\u0027s responses to Class Activity 1 to the Submission bin. Thank you and for your compliance.",
+          "commentHtml": "\u003cdiv\u003eSubmit a copy of your pair\u0026#39;s responses to Class Activity 1 to the Submission bin. Thank you and for your compliance.\u003c/div\u003e",
+          "state": "PUBLISHED",
+          "commentVisibility": "PRIVATE"
+        }, {
+          "creator": {
+            "name": {
+              "fullName": "Demelo Lao"
+            }
+          },
+          "creationTime": "2023-03-16T16:28:55.952Z",
+          "updateTime": "2023-03-16T16:28:55.717Z",
+          "comment": "Please share my comments/feedback in this annotated PDF submission to your partner.",
+          "commentHtml": "\u003cdiv\u003ePlease share my comments/feedback in this annotated PDF submission to your partner.\u003c/div\u003e",
+          "state": "PUBLISHED",
+          "commentVisibility": "PRIVATE"
+        }]
+      }]
+    }
+  }]
+}

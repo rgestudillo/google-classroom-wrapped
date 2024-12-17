@@ -1,0 +1,394 @@
+{
+  "version": 1,
+  "name": "Physics 81.1 A2",
+  "section": "Th 09:00-12:00",
+  "room": "Online",
+  "calendarUrl": "https://calendar.google.com/render?cid\u003dc_classroom1ee493c3@group.calendar.google.com",
+  "courseFolder": {
+    "id": "1c1PUMDMC6z2SYPOVIByVAjcWzhVoE98DGZK8FzvxtJUFsUMVUbcZgMnWuyku0Lj4UaegSJNT",
+    "name": "Physics 81.1 A2 Th 09:00-12:00",
+    "openUrl": "https://drive.google.com/drive/folders/1c1PUMDMC6z2SYPOVIByVAjcWzhVoE98DGZK8FzvxtJUFsUMVUbcZgMnWuyku0Lj4UaegSJNT"
+  },
+  "photoUrl": "https://gstatic.com/classroom/themes/img_breakfast.jpg",
+  "subject": "Intermediate Physics I - Laboratory",
+  "courseState": "ARCHIVED",
+  "posts": [{
+    "creator": {
+      "name": {
+        "fullName": "Unknown user"
+      }
+    },
+    "creationTime": "2022-06-06T00:04:24.192Z",
+    "updateTime": "2022-06-09T00:55:33.577Z",
+    "scheduledTime": "2022-06-09T00:55:00Z",
+    "publicationTime": "2022-06-09T00:55:33.503Z",
+    "state": "PUBLISHED",
+    "topics": [{
+      "name": "Lab Activities"
+    }],
+    "materials": [{
+      "driveFile": {
+        "driveFile": {
+          "id": "1Ha_JKzSRgudXvPDQkam25v4DNjWaixj4",
+          "alternateLink": "https://drive.google.com/open?id\u003d1Ha_JKzSRgudXvPDQkam25v4DNjWaixj4"
+        },
+        "shareMode": "VIEW"
+      }
+    }, {
+      "driveFile": {
+        "driveFile": {
+          "id": "1oQIItZpMWUmAKVQgzcw-by2xtTVpwkY0",
+          "alternateLink": "https://drive.google.com/open?id\u003d1oQIItZpMWUmAKVQgzcw-by2xtTVpwkY0"
+        },
+        "shareMode": "VIEW"
+      }
+    }],
+    "courseWork": {
+      "title": "[Act6] Friction and Normal Forces",
+      "description": "For your sixth and final activity for this semester, we will revisit the concepts of friction and normal force and see how these two constitute a single contact force, which would explain how they are related with each other. Attached in this posting is the lab material with the worksheet and the applet for the simulation (downloadable). You may annotate your answers directly in the pdf file or write them in a separate sheet. Submit your work with the format: SURNAME_Act6.pdf (or .jpg when scanned). If you have a question or find any inconsistencies in the lab material, please inform me by sending a message or commenting down below. Thank you!",
+      "descriptionHtml": "\u003cdiv\u003eFor your sixth and final activity for this semester, we will revisit the concepts of friction and normal force and see how these two constitute a single contact force, which would explain how they are related with each other. Attached in this posting is the lab material with the worksheet and the applet for the simulation (downloadable). You may annotate your answers directly in the pdf file or write them in a separate sheet. Submit your work with the format: SURNAME_Act6.pdf (or .jpg when scanned). If you have a question or find any inconsistencies in the lab material, please inform me by sending a message or commenting down below. Thank you!\u003c/div\u003e",
+      "dueTime": "2022-06-16T01:00:00Z",
+      "maxPoints": 100.0,
+      "workType": "ASSIGNMENT",
+      "submissions": [{
+        "student": {
+          "profile": {
+            "name": {
+              "fullName": "REFINO KASHI KYLE ESTUDILLO"
+            },
+            "emailAddress": "rgestudillo@up.edu.ph"
+          }
+        },
+        "gradeCalculationOption": "GRADED",
+        "state": "TURNED_IN",
+        "assignmentSubmission": {
+          "attachments": [{
+            "driveFile": {
+              "id": "18bObsthSjbiOqeRqc-QlGFa9lWCXZwPM",
+              "alternateLink": "https://drive.google.com/open?id\u003d18bObsthSjbiOqeRqc-QlGFa9lWCXZwPM"
+            }
+          }]
+        }
+      }]
+    }
+  }, {
+    "creator": {
+      "name": {
+        "fullName": "Unknown user"
+      }
+    },
+    "creationTime": "2022-05-23T00:20:13.568Z",
+    "updateTime": "2022-05-31T02:49:43.410Z",
+    "scheduledTime": "2022-05-26T00:55:00Z",
+    "publicationTime": "2022-05-26T00:57:12.303Z",
+    "state": "PUBLISHED",
+    "topics": [{
+      "name": "Lab Activities"
+    }],
+    "materials": [{
+      "driveFile": {
+        "driveFile": {
+          "id": "15Cy9d9YjoPcRM4aRTokrU3KnpTROBL_1",
+          "alternateLink": "https://drive.google.com/open?id\u003d15Cy9d9YjoPcRM4aRTokrU3KnpTROBL_1"
+        },
+        "shareMode": "VIEW"
+      }
+    }, {
+      "driveFile": {
+        "driveFile": {
+          "id": "13V-_sJ5bar1jHLDsubOpRPZw50dI_QF7",
+          "alternateLink": "https://drive.google.com/open?id\u003d13V-_sJ5bar1jHLDsubOpRPZw50dI_QF7"
+        },
+        "shareMode": "VIEW"
+      }
+    }],
+    "courseWork": {
+      "title": "[Act5] Newton\u0027s Laws of Motion",
+      "description": "For your fifth activity, you will get to test your understanding on the three laws of motion that we\u0027ve discussed in the lecture course. Hopefully, by exploring the simulation, you can see how forces affect the motion of objects in real time. Attached in this posting is the lab material with the worksheet and the applet for the simulation (downloadable). You may annotate your answers directly in the pdf file or write them in a separate sheet. Submit your work with the format: SURNAME_Act5.pdf (or .jpg when scanned). If you have a question or find any inconsistencies in the lab material, please inform me by sending a message. Thank you!\n\nNOTE: Please don\u0027t forget to complete Part 3 of the worksheet!",
+      "descriptionHtml": "\u003cdiv\u003eFor your fifth activity, you will get to test your understanding on the three laws of motion that we\u0026#39;ve discussed in the lecture course. Hopefully, by exploring the simulation, you can see how forces affect the motion of objects in real time. Attached in this posting is the lab material with the worksheet and the applet for the simulation (downloadable). You may annotate your answers directly in the pdf file or write them in a separate sheet. Submit your work with the format: SURNAME_Act5.pdf (or .jpg when scanned). If you have a question or find any inconsistencies in the lab material, please inform me by sending a message. Thank you!\u003cbr\u003e\u003cbr\u003eNOTE: Please don\u0026#39;t forget to complete Part 3 of the worksheet!\u003c/div\u003e",
+      "dueTime": "2022-06-02T01:00:00Z",
+      "maxPoints": 100.0,
+      "workType": "ASSIGNMENT",
+      "submissions": [{
+        "student": {
+          "profile": {
+            "name": {
+              "fullName": "REFINO KASHI KYLE ESTUDILLO"
+            },
+            "emailAddress": "rgestudillo@up.edu.ph"
+          }
+        },
+        "gradeCalculationOption": "GRADED",
+        "state": "TURNED_IN",
+        "assignmentSubmission": {
+          "attachments": [{
+            "driveFile": {
+              "id": "1b_kX44ufZ3rIT-fWwK-FuFaNtuiSmXX8",
+              "alternateLink": "https://drive.google.com/open?id\u003d1b_kX44ufZ3rIT-fWwK-FuFaNtuiSmXX8"
+            }
+          }]
+        }
+      }]
+    }
+  }, {
+    "creator": {
+      "name": {
+        "fullName": "Unknown user"
+      }
+    },
+    "creationTime": "2022-04-24T18:45:45.180Z",
+    "updateTime": "2022-04-25T00:57:20.455Z",
+    "scheduledTime": "2022-04-25T00:55:00Z",
+    "publicationTime": "2022-04-25T00:57:20.396Z",
+    "state": "PUBLISHED",
+    "topics": [{
+      "name": "Lab Activities"
+    }],
+    "materials": [{
+      "driveFile": {
+        "driveFile": {
+          "id": "1jIkKAPveNyqjY_0KCfgZraVnpHd7CLQ5",
+          "alternateLink": "https://drive.google.com/open?id\u003d1jIkKAPveNyqjY_0KCfgZraVnpHd7CLQ5"
+        },
+        "shareMode": "VIEW"
+      }
+    }, {
+      "link": {
+        "url": "https://phet.colorado.edu/sims/html/projectile-motion/latest/projectile-motion_en.html",
+        "title": "‪Projectile Motion‬",
+        "thumbnailUrl": "https://classroom.google.com/webthumbnail?url\u003dhttps://phet.colorado.edu/sims/html/projectile-motion/latest/projectile-motion_en.html"
+      }
+    }],
+    "courseWork": {
+      "title": "[Act4] Projectile Motion",
+      "description": "For your next activity, you will combine what you\u0027ve learned in straight line horizontal and free-fall motion to understand how projectiles move. Attached in this posting is the lab material with the worksheet and the applet for the simulation. You may annotate your answers directly in the pdf file or write them in a separate sheet. Submit your work with the format: SURNAME_Act4.pdf (or .jpg when scanned). If you have a question or find any inconsistencies in the lab material, please inform me by sending a message. Thank you!\n\nP.S. This activity is assigned and will be collected earlier than usual.",
+      "descriptionHtml": "\u003cdiv\u003eFor your next activity, you will combine what you\u0026#39;ve learned in straight line horizontal and free-fall motion to understand how projectiles move. Attached in this posting is the lab material with the worksheet and the applet for the simulation. You may annotate your answers directly in the pdf file or write them in a separate sheet. Submit your work with the format: SURNAME_Act4.pdf (or .jpg when scanned). If you have a question or find any inconsistencies in the lab material, please inform me by sending a message. Thank you!\u003cbr\u003e\u003cbr\u003eP.S. This activity is assigned and will be collected earlier than usual.\u003c/div\u003e",
+      "dueTime": "2022-05-02T01:00:00Z",
+      "maxPoints": 100.0,
+      "workType": "ASSIGNMENT",
+      "submissions": [{
+        "student": {
+          "profile": {
+            "name": {
+              "fullName": "REFINO KASHI KYLE ESTUDILLO"
+            },
+            "emailAddress": "rgestudillo@up.edu.ph"
+          }
+        },
+        "gradeCalculationOption": "GRADED",
+        "state": "TURNED_IN",
+        "assignmentSubmission": {
+          "attachments": [{
+            "driveFile": {
+              "id": "16vvLUfuEDBuGJhI51xXzliISVvbX5A4K",
+              "alternateLink": "https://drive.google.com/open?id\u003d16vvLUfuEDBuGJhI51xXzliISVvbX5A4K"
+            }
+          }]
+        }
+      }]
+    }
+  }, {
+    "creator": {
+      "name": {
+        "fullName": "Unknown user"
+      }
+    },
+    "creationTime": "2022-04-03T18:08:13.055Z",
+    "updateTime": "2022-04-17T18:46:32.967Z",
+    "scheduledTime": "2022-04-07T00:55:00Z",
+    "publicationTime": "2022-04-07T00:57:06.503Z",
+    "state": "PUBLISHED",
+    "topics": [{
+      "name": "Lab Activities"
+    }],
+    "materials": [{
+      "driveFile": {
+        "driveFile": {
+          "id": "1_we2M9YGxZDMA2GGVop9YuD_bh6hA-H6",
+          "alternateLink": "https://drive.google.com/open?id\u003d1_we2M9YGxZDMA2GGVop9YuD_bh6hA-H6"
+        },
+        "shareMode": "VIEW"
+      }
+    }, {
+      "driveFile": {
+        "driveFile": {
+          "id": "1Q4--fxAoa6O5tpUWUF3dWEa0eghS_yLC",
+          "alternateLink": "https://drive.google.com/open?id\u003d1Q4--fxAoa6O5tpUWUF3dWEa0eghS_yLC"
+        },
+        "shareMode": "VIEW"
+      }
+    }],
+    "courseWork": {
+      "title": "[Act3] Freely-falling Bodies",
+      "description": "For your next activity, you will investigate how a falling object accelerates under the influence of gravity. Attached in this posting is the lab material with the worksheet and the applet for the simulation. You may annotate your answers directly in the pdf file or write them in a separate sheet. Submit your work with the format: SURNAME_Act3.pdf (or .jpg when scanned). If you have a question or find any inconsistencies in the lab material, please inform me by sending a message. Thank you!",
+      "descriptionHtml": "\u003cdiv\u003eFor your next activity, you will investigate how a falling object accelerates under the influence of gravity. Attached in this posting is the lab material with the worksheet and the applet for the simulation. You may annotate your answers directly in the pdf file or write them in a separate sheet. Submit your work with the format: SURNAME_Act3.pdf (or .jpg when scanned). If you have a question or find any inconsistencies in the lab material, please inform me by sending a message. Thank you!\u003c/div\u003e",
+      "dueTime": "2022-04-28T01:00:00Z",
+      "maxPoints": 100.0,
+      "workType": "ASSIGNMENT",
+      "submissions": [{
+        "student": {
+          "profile": {
+            "name": {
+              "fullName": "REFINO KASHI KYLE ESTUDILLO"
+            },
+            "emailAddress": "rgestudillo@up.edu.ph"
+          }
+        },
+        "gradeCalculationOption": "GRADED",
+        "state": "TURNED_IN",
+        "assignmentSubmission": {
+          "attachments": [{
+            "driveFile": {
+              "id": "1Lnf1rmUR9qzd5btrrKMJD4DVByNNTH6B",
+              "alternateLink": "https://drive.google.com/open?id\u003d1Lnf1rmUR9qzd5btrrKMJD4DVByNNTH6B"
+            }
+          }]
+        }
+      }]
+    }
+  }, {
+    "creator": {
+      "name": {
+        "fullName": "Unknown user"
+      }
+    },
+    "creationTime": "2022-03-23T16:16:53.494Z",
+    "updateTime": "2022-03-26T02:20:47.050Z",
+    "scheduledTime": "2022-03-24T00:55:00Z",
+    "publicationTime": "2022-03-24T00:57:21.679Z",
+    "state": "PUBLISHED",
+    "topics": [{
+      "name": "Lab Activities"
+    }],
+    "materials": [{
+      "driveFile": {
+        "driveFile": {
+          "id": "1Ps7I6bgruI2Z55K4aW6aWOCyx6PT4uaV",
+          "alternateLink": "https://drive.google.com/open?id\u003d1Ps7I6bgruI2Z55K4aW6aWOCyx6PT4uaV"
+        },
+        "shareMode": "VIEW"
+      }
+    }],
+    "courseWork": {
+      "title": "[Act2] Vector Components and Vector Addition",
+      "description": "Our second activity is all about vectors and vector addition. Vectors are quantities which have both a magnitude (amount, extent, etc.) and a direction. (Some examples of vector quantities include velocity, acceleration, force, and momentum.) The latter makes addition of these quantities less straightforward than algebraic, and requires [basic] trigonometric principles to arrive at a result known as a resultant/net vector.\n\nYou may annotate your answers directly onto the pdf file or you may also write them on a separate sheet -- handwritten (then photographed/scanned) or typed. Please name your submitted file as SURNAME_Act2.pdf (or .jpg if you\u0027re handing in a photo). The official deadline for turning over your completed work is next Thursday, 31 March 2021 at 09:00. For any questions, concerns, or inconsistencies that you find in the document, please comment down below or send me an email. Thank you!\n\nNote:\n1) For Part II (Addition of Vectors),  you don\u0027t have to have the exact measurements as with the one given in the problem, since the simulation has limited precision. Just make sure that the vectors that you draw in the simulation will be the ones you\u0027ll use in your calculations for comparison.",
+      "descriptionHtml": "\u003cdiv\u003eOur second activity is all about vectors and vector addition. Vectors are quantities which have both a magnitude (amount, extent, etc.) and a direction. (Some examples of vector quantities include velocity, acceleration, force, and momentum.) The latter makes addition of these quantities less straightforward than algebraic, and requires [basic] trigonometric principles to arrive at a result known as a resultant/net vector.\u003cbr\u003e\u003cbr\u003eYou may annotate your answers directly onto the pdf file or you may also write them on a separate sheet -- handwritten (then photographed/scanned) or typed. Please name your submitted file as SURNAME_Act2.pdf (or .jpg if you\u0026#39;re handing in a photo). The official deadline for turning over your completed work is next Thursday, 31 March 2021 at 09:00. For any questions, concerns, or inconsistencies that you find in the document, please comment down below or send me an email. Thank you!\u003cbr\u003e\u003cbr\u003eNote:\u003cbr\u003e1) For Part II (Addition of Vectors),  you don\u0026#39;t have to have the exact measurements as with the one given in the problem, since the simulation has limited precision. Just make sure that the vectors that you draw in the simulation will be the ones you\u0026#39;ll use in your calculations for comparison.\u003c/div\u003e",
+      "dueTime": "2022-03-31T01:00:00Z",
+      "maxPoints": 100.0,
+      "workType": "ASSIGNMENT",
+      "submissions": [{
+        "student": {
+          "profile": {
+            "name": {
+              "fullName": "REFINO KASHI KYLE ESTUDILLO"
+            },
+            "emailAddress": "rgestudillo@up.edu.ph"
+          }
+        },
+        "gradeCalculationOption": "GRADED",
+        "state": "TURNED_IN",
+        "assignmentSubmission": {
+          "attachments": [{
+            "driveFile": {
+              "id": "1sEMym7jN8Sc5jv5JxCw87ulAwpkxcONK",
+              "alternateLink": "https://drive.google.com/open?id\u003d1sEMym7jN8Sc5jv5JxCw87ulAwpkxcONK"
+            }
+          }]
+        },
+        "comments": [{
+          "creator": {
+            "name": {
+              "fullName": "REFINO KASHI KYLE ESTUDILLO"
+            },
+            "emailAddress": "rgestudillo@up.edu.ph"
+          },
+          "creationTime": "2022-04-07T05:41:23.822Z",
+          "updateTime": "2022-04-07T05:41:23.778Z",
+          "comment": "Good afternoon sir, sorry for not being able to submit my work last week, I was having an extreme fever and just got better today. I will submit it within the day sir, thank you and hoping for your kind consideration.",
+          "commentHtml": "\u003cdiv\u003eGood afternoon sir, sorry for not being able to submit my work last week, I was having an extreme fever and just got better today. I will submit it within the day sir, thank you and hoping for your kind consideration.\u003c/div\u003e",
+          "state": "PUBLISHED",
+          "commentVisibility": "PRIVATE"
+        }, {
+          "creator": {
+            "name": {
+              "fullName": "Unknown user"
+            }
+          },
+          "creationTime": "2022-04-07T05:46:31.877Z",
+          "updateTime": "2022-04-07T05:46:31.811Z",
+          "comment": "No worries, Refino. Just submit it whenever you can. You don\u0027t have to submit both activities today.",
+          "commentHtml": "\u003cdiv\u003eNo worries, Refino. Just submit it whenever you can. You don\u0026#39;t have to submit both activities today.\u003c/div\u003e",
+          "state": "PUBLISHED",
+          "commentVisibility": "PRIVATE"
+        }]
+      }]
+    }
+  }, {
+    "creator": {
+      "name": {
+        "fullName": "Unknown user"
+      }
+    },
+    "creationTime": "2022-03-13T17:54:54.857Z",
+    "updateTime": "2022-03-17T01:01:08.537Z",
+    "scheduledTime": "2022-03-17T01:00:00Z",
+    "publicationTime": "2022-03-17T01:01:08.401Z",
+    "state": "PUBLISHED",
+    "topics": [{
+      "name": "Lab Activities"
+    }],
+    "materials": [{
+      "driveFile": {
+        "driveFile": {
+          "id": "1y_KtGYHMl9wSdqb9-aE4lhfjQH-XKMba",
+          "alternateLink": "https://drive.google.com/open?id\u003d1y_KtGYHMl9wSdqb9-aE4lhfjQH-XKMba"
+        },
+        "shareMode": "VIEW"
+      }
+    }, {
+      "driveFile": {
+        "driveFile": {
+          "id": "1LGI5roh4DH9OR-fC6Zii0ZnAx3OsFiFo",
+          "alternateLink": "https://drive.google.com/open?id\u003d1LGI5roh4DH9OR-fC6Zii0ZnAx3OsFiFo"
+        },
+        "shareMode": "VIEW"
+      }
+    }, {
+      "driveFile": {
+        "driveFile": {
+          "id": "1D1x9mk4O9o688wkmELSYRjKNXfzuDmAa",
+          "alternateLink": "https://drive.google.com/open?id\u003d1D1x9mk4O9o688wkmELSYRjKNXfzuDmAa"
+        },
+        "shareMode": "VIEW"
+      }
+    }],
+    "courseWork": {
+      "title": "[Act1] Measurements, Significant Figures, and Graphs",
+      "description": "This is the first activity for Physics 81.1, which involves measurements and how they are reported. It is recommended that you go over the written pre-lab lecture material before answering the Worksheet. You may annotate your answers directly onto the pdf file or you may also write them on a separate sheet -- handwritten (then photographed/scanned) or typed. Please name your submitted file as SURNAME_Act1.pdf (or .jpg if you\u0027re handing in a photo). The official deadline for turning over your completed work is next Thursday, 24 March 2021 at 09:00. For any questions or concerns, please comment down below or send me an email.\n\n\nCORRECTIONS:\n1) In the Worksheet, the Vernier scale for both items has a graduation size of 0.005 cm or 0.5 mm. For the cylindrical pipe, the first value should be for the height of the cylinder. This will read: \"a height of 5.80 cm, and a diameter of 6.454 mm\".\n2) In Practice Problem II (item c) in the Worksheet, use 6.890 mm as the width of the rectangle instead of 6.980 mm.",
+      "descriptionHtml": "\u003cdiv\u003eThis is the first activity for Physics 81.1, which involves measurements and how they are reported. It is recommended that you go over the written pre-lab lecture material before answering the Worksheet. You may annotate your answers directly onto the pdf file or you may also write them on a separate sheet -- handwritten (then photographed/scanned) or typed. Please name your submitted file as SURNAME_Act1.pdf (or .jpg if you\u0026#39;re handing in a photo). The official deadline for turning over your completed work is next Thursday, 24 March 2021 at 09:00. For any questions or concerns, please comment down below or send me an email.\u003cbr\u003e\u003cbr\u003e\u003cbr\u003eCORRECTIONS:\u003cbr\u003e1) In the Worksheet, the Vernier scale for both items has a graduation size of 0.005 cm or 0.5 mm. For the cylindrical pipe, the first value should be for the height of the cylinder. This will read: \u0026quot;a height of 5.80 cm, and a diameter of 6.454 mm\u0026quot;.\u003cbr\u003e2) In Practice Problem II (item c) in the Worksheet, use 6.890 mm as the width of the rectangle instead of 6.980 mm.\u003c/div\u003e",
+      "dueTime": "2022-03-24T01:00:00Z",
+      "maxPoints": 100.0,
+      "workType": "ASSIGNMENT",
+      "submissions": [{
+        "student": {
+          "profile": {
+            "name": {
+              "fullName": "REFINO KASHI KYLE ESTUDILLO"
+            },
+            "emailAddress": "rgestudillo@up.edu.ph"
+          }
+        },
+        "gradeCalculationOption": "GRADED",
+        "state": "TURNED_IN",
+        "assignmentSubmission": {
+          "attachments": [{
+            "driveFile": {
+              "id": "1ESU0GM38ELd7lFMy7DcDvUo5rDn1JoQc",
+              "alternateLink": "https://drive.google.com/open?id\u003d1ESU0GM38ELd7lFMy7DcDvUo5rDn1JoQc"
+            }
+          }]
+        }
+      }]
+    }
+  }]
+}

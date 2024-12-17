@@ -1,0 +1,246 @@
+{
+  "version": 1,
+  "name": "Physics 81 A",
+  "section": "MTh 15:00-16:30",
+  "room": "Online",
+  "calendarUrl": "https://calendar.google.com/render?cid\u003dc_classroom7e8b2188@group.calendar.google.com",
+  "videoCallUrl": "https://meet.google.com/wqs-jeaf-koa",
+  "courseFolder": {
+    "id": "1PtMcwNmMspGtRC5vJ-vAxuIchjU1CdC908MwWC7LV-mAmqdEO_w8ivKIYM3i9QAZ0-lhM6oy",
+    "name": "Physics 81 A MTh 15:00-16:30",
+    "openUrl": "https://drive.google.com/drive/folders/1PtMcwNmMspGtRC5vJ-vAxuIchjU1CdC908MwWC7LV-mAmqdEO_w8ivKIYM3i9QAZ0-lhM6oy"
+  },
+  "photoUrl": "https://gstatic.com/classroom/themes/SocialStudies.jpg",
+  "subject": "Intermediate Physics I (Mechanics)",
+  "courseState": "ARCHIVED",
+  "posts": [{
+    "creator": {
+      "name": {
+        "fullName": "Unknown user"
+      }
+    },
+    "creationTime": "2022-06-13T06:13:57.783Z",
+    "updateTime": "2022-06-13T06:32:06.232Z",
+    "scheduledTime": "2022-06-13T06:30:00Z",
+    "publicationTime": "2022-06-13T06:32:06.062Z",
+    "state": "PUBLISHED",
+    "topics": [{
+      "name": "Activities"
+    }],
+    "materials": [{
+      "driveFile": {
+        "driveFile": {
+          "id": "16UlfrsXldA_gR1MfUX1vLWqXAKRg6VTn",
+          "alternateLink": "https://drive.google.com/open?id\u003d16UlfrsXldA_gR1MfUX1vLWqXAKRg6VTn"
+        },
+        "shareMode": "VIEW"
+      }
+    }],
+    "courseWork": {
+      "title": "[Act4] Work and Kinetic Energy",
+      "description": "For your fourth and final activity, you are to solve some problems which will hopefully test your understanding on how work and energy concepts may be utilized to describe the motion of an object. I\u0027ve also included a few items on Power, so make sure that you\u0027ve reviewed this section as well. For this activity, you may refer to the lecture slides which were provided for you previously.\n\nINSTRUCTIONS:\nAs before, you\u0027ll have to inform me (through private comment) the time and date that you opened the file in the attachment. From there, you will have a day to complete the activity. Please submit your file with the format SURNAME_Act4.pdf (or .jpg if scanned). The deadline for this is next Thursday on or before 15:00.\n\nPlease work on your own. And if you have questions regarding the items in the activity, just send me an email or a private comment.\n\nGood luck!",
+      "descriptionHtml": "\u003cdiv\u003eFor your fourth and final activity, you are to solve some problems which will hopefully test your understanding on how work and energy concepts may be utilized to describe the motion of an object. I\u0026#39;ve also included a few items on Power, so make sure that you\u0026#39;ve reviewed this section as well. For this activity, you may refer to the lecture slides which were provided for you previously.\u003cbr\u003e\u003cbr\u003eINSTRUCTIONS:\u003cbr\u003eAs before, you\u0026#39;ll have to inform me (through private comment) the time and date that you opened the file in the attachment. From there, you will have a day to complete the activity. Please submit your file with the format SURNAME_Act4.pdf (or .jpg if scanned). The deadline for this is next Thursday on or before 15:00.\u003cbr\u003e\u003cbr\u003ePlease work on your own. And if you have questions regarding the items in the activity, just send me an email or a private comment.\u003cbr\u003e\u003cbr\u003eGood luck!\u003c/div\u003e",
+      "dueTime": "2022-06-16T07:00:00Z",
+      "maxPoints": 15.0,
+      "workType": "ASSIGNMENT",
+      "submissions": [{
+        "student": {
+          "profile": {
+            "name": {
+              "fullName": "REFINO KASHI KYLE ESTUDILLO"
+            },
+            "emailAddress": "rgestudillo@up.edu.ph"
+          }
+        },
+        "gradeCalculationOption": "GRADED",
+        "state": "TURNED_IN",
+        "assignmentSubmission": {
+          "attachments": [{
+            "driveFile": {
+              "id": "13Whl4zxjK-Cd2-vr5gQb3rGfuXy5xhv1",
+              "alternateLink": "https://drive.google.com/open?id\u003d13Whl4zxjK-Cd2-vr5gQb3rGfuXy5xhv1"
+            }
+          }]
+        }
+      }]
+    }
+  }, {
+    "creator": {
+      "name": {
+        "fullName": "Unknown user"
+      }
+    },
+    "creationTime": "2022-05-30T06:49:47.673Z",
+    "updateTime": "2022-05-30T07:02:12.943Z",
+    "publicationTime": "2022-05-30T07:02:12.787Z",
+    "state": "PUBLISHED",
+    "topics": [{
+      "name": "Activities"
+    }],
+    "materials": [{
+      "driveFile": {
+        "driveFile": {
+          "id": "1o5SbuIpmB9V2MTFrQJC_9PI44VW2y_MB",
+          "alternateLink": "https://drive.google.com/open?id\u003d1o5SbuIpmB9V2MTFrQJC_9PI44VW2y_MB"
+        },
+        "shareMode": "VIEW"
+      }
+    }],
+    "courseWork": {
+      "title": "[Act3] Newton\u0027s Laws of Motion",
+      "description": "For your third activity, I\u0027ve prepared a multiple-choice type of test about Newton\u0027s laws of motion and its various applications. The equations provided in the questionnaire should be sufficient to solve the given problems. You only have to provide me the letter of your answer for each item (no solutions needed).\n\nINSTRUCTIONS:\nDo not open the file if you are not ready to answer or still need to review your notes or the lecture slides. Once you do, you\u0027ll have to inform me (through private comment) the time and date that you opened it, and you can no longer refer to your notes. From there, you will have a day to complete the activity. Please submit your file with the format SURNAME_Act3.pdf (or .jpg if scanned). The deadline for this is next Thursday before our class period.\n\nPlease work on your own. And if you have questions regarding the items in the activity, just send me an email or a private comment.\n\nGood luck!",
+      "descriptionHtml": "\u003cdiv\u003eFor your third activity, I\u0026#39;ve prepared a multiple-choice type of test about Newton\u0026#39;s laws of motion and its various applications. The equations provided in the questionnaire should be sufficient to solve the given problems. You only have to provide me the letter of your answer for each item (no solutions needed).\u003cbr\u003e\u003cbr\u003eINSTRUCTIONS:\u003cbr\u003eDo not open the file if you are not ready to answer or still need to review your notes or the lecture slides. Once you do, you\u0026#39;ll have to inform me (through private comment) the time and date that you opened it, and you can no longer refer to your notes. From there, you will have a day to complete the activity. Please submit your file with the format SURNAME_Act3.pdf (or .jpg if scanned). The deadline for this is next Thursday before our class period.\u003cbr\u003e\u003cbr\u003ePlease work on your own. And if you have questions regarding the items in the activity, just send me an email or a private comment.\u003cbr\u003e\u003cbr\u003eGood luck!\u003c/div\u003e",
+      "dueTime": "2022-06-02T07:00:00Z",
+      "maxPoints": 17.0,
+      "workType": "ASSIGNMENT",
+      "submissions": [{
+        "student": {
+          "profile": {
+            "name": {
+              "fullName": "REFINO KASHI KYLE ESTUDILLO"
+            },
+            "emailAddress": "rgestudillo@up.edu.ph"
+          }
+        },
+        "gradeCalculationOption": "GRADED",
+        "state": "TURNED_IN",
+        "assignmentSubmission": {
+          "attachments": [{
+            "driveFile": {
+              "id": "1F3kUkYYiKYXb92PGbwe8Du06K8AfL6d37loYKzCbSyI",
+              "alternateLink": "https://drive.google.com/open?id\u003d1F3kUkYYiKYXb92PGbwe8Du06K8AfL6d37loYKzCbSyI"
+            }
+          }]
+        }
+      }]
+    }
+  }, {
+    "creator": {
+      "name": {
+        "fullName": "Unknown user"
+      }
+    },
+    "creationTime": "2022-05-04T16:45:50.946Z",
+    "updateTime": "2022-05-11T12:41:53.981Z",
+    "scheduledTime": "2022-05-04T22:00:00Z",
+    "publicationTime": "2022-05-04T22:00:51.234Z",
+    "state": "PUBLISHED",
+    "topics": [{
+      "name": "Activities"
+    }],
+    "materials": [{
+      "driveFile": {
+        "driveFile": {
+          "id": "1Kvtc1m-nZrHyHC7Tn5odpIlBgFK4x1sk",
+          "alternateLink": "https://drive.google.com/open?id\u003d1Kvtc1m-nZrHyHC7Tn5odpIlBgFK4x1sk"
+        },
+        "shareMode": "VIEW"
+      }
+    }],
+    "courseWork": {
+      "title": "[Act2] Projectile Motion",
+      "description": "In the attachment, you can find the pdf file for your second activity. This is an unsupervised examination, but please make sure that you answer this on your own. You can refer to the lecture slides that I have shared with you before. THIS WILL ALSO SERVE AS YOUR EXAMINATION FOR THE LAB COURSE. This means that you can also use the PhET simulation for projectile motion to guide you in answering the problems.\n\nINSTRUCTIONS:\nDo not open the file if you are not ready to answer. Once you do, you\u0027ll have to inform me (through private comment) the time and date that you opened it. From there, you will have a day to complete the activity. Please submit your file with the format SURNAME_Act2.pdf (or .jpg if scanned). The deadline for this is next Thursday before our class period.\n\nGood luck!\n\nP.S. Collaborating with others is fine (e.g, discussing with your peers when studying together) but copying each other\u0027s work is not allowed, as with all of your other courses. Just try to be honest with yourself and believe that you have the capacity to understand.",
+      "descriptionHtml": "\u003cdiv\u003eIn the attachment, you can find the pdf file for your second activity. This is an unsupervised examination, but please make sure that you answer this on your own. You can refer to the lecture slides that I have shared with you before. THIS WILL ALSO SERVE AS YOUR EXAMINATION FOR THE LAB COURSE. This means that you can also use the PhET simulation for projectile motion to guide you in answering the problems.\u003cbr\u003e\u003cbr\u003eINSTRUCTIONS:\u003cbr\u003eDo not open the file if you are not ready to answer. Once you do, you\u0026#39;ll have to inform me (through private comment) the time and date that you opened it. From there, you will have a day to complete the activity. Please submit your file with the format SURNAME_Act2.pdf (or .jpg if scanned). The deadline for this is next Thursday before our class period.\u003cbr\u003e\u003cbr\u003eGood luck!\u003cbr\u003e\u003cbr\u003eP.S. Collaborating with others is fine (e.g, discussing with your peers when studying together) but copying each other\u0026#39;s work is not allowed, as with all of your other courses. Just try to be honest with yourself and believe that you have the capacity to understand.\u003c/div\u003e",
+      "dueTime": "2022-05-12T15:59:00Z",
+      "maxPoints": 13.0,
+      "workType": "ASSIGNMENT",
+      "submissions": [{
+        "student": {
+          "profile": {
+            "name": {
+              "fullName": "REFINO KASHI KYLE ESTUDILLO"
+            },
+            "emailAddress": "rgestudillo@up.edu.ph"
+          }
+        },
+        "gradeCalculationOption": "GRADED",
+        "state": "TURNED_IN",
+        "assignmentSubmission": {
+          "attachments": [{
+            "driveFile": {
+              "id": "1z2rt-NL2oT2aqNjyShyhQ7l0bBlVlF-5",
+              "alternateLink": "https://drive.google.com/open?id\u003d1z2rt-NL2oT2aqNjyShyhQ7l0bBlVlF-5"
+            }
+          }]
+        }
+      }]
+    }
+  }, {
+    "creator": {
+      "name": {
+        "fullName": "Unknown user"
+      }
+    },
+    "creationTime": "2022-03-28T04:59:33.105Z",
+    "updateTime": "2022-03-28T07:03:29.159Z",
+    "scheduledTime": "2022-03-28T07:00:00Z",
+    "publicationTime": "2022-03-28T07:03:28.986Z",
+    "state": "PUBLISHED",
+    "topics": [{
+      "name": "Activities"
+    }],
+    "materials": [{
+      "driveFile": {
+        "driveFile": {
+          "id": "1xNqLL7b4-LwuEgfFKsM33QI7K5I1UcAZ",
+          "alternateLink": "https://drive.google.com/open?id\u003d1xNqLL7b4-LwuEgfFKsM33QI7K5I1UcAZ"
+        },
+        "shareMode": "VIEW"
+      }
+    }],
+    "courseWork": {
+      "title": "[Act1] Kinematics of Motion",
+      "description": "In the attachment, you can find the pdf file of your first activity. This is an unsupervised examination, but just make sure that you answer this on your own. You can refer to the lecture slides that I have shared with you before.\n\nINSTRUCTIONS:\nDo not open the file if you are not ready to answer. Once you do, you\u0027ll have to inform me (through private comment) the time you opened it. From there, you will have a day to complete the activity. Please submit your file with the format SURNAME_Act1.pdf (or .jpg if scanned). The deadline for this is on Thursday before our class period.\n\nGood luck!",
+      "descriptionHtml": "\u003cdiv\u003eIn the attachment, you can find the pdf file of your first activity. This is an unsupervised examination, but just make sure that you answer this on your own. You can refer to the lecture slides that I have shared with you before.\u003cbr\u003e\u003cbr\u003eINSTRUCTIONS:\u003cbr\u003eDo not open the file if you are not ready to answer. Once you do, you\u0026#39;ll have to inform me (through private comment) the time you opened it. From there, you will have a day to complete the activity. Please submit your file with the format SURNAME_Act1.pdf (or .jpg if scanned). The deadline for this is on Thursday before our class period.\u003cbr\u003e\u003cbr\u003eGood luck!\u003c/div\u003e",
+      "dueTime": "2022-03-31T07:00:00Z",
+      "maxPoints": 10.0,
+      "workType": "ASSIGNMENT",
+      "submissions": [{
+        "student": {
+          "profile": {
+            "name": {
+              "fullName": "REFINO KASHI KYLE ESTUDILLO"
+            },
+            "emailAddress": "rgestudillo@up.edu.ph"
+          }
+        },
+        "gradeCalculationOption": "GRADED",
+        "state": "TURNED_IN",
+        "assignmentSubmission": {
+          "attachments": [{
+            "driveFile": {
+              "id": "11QAkiSMHBonl_5ciYXq35rOhAtvWakiF",
+              "alternateLink": "https://drive.google.com/open?id\u003d11QAkiSMHBonl_5ciYXq35rOhAtvWakiF"
+            }
+          }]
+        },
+        "comments": [{
+          "creator": {
+            "name": {
+              "fullName": "REFINO KASHI KYLE ESTUDILLO"
+            },
+            "emailAddress": "rgestudillo@up.edu.ph"
+          },
+          "creationTime": "2022-04-07T05:38:24.172Z",
+          "updateTime": "2022-04-07T05:38:24.065Z",
+          "comment": "Good afternoon sir, sorry for not being able to submit my work last week, I was having an extreme fever and just got better today. I will submit it within the day sir, thank you and hoping for your kind consideration",
+          "commentHtml": "\u003cdiv\u003eGood afternoon sir, sorry for not being able to submit my work last week, I was having an extreme fever and just got better today. I will submit it within the day sir, thank you and hoping for your kind consideration\u003c/div\u003e",
+          "state": "PUBLISHED",
+          "commentVisibility": "PRIVATE"
+        }, {
+          "creator": {
+            "name": {
+              "fullName": "Unknown user"
+            }
+          },
+          "creationTime": "2022-04-07T05:51:17.295Z",
+          "updateTime": "2022-04-07T05:51:17.059Z",
+          "comment": "No worries, Refino. Just submit it whenever you can. You don\u0027t have to submit both activities today. Don\u0027t forget to notify me whenever you\u0027ve opened and started answering our activity for the lecture course.",
+          "commentHtml": "\u003cdiv\u003eNo worries, Refino. Just submit it whenever you can. You don\u0026#39;t have to submit both activities today. Don\u0026#39;t forget to notify me whenever you\u0026#39;ve opened and started answering our activity for the lecture course.\u003c/div\u003e",
+          "state": "PUBLISHED",
+          "commentVisibility": "PRIVATE"
+        }]
+      }]
+    }
+  }]
+}

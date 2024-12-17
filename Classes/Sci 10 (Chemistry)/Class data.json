@@ -1,0 +1,101 @@
+{
+  "version": 1,
+  "name": "Sci 10 (Chemistry)",
+  "section": "A",
+  "calendarUrl": "https://calendar.google.com/render?cid\u003dc_classroom47c9c690@group.calendar.google.com",
+  "courseFolder": {
+    "id": "1a9n8TAoPw5yIP4mL9p3_e4VozcPKLA0AAWUiLCObjIoGREQ9wNwtm8QxKFApZrXi6434tM-i",
+    "name": "Sci 10 (Chemistry) A",
+    "openUrl": "https://drive.google.com/drive/folders/1a9n8TAoPw5yIP4mL9p3_e4VozcPKLA0AAWUiLCObjIoGREQ9wNwtm8QxKFApZrXi6434tM-i"
+  },
+  "photoUrl": "https://gstatic.com/classroom/themes/Chemistry.jpg",
+  "subject": "Science 10",
+  "courseState": "ACTIVE",
+  "posts": [{
+    "creator": {
+      "name": {
+        "fullName": "John Jacques Sinapuelas"
+      }
+    },
+    "creationTime": "2024-04-06T06:09:46.616Z",
+    "updateTime": "2024-04-06T06:10:05.364Z",
+    "publicationTime": "2024-04-06T06:09:45.698Z",
+    "state": "PUBLISHED",
+    "topics": [{
+      "name": "REQUIREMENTS"
+    }],
+    "courseWork": {
+      "title": "OUTLINE",
+      "description": "Create a sentence outline of your final paper.",
+      "descriptionHtml": "\u003cdiv\u003eCreate a sentence outline of your final paper.\u003c/div\u003e",
+      "dueTime": "2024-04-10T15:59:00Z",
+      "maxPoints": 100.0,
+      "workType": "ASSIGNMENT",
+      "submissions": [{
+        "student": {
+          "profile": {
+            "name": {
+              "fullName": "REFINO KASHI KYLE ESTUDILLO"
+            },
+            "emailAddress": "rgestudillo@up.edu.ph"
+          }
+        },
+        "gradeCalculationOption": "GRADED",
+        "state": "TURNED_IN",
+        "assignmentSubmission": {
+          "attachments": [{
+            "driveFile": {
+              "id": "1f7Xax7_EtSF2my6u4nIzP9D9w-eKEvAK",
+              "title": "Estudillo-Outline.pdf",
+              "alternateLink": "https://drive.google.com/file/d/1f7Xax7_EtSF2my6u4nIzP9D9w-eKEvAK/view?usp\u003ddrive_web",
+              "thumbnailUrl": "https://lh3.googleusercontent.com/drive-storage/AJQWtBNI9-A4NkkgmOKVIxAzSXLalgiLqqII2bdYvUd1FHVcaYO9o7g9WsAKOpCI6_jgWNV4WAXF5LfNNopfxwAGL_dsfzjpo9eA65qDU5fWPi4bkfU\u003ds200"
+            }
+          }]
+        }
+      }]
+    }
+  }, {
+    "creator": {
+      "name": {
+        "fullName": "John Jacques Sinapuelas"
+      }
+    },
+    "creationTime": "2024-04-06T06:08:47.188Z",
+    "updateTime": "2024-05-15T06:49:08.758Z",
+    "publicationTime": "2024-04-06T06:08:46.428Z",
+    "state": "PUBLISHED",
+    "topics": [{
+      "name": "REQUIREMENTS"
+    }],
+    "courseWork": {
+      "title": "FINAL REQUIREMENT - TERM PAPER",
+      "description": "SCIENCE 10 (CHEMISTRY)\n\nFINAL REQUIREMENT\n\nChoose a chemical compound that is related to your major or that you are interested in. \nWrite a descriptive or narrative paper about the compound and its characteristics. \n\nThe paper should contain the following parts:\n\nBackground (Origins and Discovery)\n\nThis part of the paper should tackle the origins and discovery of the compound, specifically who, where, when, and how was this compound discovered or created.\n\nUtilization (Abundance in Nature and Society)\n\nThis part of the paper should discuss where the compound is mostly found and used in our society, it’s natural and/or synthetic forms, and how this compound is utilized.\n\nSignificance (Importance in the present)\nThis part of the paper should talk about the importance of this compound in the society may it be terms of biological, economical, industrial applications. Also, how it is important or significant to you.\n\nKey Issues (Toxicity, Sustainability, Affordability, etc.)\n\nThis part of the paper should discuss the problems associated with the compound. These issues may be about but not limited to toxicity, sustainability, and affordability.\n\nConclusions (Reflection)\n\nThis part of the paper should contain your opinion about the compound discussed, be it positive or negative, and should reflect the information discussed above. \n\nFORMAT\n\nThe body of the paper shall be at least 10 pages long, double spaced, font size 12, on an A4 size paper with 1-inch margins around, you can also opt to hand write the paper, and submit it as a PDF. Submissions through Google Classroom will only be accepted. If you have any questions, please e-mail me at jbsinapuelas@up.edu.ph. \n\nCRITERIA \nYou will be graded based on the following criteria:\n\n1. Knowledge – 30 points\n2. Organization – 30 points\n3. Synthesis – 40 points\n\nFor a total of 100 points.",
+      "descriptionHtml": "\u003cdiv\u003e\u003cb\u003eSCIENCE 10 (CHEMISTRY)\u003c/b\u003e\u003cbr\u003e\u003cbr\u003e\u003cb\u003eFINAL REQUIREMENT\u003c/b\u003e\u003cbr\u003e\u003cbr\u003eChoose a chemical compound that is related to your major or that you are interested in. \u003cbr\u003eWrite a descriptive or narrative paper about the compound and its characteristics. \u003cbr\u003e\u003cbr\u003eThe paper should contain the following parts:\u003cbr\u003e\u003cbr\u003e\u003cb\u003eBackground (Origins and Discovery)\u003c/b\u003e\u003cbr\u003e\u003cbr\u003eThis part of the paper should tackle the origins and discovery of the compound, specifically who, where, when, and how was this compound discovered or created.\u003cbr\u003e\u003cbr\u003e\u003cb\u003eUtilization (Abundance in Nature and Society)\u003c/b\u003e\u003cbr\u003e\u003cbr\u003eThis part of the paper should discuss where the compound is mostly found and used in our society, it’s natural and/or synthetic forms, and how this compound is utilized.\u003cbr\u003e\u003cbr\u003e\u003cb\u003eSignificance (Importance in the present)\u003c/b\u003e\u003cbr\u003eThis part of the paper should talk about the importance of this compound in the society may it be terms of biological, economical, industrial applications. Also, how it is important or significant to you.\u003cbr\u003e\u003cbr\u003e\u003cb\u003eKey Issues (Toxicity, Sustainability, Affordability, etc.)\u003c/b\u003e\u003cbr\u003e\u003cbr\u003eThis part of the paper should discuss the problems associated with the compound. These issues may be about but not limited to toxicity, sustainability, and affordability.\u003cbr\u003e\u003cbr\u003e\u003cb\u003eConclusions (Reflection)\u003c/b\u003e\u003cbr\u003e\u003cbr\u003eThis part of the paper should contain your opinion about the compound discussed, be it positive or negative, and should reflect the information discussed above. \u003cbr\u003e\u003cbr\u003e\u003cb\u003eFORMAT\u003c/b\u003e\u003cbr\u003e\u003cbr\u003eThe body of the paper shall be at least 10 pages long, double spaced, font size 12, on an A4 size paper with 1-inch margins around, you can also opt to hand write the paper, and submit it as a PDF. Submissions through Google Classroom will only be accepted. If you have any questions, please e-mail me at jbsinapuelas@up.edu.ph. \u003cbr\u003e\u003cbr\u003e\u003cb\u003eCRITERIA \u003c/b\u003e\u003cbr\u003eYou will be graded based on the following criteria:\u003cbr\u003e\u003cbr\u003e1. \u003cb\u003eKnowledge – 30 points\u003c/b\u003e\u003cbr\u003e2. \u003cb\u003eOrganization – 30 points\u003c/b\u003e\u003cbr\u003e3. \u003cb\u003eSynthesis – 40 points\u003c/b\u003e\u003cbr\u003e\u003cbr\u003eFor a total of \u003cb\u003e100 points.\u003c/b\u003e\u003c/div\u003e",
+      "dueTime": "2024-06-04T15:59:00Z",
+      "maxPoints": 100.0,
+      "workType": "ASSIGNMENT",
+      "submissions": [{
+        "student": {
+          "profile": {
+            "name": {
+              "fullName": "REFINO KASHI KYLE ESTUDILLO"
+            },
+            "emailAddress": "rgestudillo@up.edu.ph"
+          }
+        },
+        "gradeCalculationOption": "GRADED",
+        "state": "TURNED_IN",
+        "assignmentSubmission": {
+          "attachments": [{
+            "driveFile": {
+              "id": "1rbU3GgiVsT2kTBYKbkWyjvqQUA4sSvmi",
+              "title": "Estudillo-Final-Paper-Chemistry.pdf",
+              "alternateLink": "https://drive.google.com/file/d/1rbU3GgiVsT2kTBYKbkWyjvqQUA4sSvmi/view?usp\u003ddrive_web",
+              "thumbnailUrl": "https://lh3.googleusercontent.com/drive-storage/AJQWtBNJ-jqnFskVLKz3c_g072BMxJV2dTQ0H9oN_Zk1KUaUBh3ntCsTWHi_i2hQbHp8JOVFctasxxO5dT6MwKw_kf7a6HSVomtwxqLwTYAdYPvDqWY\u003ds200"
+            }
+          }]
+        }
+      }]
+    }
+  }]
+}

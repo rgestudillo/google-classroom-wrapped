@@ -1,0 +1,406 @@
+{
+  "version": 1,
+  "name": "SCI 10 (SS 2023-2024)",
+  "section": "A (MTH 7:30-9:00AM)",
+  "calendarUrl": "https://calendar.google.com/render?cid\u003dc_classroom54bf65bb@group.calendar.google.com",
+  "courseFolder": {
+    "id": "1pQn4D69junUsaAbngJp94DCslS3ixUTR4I62eRZ-Vc3y5yMSbpt9HxJSKYrqFL0fvpiSmquL",
+    "name": "SCI 10 (SS 2023-2024) A (MTH 7:30-9:00AM)",
+    "openUrl": "https://drive.google.com/drive/folders/1pQn4D69junUsaAbngJp94DCslS3ixUTR4I62eRZ-Vc3y5yMSbpt9HxJSKYrqFL0fvpiSmquL"
+  },
+  "photoUrl": "https://gstatic.com/classroom/themes/SocialStudies.jpg",
+  "subject": "Probing the Physical World",
+  "courseState": "ACTIVE",
+  "posts": [{
+    "creator": {
+      "name": {
+        "fullName": "Mary Joyce Flores"
+      }
+    },
+    "creationTime": "2024-05-30T00:47:53.498Z",
+    "updateTime": "2024-06-03T02:48:31.187Z",
+    "publicationTime": "2024-05-30T00:56:07.930Z",
+    "state": "PUBLISHED",
+    "materials": [{
+      "driveFile": {
+        "driveFile": {
+          "id": "1CSjheGFnY9Sh1ET5PApTXdMzdEqVPit2",
+          "title": "Peer Evaluation.docx",
+          "alternateLink": "https://drive.google.com/file/d/1CSjheGFnY9Sh1ET5PApTXdMzdEqVPit2/view?usp\u003ddrive_web",
+          "thumbnailUrl": "https://lh3.googleusercontent.com/drive-storage/AJQWtBPvXtcX-9ZQEjin5WqYZkccqz8hvTgRuIQ6Xk_qVovp2wrrzG_iNIa3ISeXXD-FbnLwC_cRfaJ3Vg1ShpZaM-v3wms11gG3WK4Nf4aW82tEfvE\u003ds200"
+        },
+        "shareMode": "VIEW"
+      }
+    }],
+    "courseWork": {
+      "title": "Self and Peer Evaluation",
+      "description": "Attached is the self and peer evaluation form. Using a score of 1 to 5 (with 5 as the highest), please rate yourself and your group\nmembers on the relative contributions that were made in doing the group activities. In the spirit of fairness, pls. be very honest in doing your evaluation. Your evaluation will remain confidential and will not, in any way, be disclosed to the other students. This is part of your Science 10 activities. Maximum score for this activity is 25 pts. If you fail to submit this evaluation, you will get a grade of zero.",
+      "descriptionHtml": "\u003cdiv\u003eAttached is the self and peer evaluation form. Using a score of 1 to 5 (with 5 as the highest), please rate yourself and your group\u003cbr\u003emembers on the relative contributions that were made in doing the group activities. In the spirit of fairness, pls. be very honest in doing your evaluation. \u003cb\u003eYour evaluation will remain confidential and will not, in any way, be disclosed to the other students. This is part of your Science 10 activities. Maximum score for this activity is 25 pts. If you fail to submit this evaluation, you will get a grade of zero.\u003c/b\u003e\u003c/div\u003e",
+      "dueTime": "2024-06-05T09:00:00Z",
+      "workType": "ASSIGNMENT",
+      "submissions": [{
+        "student": {
+          "profile": {
+            "name": {
+              "fullName": "REFINO KASHI KYLE ESTUDILLO"
+            },
+            "emailAddress": "rgestudillo@up.edu.ph"
+          }
+        },
+        "gradeCalculationOption": "GRADED",
+        "state": "RETURNED",
+        "assignmentSubmission": {
+          "attachments": [{
+            "driveFile": {
+              "id": "1bAFkwzwUKvj2H9HBi2LfT78Zu3ZLfhPD",
+              "title": "Estudillo Peer Evaluation.pdf",
+              "alternateLink": "https://drive.google.com/file/d/1bAFkwzwUKvj2H9HBi2LfT78Zu3ZLfhPD/view?usp\u003ddrive_web",
+              "thumbnailUrl": "https://lh3.googleusercontent.com/drive-storage/AJQWtBO01y30j0ZpyrZIcB1R_HcBDGKD2MCzUq5XYGPMAoNlrKS8VbXbXFzYtMhmGaAOQym4xGcbmZvvjJyWuDvk-UUFH5MT191sH7mqwAqWkxjIL3c\u003ds200"
+            }
+          }]
+        },
+        "comments": [{
+          "creator": {
+            "name": {
+              "fullName": "Mary Joyce Flores"
+            }
+          },
+          "creationTime": "2024-06-04T23:56:20.507Z",
+          "updateTime": "2024-06-04T23:56:20.507Z",
+          "comment": "I already encoded your evaluation",
+          "commentHtml": "\u003cdiv\u003eI already encoded your evaluation\u003c/div\u003e",
+          "state": "PUBLISHED",
+          "commentVisibility": "PRIVATE"
+        }]
+      }]
+    }
+  }, {
+    "creator": {
+      "name": {
+        "fullName": "Mary Joyce Flores"
+      }
+    },
+    "creationTime": "2024-02-26T05:57:16.360Z",
+    "updateTime": "2024-06-05T23:08:38.397Z",
+    "scheduledTime": "2024-05-13T00:00:00Z",
+    "publicationTime": "2024-05-13T00:01:21.639Z",
+    "state": "PUBLISHED",
+    "materials": [{
+      "driveFile": {
+        "driveFile": {
+          "id": "1Fj9o9Xc65-iRh1q7Q1S6OLBFm1B2BW83",
+          "title": "ACTIVITY GUIDE 9.1_The origin of life.pdf",
+          "alternateLink": "https://drive.google.com/file/d/1Fj9o9Xc65-iRh1q7Q1S6OLBFm1B2BW83/view?usp\u003ddrive_web",
+          "thumbnailUrl": "https://lh3.googleusercontent.com/drive-storage/AJQWtBNbNkfEFo6mIanow4Px-fLe_n1CZAX4vC4izGCqYKj6tbNNIe0MUDF-lBKxGpsSajtpnhL-eKR0WpsqfWY4neJE0HDY9QDmovHws5az3P8E4a8\u003ds200"
+        },
+        "shareMode": "VIEW"
+      }
+    }],
+    "courseWork": {
+      "title": "Activity 9.1 The Origin of Life",
+      "description": "Perform Activity 9.1 (refer to attached Activity Guide 9.1 for the instructions)",
+      "descriptionHtml": "\u003cdiv\u003ePerform Activity 9.1 (refer to attached Activity Guide 9.1 for the instructions)\u003c/div\u003e",
+      "dueTime": "2024-05-27T05:00:00Z",
+      "maxPoints": 14.0,
+      "workType": "ASSIGNMENT",
+      "submissions": [{
+        "student": {
+          "profile": {
+            "name": {
+              "fullName": "REFINO KASHI KYLE ESTUDILLO"
+            },
+            "emailAddress": "rgestudillo@up.edu.ph"
+          }
+        },
+        "assignedGrade": 10.0,
+        "gradeCalculationOption": "GRADED",
+        "state": "RETURNED",
+        "assignmentSubmission": {
+          "attachments": [{
+            "driveFile": {
+              "id": "18R5_KBCR9vqgKcxtjd-r9twgAMQO0hD3",
+              "title": "Activity-9.1_Atillo-Estudillo-Porras.pdf",
+              "alternateLink": "https://drive.google.com/file/d/18R5_KBCR9vqgKcxtjd-r9twgAMQO0hD3/view?usp\u003ddrive_web",
+              "thumbnailUrl": "https://lh3.googleusercontent.com/drive-storage/AJQWtBPAY1K0oE7xrJlZVOxHAA_Q-neHTpBf7erEd4EkaH3c-w3SDlHgJSZdu32KH9O-vzcHGaJ3Ewlr8PhZW8il8HgoPbUsc92Wc2xydxI_1g7WLX4\u003ds200"
+            }
+          }]
+        },
+        "comments": [{
+          "creator": {
+            "name": {
+              "fullName": "Mary Joyce Flores"
+            }
+          },
+          "creationTime": "2024-06-02T07:30:49.441Z",
+          "updateTime": "2024-06-02T07:30:49.441Z",
+          "comment": "Pls. see comments.",
+          "commentHtml": "\u003cdiv\u003ePls. see comments.\u003c/div\u003e",
+          "state": "PUBLISHED",
+          "commentVisibility": "PRIVATE"
+        }]
+      }]
+    }
+  }, {
+    "creator": {
+      "name": {
+        "fullName": "Mary Joyce Flores"
+      }
+    },
+    "creationTime": "2024-02-26T05:53:40.892Z",
+    "updateTime": "2024-06-02T03:28:35.342Z",
+    "scheduledTime": "2024-05-09T00:00:00Z",
+    "publicationTime": "2024-05-09T00:03:12.507Z",
+    "state": "PUBLISHED",
+    "materials": [{
+      "driveFile": {
+        "driveFile": {
+          "id": "1xvSigau_l_MsLRq9UYG-6Tr07NfnHiSX",
+          "title": "ACTIVITY GUIDE 8.1_Which came first.pdf",
+          "alternateLink": "https://drive.google.com/file/d/1xvSigau_l_MsLRq9UYG-6Tr07NfnHiSX/view?usp\u003ddrive_web",
+          "thumbnailUrl": "https://lh3.googleusercontent.com/drive-storage/AJQWtBOMEeM79fvejgv1W8W6tKbh8PEaDLcwVBdnvK9G7iGQq_TnyStfzIAJ8OWy69CDgshf9QxMxJyBio1s6bYhRsmZNyhB0tOZyPA-o0rDGGTZpzQ\u003ds200"
+        },
+        "shareMode": "VIEW"
+      }
+    }],
+    "courseWork": {
+      "title": "Activity 8.1 Which came first?",
+      "description": "Perform Activity 8.1 (refer to attached Activity Guide 8.1 for the instructions)",
+      "descriptionHtml": "\u003cdiv\u003ePerform Activity 8.1 (refer to attached Activity Guide 8.1 for the instructions)\u003c/div\u003e",
+      "dueTime": "2024-05-23T05:00:00Z",
+      "maxPoints": 14.0,
+      "workType": "ASSIGNMENT",
+      "submissions": [{
+        "student": {
+          "profile": {
+            "name": {
+              "fullName": "REFINO KASHI KYLE ESTUDILLO"
+            },
+            "emailAddress": "rgestudillo@up.edu.ph"
+          }
+        },
+        "assignedGrade": 13.0,
+        "gradeCalculationOption": "GRADED",
+        "state": "RETURNED",
+        "assignmentSubmission": {
+          "attachments": [{
+            "driveFile": {
+              "id": "1n7Tn5Gp4nzSWPQReGuedNkjWXUGGWjFH",
+              "title": "Activity-8.1_Atillo-Estudillo-Porras.pdf",
+              "alternateLink": "https://drive.google.com/file/d/1n7Tn5Gp4nzSWPQReGuedNkjWXUGGWjFH/view?usp\u003ddrive_web",
+              "thumbnailUrl": "https://lh3.googleusercontent.com/drive-storage/AJQWtBN6f2hs_qBNpdmc_vHpaOkxYiUTJh21sbpgMbOath2wh7tLkrQ1mFwEGQbM88oBUyLuIl_wXCygQk93WK6HGkB7lRFRWqeDXiN8f6z64PnXFJg\u003ds200"
+            }
+          }]
+        },
+        "comments": [{
+          "creator": {
+            "name": {
+              "fullName": "REFINO KASHI KYLE ESTUDILLO"
+            },
+            "emailAddress": "rgestudillo@up.edu.ph"
+          },
+          "creationTime": "2024-05-23T07:16:39.377Z",
+          "updateTime": "2024-05-23T07:16:39.377Z",
+          "comment": "Hi miss. I am so sorry I forgot so turn in our work but we finished the activity on time miss. ",
+          "commentHtml": "\u003cdiv\u003eHi miss. I am so sorry I forgot so turn in our work but we finished the activity on time miss.\u003c/div\u003e",
+          "state": "PUBLISHED",
+          "commentVisibility": "PRIVATE"
+        }, {
+          "creator": {
+            "name": {
+              "fullName": "Mary Joyce Flores"
+            }
+          },
+          "creationTime": "2024-05-24T00:58:32.545Z",
+          "updateTime": "2024-05-24T00:58:32.545Z",
+          "comment": "Yes, however, submission should still be on time.",
+          "commentHtml": "\u003cdiv\u003eYes, however, submission should still be on time.\u003c/div\u003e",
+          "state": "PUBLISHED",
+          "commentVisibility": "PRIVATE"
+        }, {
+          "creator": {
+            "name": {
+              "fullName": "Mary Joyce Flores"
+            }
+          },
+          "creationTime": "2024-05-24T02:24:45.011Z",
+          "updateTime": "2024-05-24T02:24:45.011Z",
+          "comment": "Your narrative is good. However, I think I instructed you to list down your references (including the module and the videos).",
+          "commentHtml": "\u003cdiv\u003eYour narrative is good. However, I think I instructed you to list down your references (including the module and the videos).\u003c/div\u003e",
+          "state": "PUBLISHED",
+          "commentVisibility": "PRIVATE"
+        }]
+      }]
+    }
+  }, {
+    "creator": {
+      "name": {
+        "fullName": "Mary Joyce Flores"
+      }
+    },
+    "creationTime": "2024-02-26T05:49:09.835Z",
+    "updateTime": "2024-05-27T05:58:33.451Z",
+    "scheduledTime": "2024-05-06T00:00:00Z",
+    "publicationTime": "2024-05-06T00:04:55.334Z",
+    "state": "PUBLISHED",
+    "materials": [{
+      "driveFile": {
+        "driveFile": {
+          "id": "1-Kbppn4jJ5aCBSj6jd-1K3OnZKALTZ7G",
+          "title": "ACTIVITY GUIDE 7.1_Spreading Rate and Age of Sea Floor.pdf",
+          "alternateLink": "https://drive.google.com/file/d/1-Kbppn4jJ5aCBSj6jd-1K3OnZKALTZ7G/view?usp\u003ddrive_web",
+          "thumbnailUrl": "https://lh3.googleusercontent.com/drive-storage/AJQWtBOFviJgSfDS9JaW7ZrmR_SSxbfPA9Z6Sf-iNoQBdPnOvpcsdhNG8RT1_aJnqVtriOAyXHzSU9-eKDoda0Jmvz7h2xM8Keyrt4eHln6mK8Ejxi8\u003ds200"
+        },
+        "shareMode": "VIEW"
+      }
+    }],
+    "courseWork": {
+      "title": "Activity 7.1 Spreading Rate and Age of Sea Floor",
+      "description": "Perform Activity 7.1 (refer to attached Activity Guide 7.1 for the instructions)\n",
+      "descriptionHtml": "\u003cdiv\u003ePerform Activity 7.1 (refer to attached Activity Guide 7.1 for the instructions)\u003c/div\u003e",
+      "dueTime": "2024-05-20T05:00:00Z",
+      "maxPoints": 12.0,
+      "workType": "ASSIGNMENT",
+      "submissions": [{
+        "student": {
+          "profile": {
+            "name": {
+              "fullName": "REFINO KASHI KYLE ESTUDILLO"
+            },
+            "emailAddress": "rgestudillo@up.edu.ph"
+          }
+        },
+        "assignedGrade": 12.0,
+        "gradeCalculationOption": "GRADED",
+        "state": "RETURNED",
+        "assignmentSubmission": {
+          "attachments": [{
+            "driveFile": {
+              "id": "1WEm6M_2cUG1OM0ozvJiy9rRoGf0sugFy",
+              "title": "Sci10_Atillo, Estudillo, Porras.pdf",
+              "alternateLink": "https://drive.google.com/file/d/1WEm6M_2cUG1OM0ozvJiy9rRoGf0sugFy/view?usp\u003ddrive_web",
+              "thumbnailUrl": "https://lh3.googleusercontent.com/drive-storage/AJQWtBOqzRW0i7hrQHz5BpFumTCZv41YhWdFyZmdnnK-COe6oGG8F8qkagRTIaCznsIWcFBYcVFCLGOpoouEveyFG1fY91eiV8OzzFWJNufeXy_OW90\u003ds200"
+            }
+          }]
+        },
+        "comments": [{
+          "creator": {
+            "name": {
+              "fullName": "Mary Joyce Flores"
+            }
+          },
+          "creationTime": "2024-05-20T23:15:15.720Z",
+          "updateTime": "2024-05-20T23:15:15.720Z",
+          "comment": "Good!",
+          "commentHtml": "\u003cdiv\u003eGood!\u003c/div\u003e",
+          "state": "PUBLISHED",
+          "commentVisibility": "PRIVATE"
+        }]
+      }]
+    }
+  }, {
+    "creator": {
+      "name": {
+        "fullName": "Mary Joyce Flores"
+      }
+    },
+    "creationTime": "2024-02-26T05:47:41.534Z",
+    "updateTime": "2024-05-22T00:38:50.509Z",
+    "scheduledTime": "2024-04-29T00:00:00Z",
+    "publicationTime": "2024-04-29T00:00:18.638Z",
+    "state": "PUBLISHED",
+    "materials": [{
+      "driveFile": {
+        "driveFile": {
+          "id": "15B6j0iuKFPY_4mP_-lNq-00WYmkgSbVW",
+          "title": "ACTIVITY GUIDE 7.0_The Earth’s History.pdf",
+          "alternateLink": "https://drive.google.com/file/d/15B6j0iuKFPY_4mP_-lNq-00WYmkgSbVW/view?usp\u003ddrive_web",
+          "thumbnailUrl": "https://lh3.googleusercontent.com/drive-storage/AJQWtBOeFMhQICceMExjl2G-NdGe0zrenVXehDwkKMDRA_LPkCdGSdNONl8JOgZcxwznaQJEGvvNdPhsV5Pvqkdk7cdVKY-AisDn1oXuWCv2JtgHbtE\u003ds200"
+        },
+        "shareMode": "VIEW"
+      }
+    }],
+    "courseWork": {
+      "title": "Activity 7.0 The Earth’s History",
+      "description": "Perform Activity 7.0 (refer to the attached Activity Guide 7.0 for the instructions)",
+      "descriptionHtml": "\u003cdiv\u003ePerform Activity 7.0 (refer to the attached Activity Guide 7.0 for the instructions)\u003c/div\u003e",
+      "dueTime": "2024-05-13T05:00:00Z",
+      "maxPoints": 20.0,
+      "workType": "ASSIGNMENT",
+      "submissions": [{
+        "student": {
+          "profile": {
+            "name": {
+              "fullName": "REFINO KASHI KYLE ESTUDILLO"
+            },
+            "emailAddress": "rgestudillo@up.edu.ph"
+          }
+        },
+        "assignedGrade": 19.0,
+        "gradeCalculationOption": "GRADED",
+        "state": "RETURNED",
+        "assignmentSubmission": {
+          "attachments": [{
+            "driveFile": {
+              "id": "1F03PIOXqnkJSxRXE1Ub1wvHHEfc8mhZIvq73kzSBMmE",
+              "title": "REFINO KASHI KYLE ESTUDILLO - Activity 7.0 The Earth’s History",
+              "alternateLink": "https://docs.google.com/document/d/1F03PIOXqnkJSxRXE1Ub1wvHHEfc8mhZIvq73kzSBMmE/edit?usp\u003ddrive_web",
+              "thumbnailUrl": "https://lh3.google.com/drive-storage/AJQWtBP7Bt24HNKHSANI6WQjwub7jb_YhPLGvOJI0-lIcArFbwV7Yrc7m-VG1h4kSyUC8Ut2WgBOiH2Ra5ogmjlPYUoZZ9UZKWzadi_1IiCL9xajtcBIK5hXoYc5Ye8tCR4ws6t7-UU\u003ds200"
+            }
+          }]
+        },
+        "comments": [{
+          "creator": {
+            "name": {
+              "fullName": "Mary Joyce Flores"
+            }
+          },
+          "creationTime": "2024-05-14T00:55:19.023Z",
+          "updateTime": "2024-05-14T00:55:19.023Z",
+          "comment": "Almost perfect. Pls. see comments. To see the comments, open the file on your laptop or desktop. If you still cannot see the comments, download the file first.",
+          "commentHtml": "\u003cdiv\u003eAlmost perfect. Pls. see comments. To see the comments, open the file on your laptop or desktop. If you still cannot see the comments, download the file first.\u003c/div\u003e",
+          "state": "PUBLISHED",
+          "commentVisibility": "PRIVATE"
+        }]
+      }]
+    }
+  }, {
+    "creator": {
+      "name": {
+        "fullName": "Mary Joyce Flores"
+      }
+    },
+    "creationTime": "2024-02-26T06:02:47.336Z",
+    "updateTime": "2024-02-26T06:07:29.169Z",
+    "publicationTime": "2024-02-26T06:07:27.972Z",
+    "state": "PUBLISHED",
+    "courseWork": {
+      "title": "Signed Syllabus",
+      "description": "The Science 10 (Geology component) syllabus also serves as a contract. After reading and understanding the syllabus, sign on the last page. Submit/post the signed last page of the syllabus here. Those who cannot submit by May 27, 2024 cannot take the long exam.",
+      "descriptionHtml": "\u003cdiv\u003eThe Science 10 (Geology component) syllabus also serves as a contract. After reading and understanding the syllabus, sign on the last page. Submit/post the signed last page of the syllabus here. Those who cannot submit by May 27, 2024 cannot take the long exam.\u003c/div\u003e",
+      "dueTime": "2024-05-27T15:00:00Z",
+      "workType": "ASSIGNMENT",
+      "submissions": [{
+        "student": {
+          "profile": {
+            "name": {
+              "fullName": "REFINO KASHI KYLE ESTUDILLO"
+            },
+            "emailAddress": "rgestudillo@up.edu.ph"
+          }
+        },
+        "gradeCalculationOption": "GRADED",
+        "state": "TURNED_IN",
+        "assignmentSubmission": {
+          "attachments": [{
+            "driveFile": {
+              "id": "1HTI7bFu49Ke5KfqX3pP9qyeUN_fY1zm-",
+              "title": "Estudillo-Science 10_Geology_MTh_Syllabus_SS 2023-2024.pdf",
+              "alternateLink": "https://drive.google.com/file/d/1HTI7bFu49Ke5KfqX3pP9qyeUN_fY1zm-/view?usp\u003ddrive_web",
+              "thumbnailUrl": "https://lh3.googleusercontent.com/drive-storage/AJQWtBNqTzj8bb4QLyugEG1DnkTz6nLP6A-_dkUDQanC0FDR4QDqhpycTOAbZh2O78NkuO2TIDfx1fF6-KAFlYQ1uu_xPP0VqlPSpizSyF4RlTZ7ThI\u003ds200"
+            }
+          }]
+        }
+      }]
+    }
+  }]
+}

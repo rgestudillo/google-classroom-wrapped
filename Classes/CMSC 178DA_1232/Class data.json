@@ -1,0 +1,1214 @@
+{
+  "version": 1,
+  "name": "CMSC 178DA_1232",
+  "section": "Section A",
+  "description": "Introduction to Data Analytics, 10:30AM-12N M-Th",
+  "room": "AS Room 306",
+  "calendarUrl": "https://calendar.google.com/render?cid\u003dc_classroom67adc90c@group.calendar.google.com",
+  "courseFolder": {
+    "id": "1e8cCY8N6Hl-psoC65f51qS5-RBBgmL-zR-JgSXTwZLGd_UCs1ChJuBVwQrGVcXC15XBrYJLM",
+    "name": "CMSC 178DA_1232 Section A",
+    "openUrl": "https://drive.google.com/drive/folders/1e8cCY8N6Hl-psoC65f51qS5-RBBgmL-zR-JgSXTwZLGd_UCs1ChJuBVwQrGVcXC15XBrYJLM"
+  },
+  "photoUrl": "https://gstatic.com/classroom/themes/img_reachout.jpg",
+  "subject": "Special Topics",
+  "courseState": "ARCHIVED",
+  "gradeCategories": [{
+    "name": "Term Examination"
+  }, {
+    "name": "Class Assignment"
+  }, {
+    "name": "Class Activity"
+  }, {
+    "name": "Class Participation"
+  }],
+  "posts": [{
+    "creator": {
+      "name": {
+        "fullName": "Demelo Lao"
+      }
+    },
+    "creationTime": "2024-03-29T07:13:37.558Z",
+    "updateTime": "2024-06-30T17:21:52.377Z",
+    "scheduledTime": "2024-05-06T03:30:00Z",
+    "publicationTime": "2024-05-06T03:30:31.625Z",
+    "state": "PUBLISHED",
+    "topics": [{
+      "name": "Week 15 (6-10 May 2024) - Cluster Analysis"
+    }],
+    "materials": [{
+      "driveFile": {
+        "driveFile": {
+          "id": "1aByQO3hJXnBFcvTOZoiO-llXXMWGCRQN",
+          "title": "AssignmentGuide-Week15.pdf",
+          "alternateLink": "https://drive.google.com/file/d/1aByQO3hJXnBFcvTOZoiO-llXXMWGCRQN/view?usp\u003ddrive_web",
+          "thumbnailUrl": "https://lh3.googleusercontent.com/drive-storage/AJQWtBM2zmprGU2ajCc0mitsdotcGGuQzzAbi05Gd4Niu6150V7yTUplLOeJt6MTcnHgfvHhJ69DV4Na837p4HEpLzyIskBDrLXt3a4Z0Biqh4HQ87w\u003ds200"
+        },
+        "shareMode": "VIEW"
+      }
+    }],
+    "courseWork": {
+      "title": "Assignment 2 - Retrieval of a Published Research Article in Computer Science that Describes the Application of Cluster Analysis in a Real-world Dataset\n",
+      "description": "Partner the same classmate as in the previous class assignment since this activity is to be accomplished in pairs to promote collaboration and interaction. Read thoroughly first the accompanying Assignment Guide before putting out your respective responses.\n",
+      "descriptionHtml": "\u003cdiv\u003ePartner the same classmate as in the previous class assignment since this activity is to be accomplished in pairs to promote collaboration and interaction. Read thoroughly first the accompanying Assignment Guide before putting out your respective responses.\u003c/div\u003e",
+      "dueTime": "2024-05-16T16:59:00Z",
+      "maxPoints": 100.0,
+      "gradeCategory": {
+        "name": "Class Assignment"
+      },
+      "workType": "ASSIGNMENT",
+      "rubric": {
+        "criterion": [{
+          "title": "Responses\u0027 Accuracy",
+          "description": "Correctness in specifying measures and providing appropriate responses",
+          "rating": [{
+            "points": 50.0
+          }]
+        }, {
+          "title": "Paper Description",
+          "description": "Informational accuracy on descriptions and paraphrasing",
+          "rating": [{
+            "points": 10.0
+          }]
+        }, {
+          "title": "Organization, Grammar, and Citation",
+          "description": "In chronological order, clear, concise, grammatically correct, and appropriately referenced",
+          "rating": [{
+            "points": 30.0
+          }]
+        }, {
+          "title": "Packaging Submission",
+          "description": "Shows creativity in organizing and presenting the submitted document which contains the pair’s responses",
+          "rating": [{
+            "points": 10.0
+          }]
+        }]
+      },
+      "submissions": [{
+        "student": {
+          "profile": {
+            "name": {
+              "fullName": "REFINO KASHI KYLE ESTUDILLO"
+            },
+            "emailAddress": "rgestudillo@up.edu.ph"
+          }
+        },
+        "assignedGrade": 0.0,
+        "gradeCalculationOption": "GRADED",
+        "state": "RETURNED",
+        "assignmentSubmission": {
+          "attachments": [{
+            "driveFile": {
+              "id": "1BRHTvgmE9SmOCtQr_j7D3Ybza9oOVL3W",
+              "title": "Assignment2‐Abrau_Estudillo.pdf",
+              "alternateLink": "https://drive.google.com/file/d/1BRHTvgmE9SmOCtQr_j7D3Ybza9oOVL3W/view?usp\u003ddrive_web",
+              "thumbnailUrl": "https://lh3.googleusercontent.com/drive-storage/AJQWtBN4qudROfuYboqfekOieLGf4yfk2_BIOgVn97DRfXMhOHZZmdzNPmB_IMQAi6D87LO4fLbJa5NGbvYdzm2JKFpq_lyR_W-7QqCKONaOMW2cbj4\u003ds200"
+            }
+          }, {
+            "driveFile": {
+              "id": "1bMzN5J5ZOUkySa8PNWiuPpmbouP6e3v0",
+              "title": "Estudillo_Abrau_Paper.pdf",
+              "alternateLink": "https://drive.google.com/file/d/1bMzN5J5ZOUkySa8PNWiuPpmbouP6e3v0/view?usp\u003ddrive_web",
+              "thumbnailUrl": "https://lh3.googleusercontent.com/drive-storage/AJQWtBO1tdeH9Xb6WKlBtAXGZkpgAFcrCulwBUsPCGUZAYYLpXPmvXJZ0Pbj-DQQifenq4GzaS030nYON1I4Mv_0e1gNc12Lf1yM1s-hJp8rhoWbP24\u003ds200"
+            }
+          }]
+        },
+        "comments": [{
+          "creator": {
+            "name": {
+              "fullName": "REFINO KASHI KYLE ESTUDILLO"
+            },
+            "emailAddress": "rgestudillo@up.edu.ph"
+          },
+          "creationTime": "2024-07-01T22:55:51.684Z",
+          "updateTime": "2024-07-01T22:55:51.684Z",
+          "comment": "Hello sir. The journal paper required for this assignment can be accessed at the following link:\n\nhttps://drive.google.com/file/d/1uRp9MH7ETxS8c4xaXO4xvu8314_EeUUm/view?usp\u003dsharing\n\nWe apologize for not being able to attach the pdf to the submission bin which was stated in the references of our submission.\n\nI hope you consider this sir. Thank you!",
+          "commentHtml": "\u003cdiv\u003eHello sir. The journal paper required for this assignment can be accessed at the following link:\u003cbr\u003e\u003cbr\u003ehttps://drive.google.com/file/d/1uRp9MH7ETxS8c4xaXO4xvu8314_EeUUm/view?usp\u003dsharing\u003cbr\u003e\u003cbr\u003eWe apologize for not being able to attach the pdf to the submission bin which was stated in the references of our submission.\u003cbr\u003e\u003cbr\u003eI hope you consider this sir. Thank you!\u003c/div\u003e",
+          "state": "PUBLISHED",
+          "commentVisibility": "PRIVATE"
+        }, {
+          "creator": {
+            "name": {
+              "fullName": "Demelo Lao"
+            }
+          },
+          "creationTime": "2024-07-01T23:02:14.005Z",
+          "updateTime": "2024-07-01T23:05:07.011Z",
+          "comment": "Yes, I know but, if you just simply look at the title of the assignment itself, the word their is retrieve and not access. Besides, the assignment guide explicitly instructed your pair to submit a copy of the downloaded paper.",
+          "commentHtml": "\u003cdiv\u003eYes, I know but, if you just simply look at the title of the assignment itself, the word their is retrieve and not access. Besides, the assignment guide explicitly instructed your pair to submit a copy of the downloaded paper.\u003c/div\u003e",
+          "state": "PUBLISHED",
+          "commentVisibility": "PRIVATE"
+        }, {
+          "creator": {
+            "name": {
+              "fullName": "REFINO KASHI KYLE ESTUDILLO"
+            },
+            "emailAddress": "rgestudillo@up.edu.ph"
+          },
+          "creationTime": "2024-07-01T23:08:28.636Z",
+          "updateTime": "2024-07-01T23:08:28.636Z",
+          "comment": "\nWe sincerely apologize for our mistake in not attaching the required PDF, as the assignment guide explicitly instructed us to submit a downloaded copy,.\n\nWe humbly request for a lower score instead of zero, as we have now attached the PDF and ensure this oversight will not happen again.",
+          "commentHtml": "\u003cdiv\u003eWe sincerely apologize for our mistake in not attaching the required PDF, as the assignment guide explicitly instructed us to submit a downloaded copy,.\u003cbr\u003e\u003cbr\u003eWe humbly request for a lower score instead of zero, as we have now attached the PDF and ensure this oversight will not happen again.\u003c/div\u003e",
+          "state": "PUBLISHED",
+          "commentVisibility": "PRIVATE"
+        }, {
+          "creator": {
+            "name": {
+              "fullName": "Demelo Lao"
+            }
+          },
+          "creationTime": "2024-07-01T23:16:06.694Z",
+          "updateTime": "2024-07-01T23:16:06.694Z",
+          "comment": "I regret to inform you, Kashi, that I have given you enough consideration already, in fact, the latest one on Assignment 3 which I suppose you and Chris Lou should be give a zero rating for that submission. Besides, there is no merit in further granting you such accommodation for not following instructions considering that you\u0027re already in your third year. In addition, I do not see you often in the F2F classes. Thank you.",
+          "commentHtml": "\u003cdiv\u003eI regret to inform you, Kashi, that I have given you enough consideration already, in fact, the latest one on Assignment 3 which I suppose you and Chris Lou should be give a zero rating for that submission. Besides, there is no merit in further granting you such accommodation for not following instructions considering that you\u0026#39;re already in your third year. In addition, I do not see you often in the F2F classes. Thank you.\u003c/div\u003e",
+          "state": "PUBLISHED",
+          "commentVisibility": "PRIVATE"
+        }, {
+          "creator": {
+            "name": {
+              "fullName": "REFINO KASHI KYLE ESTUDILLO"
+            },
+            "emailAddress": "rgestudillo@up.edu.ph"
+          },
+          "creationTime": "2024-07-01T23:19:56.053Z",
+          "updateTime": "2024-07-01T23:19:56.053Z",
+          "comment": "Okay sir understood. We will take the zero and consider this as a lesson.\n\nThank you for the enough consideration sir and I will do better next time!",
+          "commentHtml": "\u003cdiv\u003eOkay sir understood. We will take the zero and consider this as a lesson.\u003cbr\u003e\u003cbr\u003eThank you for the enough consideration sir and I will do better next time!\u003c/div\u003e",
+          "state": "PUBLISHED",
+          "commentVisibility": "PRIVATE"
+        }]
+      }]
+    }
+  }, {
+    "creator": {
+      "name": {
+        "fullName": "Demelo Lao"
+      }
+    },
+    "creationTime": "2024-03-29T06:50:26.091Z",
+    "updateTime": "2024-04-29T03:31:53.967Z",
+    "scheduledTime": "2024-04-29T03:30:00Z",
+    "publicationTime": "2024-04-29T03:31:53.892Z",
+    "state": "PUBLISHED",
+    "topics": [{
+      "name": "Week 14 (29 April - 3 May 2024) - Binary Classification and Its Predictive Performance Measures"
+    }],
+    "materials": [{
+      "driveFile": {
+        "driveFile": {
+          "id": "1Xw4dV-q3M4GDCGmzuPuv4qAo9nqu8Qel",
+          "title": "ActivityGuide-Week14.pdf",
+          "alternateLink": "https://drive.google.com/file/d/1Xw4dV-q3M4GDCGmzuPuv4qAo9nqu8Qel/view?usp\u003ddrive_web",
+          "thumbnailUrl": "https://lh3.googleusercontent.com/drive-storage/AJQWtBNq22AfrI1tfFxzHpIcQ65RgMaesphKAUiBebgP-hOOZLUciXV-fBBawfJP9JalZV5hHVdAz8mwVToitGwrkbtjdkyzy19jcPh9rNw_Y_YYYjE\u003ds200"
+        },
+        "shareMode": "VIEW"
+      }
+    }],
+    "courseWork": {
+      "title": "Discussion Forum: \"Considering practicality and ease of interpretation, can the confusion matrix be used in a multi-classification problem?\"",
+      "description": "Read first the accompanying Activity Guide before putting out your respective responses. Accomplish individually. Reply to each other’s post is strongly encouraged. Justify your answer.",
+      "descriptionHtml": "\u003cdiv\u003eRead first the accompanying Activity Guide before putting out your respective responses. Accomplish individually. Reply to each other’s post is strongly encouraged. Justify your answer.\u003c/div\u003e",
+      "dueTime": "2024-05-03T16:59:00Z",
+      "maxPoints": 100.0,
+      "gradeCategory": {
+        "name": "Class Participation"
+      },
+      "workType": "SHORT_ANSWER_QUESTION",
+      "submissions": [{
+        "student": {
+          "profile": {
+            "name": {
+              "fullName": "REFINO KASHI KYLE ESTUDILLO"
+            },
+            "emailAddress": "rgestudillo@up.edu.ph"
+          }
+        },
+        "assignedGrade": 50.0,
+        "gradeCalculationOption": "GRADED",
+        "state": "RETURNED",
+        "shortAnswerSubmission": {
+        },
+        "comments": [{
+          "creator": {
+            "name": {
+              "fullName": "REFINO KASHI KYLE ESTUDILLO"
+            },
+            "emailAddress": "rgestudillo@up.edu.ph"
+          },
+          "creationTime": "2024-05-03T19:53:45.809Z",
+          "updateTime": "2024-05-03T19:53:45.809Z",
+          "comment": "Good day sir! I apologize for missing the submission deadline. In light of this, I will provide my response as a comment here.\n\nUnderstanding the Confusion Matrix in Binary Classification\nThe confusion matrix is a vital tool in evaluating binary classification models. It presents a table structure that contrasts the actual versus predicted classes. This matrix consists of four key components:\nInstances where the model accurately predicts the positive class.\nInstances where the model correctly predicts the negative class.\nInstances where the model incorrectly labels negative instances as positive (Type I error).\nInstances where the model incorrectly labels positive instances as negative (Type II error).\nComponents and Interpretation of a Confusion Matrix\nIn its standard layout, the actual classes are represented in rows and the predicted classes in columns. For binary classification, the confusion matrix will always have a 2x2 structure, allowing for a direct comparison of the actual and predicted values.\n\nUsing Confusion Matrices in Multi-Class Classification\nWhen extended to multi-class classification, the confusion matrix becomes more complex, but remains valuable for performance evaluation. Instead of just two classes, each actual and predicted class is plotted across multiple rows and columns respectively, reflecting the count of instances for each class-to-class relationship. For example, a three-class classification problem will result in a 3x3 matrix.\nConsideration of Practicality and Ease of Interpretation\nDespite its utility, using a confusion matrix in multi-class classification introduces complexity:\nAs the number of classes grows, interpreting the relationships between each actual and predicted class becomes increasingly difficult. Identifying patterns or significant misclassifications requires careful examination of larger matrices.\nThe overall matrix size increases quadratically with the number of classes, making it harder to analyze visually. However, despite this, confusion matrices can still provide valuable insight into the model\u0027s performance by identifying specific classes where the model struggles.\nConsidering practicality and ease of interpretation, the confusion matrix can indeed be used in a multi-classification problem. Yes, despite the challenges posed by the increased complexity and difficulty in interpreting the relationships between actual and predicted classes, the confusion matrix remains a practical tool. Its primary advantage lies in its ability to provide a comprehensive overview of the performance across multiple classes, revealing specific misclassifications and performance patterns. While large matrices can be difficult to analyze visually, they can still offer valuable insights into model performance when used alongside visualization tools and derived metrics.",
+          "commentHtml": "\u003cdiv\u003eGood day sir! I apologize for missing the submission deadline. In light of this, I will provide my response as a comment here.\u003cbr\u003e\u003cbr\u003e\u003cb\u003eUnderstanding the Confusion Matrix in Binary Classification\u003c/b\u003e\u003cbr\u003eThe confusion matrix is a vital tool in evaluating binary classification models. It presents a table structure that contrasts the actual versus predicted classes. This matrix consists of four key components:\u003cul\u003e\u003cli\u003eInstances where the model accurately predicts the positive class.\u003c/li\u003e\u003cli\u003eInstances where the model correctly predicts the negative class.\u003c/li\u003e\u003cli\u003eInstances where the model incorrectly labels negative instances as positive (Type I error).\u003c/li\u003e\u003cli\u003eInstances where the model incorrectly labels positive instances as negative (Type II error).\u003c/li\u003e\u003c/ul\u003e\u003cb\u003eComponents and Interpretation of a Confusion Matrix\u003c/b\u003e\u003cbr\u003eIn its standard layout, the actual classes are represented in rows and the predicted classes in columns. For binary classification, the confusion matrix will always have a 2x2 structure, allowing for a direct comparison of the actual and predicted values.\u003cbr\u003e\u003cbr\u003e\u003cb\u003eUsing Confusion Matrices in Multi-Class Classification\u003c/b\u003e\u003cbr\u003eWhen extended to multi-class classification, the confusion matrix becomes more complex, but remains valuable for performance evaluation. Instead of just two classes, each actual and predicted class is plotted across multiple rows and columns respectively, reflecting the count of instances for each class-to-class relationship. For example, a three-class classification problem will result in a 3x3 matrix.\u003cbr\u003eConsideration of Practicality and Ease of Interpretation\u003cbr\u003eDespite its utility, using a confusion matrix in multi-class classification introduces complexity:\u003cul\u003e\u003cli\u003eAs the number of classes grows, interpreting the relationships between each actual and predicted class becomes increasingly difficult. Identifying patterns or significant misclassifications requires careful examination of larger matrices.\u003c/li\u003e\u003cli\u003eThe overall matrix size increases quadratically with the number of classes, making it harder to analyze visually. However, despite this, confusion matrices can still provide valuable insight into the model\u0026#39;s performance by identifying specific classes where the model struggles.\u003c/li\u003e\u003c/ul\u003eConsidering practicality and ease of interpretation, the confusion matrix can indeed be used in a multi-classification problem. \u003cb\u003eYes\u003c/b\u003e, despite the challenges posed by the increased complexity and difficulty in interpreting the relationships between actual and predicted classes,\u003cb\u003e the confusion matrix remains a practical tool\u003c/b\u003e. Its primary advantage lies in its ability to provide a comprehensive overview of the performance across multiple classes, revealing specific misclassifications and performance patterns. While large matrices can be difficult to analyze visually, they can still offer valuable insights into model performance when used alongside visualization tools and derived metrics.\u003c/div\u003e",
+          "state": "PUBLISHED",
+          "commentVisibility": "PRIVATE"
+        }, {
+          "creator": {
+            "name": {
+              "fullName": "Demelo Lao"
+            }
+          },
+          "creationTime": "2024-05-04T14:46:15.423Z",
+          "updateTime": "2024-05-04T14:46:15.423Z",
+          "comment": "This is noted.",
+          "commentHtml": "\u003cdiv\u003eThis is noted.\u003c/div\u003e",
+          "state": "PUBLISHED",
+          "commentVisibility": "PRIVATE"
+        }]
+      }]
+    }
+  }, {
+    "creator": {
+      "name": {
+        "fullName": "Demelo Lao"
+      }
+    },
+    "creationTime": "2024-03-29T06:20:43.487Z",
+    "updateTime": "2024-06-25T04:05:30.061Z",
+    "scheduledTime": "2024-04-22T03:30:00Z",
+    "publicationTime": "2024-04-22T03:33:31.290Z",
+    "state": "PUBLISHED",
+    "topics": [{
+      "name": "Week 13 (22-26 Apr 2024) - Logistic Regression Analysis"
+    }],
+    "materials": [{
+      "driveFile": {
+        "driveFile": {
+          "id": "1Qn93J9Zlar_EkwSvBmaqmfCN-BTAxfK7",
+          "title": "ActivityGuide-Week13.pdf",
+          "alternateLink": "https://drive.google.com/file/d/1Qn93J9Zlar_EkwSvBmaqmfCN-BTAxfK7/view?usp\u003ddrive_web",
+          "thumbnailUrl": "https://lh3.googleusercontent.com/drive-storage/AJQWtBOu3VQCNpgh4RVf5djVmvJIJWEgPRtZdLtTENnJU3cViQfhRxYSLIRZvlOfIC-Jxex13d0remoCytwpMTzo0wPPmZ4F7K8gNlY0waM4GAlpF9g\u003ds200"
+        },
+        "shareMode": "VIEW"
+      }
+    }, {
+      "driveFile": {
+        "driveFile": {
+          "id": "1DnxH-1_OlPbJOBg4tYvYYLyaRdPJ6hrX",
+          "title": "ActivityGuide-Week13_data.xlsx",
+          "alternateLink": "https://drive.google.com/file/d/1DnxH-1_OlPbJOBg4tYvYYLyaRdPJ6hrX/view?usp\u003ddrive_web",
+          "thumbnailUrl": "https://lh3.googleusercontent.com/drive-storage/AJQWtBNCNaK14tnr6IB7muxEOFF3qIJQ6Xt0sz1BvQjSuh_AAb5F6jxog6NZI8MtNTEbX4lOCx33Yf6nLH5HBW2P46ee7e957wxP9uhdiuB1xqW9u-8\u003ds200"
+        },
+        "shareMode": "VIEW"
+      }
+    }],
+    "courseWork": {
+      "title": "Activity 5 - Applying Logistic Regression to Binary Classification Problem",
+      "description": "Partner the same classmate as in the previous class activity since this activity is to be accomplished in pairs to promote collaboration and interaction. (In case the class size is odd‐numbered, one student is to volunteer to work individually.)\n",
+      "descriptionHtml": "\u003cdiv\u003ePartner the same classmate as in the previous class activity since this activity is to be accomplished in pairs to promote collaboration and interaction. (\u003ci\u003eIn case the class size is odd‐numbered, one student is to volunteer to work individually\u003c/i\u003e.)\u003c/div\u003e",
+      "dueTime": "2024-05-02T16:59:00Z",
+      "maxPoints": 100.0,
+      "gradeCategory": {
+        "name": "Class Activity"
+      },
+      "workType": "ASSIGNMENT",
+      "rubric": {
+        "criterion": [{
+          "title": "Fitted Model Summary Output",
+          "description": "Correctness in generating appropriate logistic regression analysis summaries",
+          "rating": [{
+            "points": 40.0
+          }]
+        }, {
+          "title": "Narrative Text",
+          "description": "Fitting logistic regression model, data preparation",
+          "rating": [{
+            "points": 30.0
+          }]
+        }, {
+          "title": "Interpretation",
+          "description": "Analytical accuracy on observations, descriptions, and implications",
+          "rating": [{
+            "points": 20.0
+          }]
+        }, {
+          "title": "Packaging Submission",
+          "description": "Shows creativity in organizing and presenting the submitted document which contains the pair’s responses",
+          "rating": [{
+            "points": 10.0
+          }]
+        }]
+      },
+      "submissions": [{
+        "student": {
+          "profile": {
+            "name": {
+              "fullName": "REFINO KASHI KYLE ESTUDILLO"
+            },
+            "emailAddress": "rgestudillo@up.edu.ph"
+          }
+        },
+        "assignedGrade": 37.0,
+        "gradeCalculationOption": "GRADED",
+        "state": "RETURNED",
+        "assignmentSubmission": {
+          "attachments": [{
+            "driveFile": {
+              "id": "1TwRRBcPTOJcohQl-SFug5_5bGax7SVLV",
+              "title": "Activity5‐Abrau_Estudillo.pdf",
+              "alternateLink": "https://drive.google.com/file/d/1TwRRBcPTOJcohQl-SFug5_5bGax7SVLV/view?usp\u003ddrive_web",
+              "thumbnailUrl": "https://lh3.googleusercontent.com/drive-storage/AJQWtBM30_fm_h5lNNHO4tNJ8ok8YT0nxgeuuwYo-cSg2uPee4-lMxCBZkvsIoHG-eSA68n_y_86q-stBMz1vHIru89auq3TJxCGMwb13YBszEdzGQs\u003ds200"
+            }
+          }]
+        },
+        "assignedRubricScore": {
+          "criterionScore": [{
+            "criterion": "Packaging Submission",
+            "points": 7.0
+          }, {
+            "criterion": "Fitted Model Summary Output",
+            "points": 0.0
+          }, {
+            "criterion": "Narrative Text",
+            "points": 25.0
+          }, {
+            "criterion": "Interpretation",
+            "points": 5.0
+          }]
+        }
+      }]
+    }
+  }, {
+    "creator": {
+      "name": {
+        "fullName": "Demelo Lao"
+      }
+    },
+    "creationTime": "2024-03-29T05:53:33.731Z",
+    "updateTime": "2024-06-22T17:58:49.114Z",
+    "scheduledTime": "2024-04-15T03:30:00Z",
+    "publicationTime": "2024-04-15T03:30:43.278Z",
+    "state": "PUBLISHED",
+    "topics": [{
+      "name": "Week 12 (15-19 Apr 2024) - Linear Regression Analysis"
+    }],
+    "materials": [{
+      "driveFile": {
+        "driveFile": {
+          "id": "1Zm5dNfcJcyy-sg1PxLJfCY9bmGc-UPvw",
+          "title": "ActivityGuide-Week12.pdf",
+          "alternateLink": "https://drive.google.com/file/d/1Zm5dNfcJcyy-sg1PxLJfCY9bmGc-UPvw/view?usp\u003ddrive_web",
+          "thumbnailUrl": "https://lh3.googleusercontent.com/drive-storage/AJQWtBNvH-HxfqD0j9TST-UE8Kw_QWanOmnLLiNYT43pmpRkeG0k2mvbyDPdlQs8W2823eGF6gBfu0fV7x6p3x-T6AoVyxrZ4Ku5NsTIPWeRvZlcKjM\u003ds200"
+        },
+        "shareMode": "VIEW"
+      }
+    }],
+    "courseWork": {
+      "title": "Class Activity 4 - Applying Multiple Linear Regression Analysis to Multivariate Data",
+      "description": "Partner the same classmate as in the previous class activity since this activity is to be accomplished in pairs to promote collaboration and interaction. (In case the class size is odd‐numbered, one student is to volunteer to work individually.)",
+      "descriptionHtml": "\u003cdiv\u003ePartner the same classmate as in the previous class activity since this activity is to be accomplished in pairs to promote collaboration and interaction. (\u003ci\u003eIn case the class size is odd‐numbered, one student is to volunteer to work individually\u003c/i\u003e.)\u003c/div\u003e",
+      "dueTime": "2024-04-25T16:59:00Z",
+      "maxPoints": 100.0,
+      "gradeCategory": {
+        "name": "Class Activity"
+      },
+      "workType": "ASSIGNMENT",
+      "rubric": {
+        "criterion": [{
+          "title": "Fitted Model Summary Output",
+          "description": "Correctness in generating appropriate multiple linear regression analysis summaries",
+          "rating": [{
+            "points": 40.0
+          }]
+        }, {
+          "title": "Narrative Text",
+          "description": "Fitting multiple linear regression model, data encoding for categorical variable",
+          "rating": [{
+            "points": 20.0
+          }]
+        }, {
+          "title": "Interpretation",
+          "description": "Analytical accuracy on observations, descriptions, and implications",
+          "rating": [{
+            "points": 30.0
+          }]
+        }, {
+          "title": "Packaging Submission",
+          "description": "Shows creativity in organizing and presenting the submitted document which contains the pair’s responses",
+          "rating": [{
+            "points": 10.0
+          }]
+        }]
+      },
+      "submissions": [{
+        "student": {
+          "profile": {
+            "name": {
+              "fullName": "REFINO KASHI KYLE ESTUDILLO"
+            },
+            "emailAddress": "rgestudillo@up.edu.ph"
+          }
+        },
+        "assignedGrade": 80.0,
+        "gradeCalculationOption": "GRADED",
+        "state": "RETURNED",
+        "assignmentSubmission": {
+          "attachments": [{
+            "driveFile": {
+              "id": "1yWFZhi9cHyyT8RrvoJ8nsY9rlC_z28-u",
+              "title": "Class Activity 4-Abrau_Estudillo.pdf",
+              "alternateLink": "https://drive.google.com/file/d/1yWFZhi9cHyyT8RrvoJ8nsY9rlC_z28-u/view?usp\u003ddrive_web",
+              "thumbnailUrl": "https://lh3.googleusercontent.com/drive-storage/AJQWtBP41lh8XE09F1ucHxXdsujv1GMkKYUlmPJb9iA6IEdAj8rzBQNPojEIN-jXDXcOL-xOuOqO_tR52I-dEKKUP2kojrwzIBy440sGPZ1VXzNERCw\u003ds200"
+            }
+          }]
+        },
+        "assignedRubricScore": {
+          "criterionScore": [{
+            "criterion": "Fitted Model Summary Output",
+            "points": 35.0
+          }, {
+            "criterion": "Narrative Text",
+            "points": 20.0
+          }, {
+            "criterion": "Interpretation",
+            "points": 18.0
+          }, {
+            "criterion": "Packaging Submission",
+            "points": 7.0
+          }]
+        }
+      }]
+    }
+  }, {
+    "creator": {
+      "name": {
+        "fullName": "Demelo Lao"
+      }
+    },
+    "creationTime": "2024-03-29T05:20:26.486Z",
+    "updateTime": "2024-06-29T03:06:04.364Z",
+    "scheduledTime": "2024-04-08T03:30:00Z",
+    "publicationTime": "2024-04-08T03:30:58.074Z",
+    "state": "PUBLISHED",
+    "topics": [{
+      "name": "Week 11 (8-12 Apr 2024) - Descriptive Multivariate Analysis"
+    }],
+    "materials": [{
+      "driveFile": {
+        "driveFile": {
+          "id": "16GPCckdIYPRuSeZGxVcDDKbBFiplltVg",
+          "title": "AssignmentGuide-Week11.pdf",
+          "alternateLink": "https://drive.google.com/file/d/16GPCckdIYPRuSeZGxVcDDKbBFiplltVg/view?usp\u003ddrive_web",
+          "thumbnailUrl": "https://lh3.googleusercontent.com/drive-storage/AJQWtBPZDoR6YiZRqRNnEfw-b37QIq2ryI_J5y03FuBbmTXYbkEIIchYZ52Z7sdWB2hNhz9IUoDr0juJBzq-dEYJsUF_PaNEEVgmceHlK2EAcrZs6eU\u003ds200"
+        },
+        "shareMode": "VIEW"
+      }
+    }],
+    "courseWork": {
+      "title": "Assignment 1 - Retrieval of Multivariate Dataset and Performing Descriptive Multivariate Analysis",
+      "description": "Partner the same classmate as in the previous class activity since this activity is to be accomplished in pairs to promote collaboration and interaction. Read thoroughly first the accompanying Assignment Guide before putting out your respective responses.",
+      "descriptionHtml": "\u003cdiv\u003ePartner the same classmate as in the previous class activity since this activity is to be accomplished in pairs to promote collaboration and interaction. Read thoroughly first the accompanying Assignment Guide before putting out your respective responses.\u003c/div\u003e",
+      "dueTime": "2024-04-18T16:59:00Z",
+      "maxPoints": 100.0,
+      "gradeCategory": {
+        "name": "Class Assignment"
+      },
+      "workType": "ASSIGNMENT",
+      "rubric": {
+        "criterion": [{
+          "title": "Calculations\u0027 Accuracy",
+          "description": "Correctness in specifying measures and computations",
+          "rating": [{
+            "points": 30.0
+          }]
+        }, {
+          "title": "Interpretation",
+          "description": "Informational accuracy on observations, descriptions, and implications",
+          "rating": [{
+            "points": 30.0
+          }]
+        }, {
+          "title": "Narrative Text",
+          "description": "Descriptive measures for central tendency and dispersion, responses to analytical questions",
+          "rating": [{
+            "points": 30.0
+          }]
+        }, {
+          "title": "Packaging Submission",
+          "description": "Shows creativity in organizing and presenting the submitted document which contains the pair’s responses",
+          "rating": [{
+            "points": 10.0
+          }]
+        }]
+      },
+      "submissions": [{
+        "student": {
+          "profile": {
+            "name": {
+              "fullName": "REFINO KASHI KYLE ESTUDILLO"
+            },
+            "emailAddress": "rgestudillo@up.edu.ph"
+          }
+        },
+        "assignedGrade": 87.0,
+        "gradeCalculationOption": "GRADED",
+        "state": "RETURNED",
+        "assignmentSubmission": {
+          "attachments": [{
+            "driveFile": {
+              "id": "1B2rnXublAczklp9rpJZ21b1SLjDGSwVT",
+              "title": "Assignment1‐Abrau_Estudillo.pdf",
+              "alternateLink": "https://drive.google.com/file/d/1B2rnXublAczklp9rpJZ21b1SLjDGSwVT/view?usp\u003ddrive_web",
+              "thumbnailUrl": "https://lh3.googleusercontent.com/drive-storage/AJQWtBNbrxO3KlAeAoo6VocgoHf1jqnysr3W7DvfKpx-urv47lrHSZFZl-e0W9tJUmX4PJ9b2Y-kHmBOJ1eglYMNVXiSsYcmNk4NXKwFF8cTsLnU_Jo\u003ds200"
+            }
+          }]
+        },
+        "assignedRubricScore": {
+          "criterionScore": [{
+            "criterion": "Calculations\u0027 Accuracy",
+            "points": 30.0
+          }, {
+            "criterion": "Interpretation",
+            "points": 20.0
+          }, {
+            "criterion": "Narrative Text",
+            "points": 30.0
+          }, {
+            "criterion": "Packaging Submission",
+            "points": 7.0
+          }]
+        }
+      }]
+    }
+  }, {
+    "creator": {
+      "name": {
+        "fullName": "Demelo Lao"
+      }
+    },
+    "creationTime": "2024-03-29T07:28:12.149Z",
+    "updateTime": "2024-07-01T14:09:04.124Z",
+    "publicationTime": "2024-03-29T07:32:42.212Z",
+    "state": "PUBLISHED",
+    "topics": [{
+      "name": "Week 16 (13-17 May 2024) - Class Forum cum Course Synthesis"
+    }],
+    "materials": [{
+      "driveFile": {
+        "driveFile": {
+          "id": "17QCZ88J8JV-KV30r0soTUZS32FtvcKm-",
+          "title": "AssignmentGuide-Week16.pdf",
+          "alternateLink": "https://drive.google.com/file/d/17QCZ88J8JV-KV30r0soTUZS32FtvcKm-/view?usp\u003ddrive_web",
+          "thumbnailUrl": "https://lh3.googleusercontent.com/drive-storage/AJQWtBMDcSLmYOq_dp4CqZkM2IC4iJoHVHk-bcoXvrtELI7L6xnNoYpIcBXa3arfglj1PUUbdFGyw_3SoHuMkTD_bJecVyyFb6wubal9H1r2PQnb1QI\u003ds200"
+        },
+        "shareMode": "VIEW"
+      }
+    }],
+    "courseWork": {
+      "title": "Assignment 3 - Learning Portfolio",
+      "description": "Accomplish individually. Read thoroughly the accompanying Assignment Guide first to guide you in preparing the required document.",
+      "descriptionHtml": "\u003cdiv\u003eAccomplish individually. Read thoroughly the accompanying Assignment Guide first to guide you in preparing the required document.\u003c/div\u003e",
+      "dueTime": "2024-05-24T16:59:00Z",
+      "maxPoints": 100.0,
+      "gradeCategory": {
+        "name": "Class Assignment"
+      },
+      "workType": "ASSIGNMENT",
+      "submissions": [{
+        "student": {
+          "profile": {
+            "name": {
+              "fullName": "REFINO KASHI KYLE ESTUDILLO"
+            },
+            "emailAddress": "rgestudillo@up.edu.ph"
+          }
+        },
+        "assignedGrade": 80.0,
+        "gradeCalculationOption": "GRADED",
+        "state": "RETURNED",
+        "assignmentSubmission": {
+          "attachments": [{
+            "driveFile": {
+              "id": "10cRlqnyf80R7b-tT3G719mA0bpY-7DXi",
+              "title": "Assignment3_Estudillo.pdf",
+              "alternateLink": "https://drive.google.com/file/d/10cRlqnyf80R7b-tT3G719mA0bpY-7DXi/view?usp\u003ddrive_web",
+              "thumbnailUrl": "https://lh3.googleusercontent.com/drive-storage/AJQWtBMjYC9Ipi9LOUMJq2J-H017OzeQfBqT8elvO6Fjt-Qx8Tp1FJ1DtduU56JXhOnwPpC3niy1F8vCmQLQsOX-rN9kv-4SDiVxAj3_-m626CmYHNA\u003ds200"
+            }
+          }]
+        },
+        "comments": [{
+          "creator": {
+            "name": {
+              "fullName": "Demelo Lao"
+            }
+          },
+          "creationTime": "2024-07-01T20:59:19.573Z",
+          "updateTime": "2024-07-01T20:59:19.573Z",
+          "comment": "The \u0027Executive Summary\u0027 section is strikingly similar as that of the submission of Estudillo.",
+          "commentHtml": "\u003cdiv\u003eThe \u0026#39;Executive Summary\u0026#39; section is strikingly similar as that of the submission of Estudillo.\u003c/div\u003e",
+          "state": "PUBLISHED",
+          "commentVisibility": "PRIVATE"
+        }, {
+          "creator": {
+            "name": {
+              "fullName": "REFINO KASHI KYLE ESTUDILLO"
+            },
+            "emailAddress": "rgestudillo@up.edu.ph"
+          },
+          "creationTime": "2024-07-01T21:35:16.120Z",
+          "updateTime": "2024-07-01T21:35:16.120Z",
+          "comment": "What do you mean sir? ",
+          "commentHtml": "\u003cdiv\u003eWhat do you mean sir?\u003c/div\u003e",
+          "state": "PUBLISHED",
+          "commentVisibility": "PRIVATE"
+        }, {
+          "creator": {
+            "name": {
+              "fullName": "Demelo Lao"
+            }
+          },
+          "creationTime": "2024-07-01T21:56:33.369Z",
+          "updateTime": "2024-07-01T21:56:33.369Z",
+          "comment": "This is really what my comment says: \"The \u0027Executive Summary\u0027 section is strikingly similar as that of the submission of Cañete\".",
+          "commentHtml": "\u003cdiv\u003eThis is really what my comment says: \u0026quot;The \u0026#39;Executive Summary\u0026#39; section is strikingly similar as that of the submission of Cañete\u0026quot;.\u003c/div\u003e",
+          "state": "PUBLISHED",
+          "commentVisibility": "PRIVATE"
+        }, {
+          "creator": {
+            "name": {
+              "fullName": "REFINO KASHI KYLE ESTUDILLO"
+            },
+            "emailAddress": "rgestudillo@up.edu.ph"
+          },
+          "creationTime": "2024-07-01T22:01:32.992Z",
+          "updateTime": "2024-07-01T22:01:32.992Z",
+          "comment": "I did not know sir. I only let Canete borrow my laptop since he doesnt have one in order for him to complete his requirements.",
+          "commentHtml": "\u003cdiv\u003eI did not know sir. I only let Canete borrow my laptop since he doesnt have one in order for him to complete his requirements.\u003c/div\u003e",
+          "state": "PUBLISHED",
+          "commentVisibility": "PRIVATE"
+        }, {
+          "creator": {
+            "name": {
+              "fullName": "REFINO KASHI KYLE ESTUDILLO"
+            },
+            "emailAddress": "rgestudillo@up.edu.ph"
+          },
+          "creationTime": "2024-07-01T22:02:41.394Z",
+          "updateTime": "2024-07-01T22:02:41.394Z",
+          "comment": "I am very sorry sir.",
+          "commentHtml": "\u003cdiv\u003eI am very sorry sir.\u003c/div\u003e",
+          "state": "PUBLISHED",
+          "commentVisibility": "PRIVATE"
+        }, {
+          "creator": {
+            "name": {
+              "fullName": "Demelo Lao"
+            }
+          },
+          "creationTime": "2024-07-01T22:17:37.123Z",
+          "updateTime": "2024-07-01T22:17:37.123Z",
+          "comment": "This is another instance for you to learn on what you should lend or not, and be mindful of the risk when deciding to commit such an act. I hope that you really learned your lesson going back to the CMSC 192 incident.",
+          "commentHtml": "\u003cdiv\u003eThis is another instance for you to learn on what you should lend or not, and be mindful of the risk when deciding to commit such an act. I hope that you really learned your lesson going back to the CMSC 192 incident.\u003c/div\u003e",
+          "state": "PUBLISHED",
+          "commentVisibility": "PRIVATE"
+        }, {
+          "creator": {
+            "name": {
+              "fullName": "REFINO KASHI KYLE ESTUDILLO"
+            },
+            "emailAddress": "rgestudillo@up.edu.ph"
+          },
+          "creationTime": "2024-07-01T22:26:57.157Z",
+          "updateTime": "2024-07-01T22:26:57.157Z",
+          "comment": "Yes sir. This has been a valuable lesson in understanding the risks of lending my materials, especially considering the previous incident. \n\nI really learned my lesson that time sir and did all my work with honesty. That lesson inspired me to become  not just a better student but also a better programmer.\n\nIm really sorry about this case sir. I helped as a friend and did not consider the risk. ",
+          "commentHtml": "\u003cdiv\u003eYes sir. This has been a valuable lesson in understanding the risks of lending my materials, especially considering the previous incident. \u003cbr\u003e\u003cbr\u003eI really learned my lesson that time sir and did all my work with honesty. That lesson inspired me to become  not just a better student but also a better programmer.\u003cbr\u003e\u003cbr\u003eIm really sorry about this case sir. I helped as a friend and did not consider the risk.\u003c/div\u003e",
+          "state": "PUBLISHED",
+          "commentVisibility": "PRIVATE"
+        }]
+      }]
+    }
+  }, {
+    "creator": {
+      "name": {
+        "fullName": "Demelo Lao"
+      }
+    },
+    "creationTime": "2024-03-10T02:03:39.847Z",
+    "updateTime": "2024-03-11T02:34:10.416Z",
+    "scheduledTime": "2024-03-11T02:30:00Z",
+    "publicationTime": "2024-03-11T02:34:10.350Z",
+    "state": "PUBLISHED",
+    "topics": [{
+      "name": "Week 7 (11-15 Mar 2024) - Descriptive Univariate Analysis"
+    }],
+    "materials": [{
+      "driveFile": {
+        "driveFile": {
+          "id": "1Q23HJlaZTj_b0udE7_khI2nSKpBojizI",
+          "title": "ActivityGuide-Week7.pdf",
+          "alternateLink": "https://drive.google.com/file/d/1Q23HJlaZTj_b0udE7_khI2nSKpBojizI/view?usp\u003ddrive_web",
+          "thumbnailUrl": "https://lh3.googleusercontent.com/drive-storage/AJQWtBNhB1FRwrhoXhfO9IV4l1k6PQXP2BfxfcA2RpMhXRJ0c5dQ1o2KQ9tRCiEldiIuC91CpCJMgZcNPsdz100R3OCDnCbc8RL7ffJvcbkh5dAUbNk\u003ds200"
+        },
+        "shareMode": "VIEW"
+      }
+    }],
+    "courseWork": {
+      "title": "Discussion Forum: “How can you measure the medium average speed of cars travelling on multiple lanes in an expressway without the use of radar?”",
+      "description": "Read first the accompanying Activity Guide before putting out your respective responses. Reply to each other’s post is strongly encouraged.",
+      "descriptionHtml": "\u003cdiv\u003eRead first the accompanying Activity Guide before putting out your respective responses. Reply to each other’s post is strongly encouraged.\u003c/div\u003e",
+      "dueTime": "2024-03-15T15:59:00Z",
+      "maxPoints": 100.0,
+      "gradeCategory": {
+        "name": "Class Participation"
+      },
+      "workType": "SHORT_ANSWER_QUESTION",
+      "submissions": [{
+        "student": {
+          "profile": {
+            "name": {
+              "fullName": "REFINO KASHI KYLE ESTUDILLO"
+            },
+            "emailAddress": "rgestudillo@up.edu.ph"
+          }
+        },
+        "assignedGrade": 40.0,
+        "gradeCalculationOption": "GRADED",
+        "state": "RETURNED",
+        "shortAnswerSubmission": {
+          "answer": "To measure the median average speed of cars traveling on multiple lanes in an expressway without the use of radar, one might employ several alternative methods, including manual counting and observation, pneumatic road tubes, and using existing traffic flow data.\n\n1. Manual Counting and Observation: Observers stationed at specific intervals along the expressway could record the time it takes for vehicles to pass between two points. By collecting speed data from a sample of vehicles across all lanes, one can calculate the median speed. This method, while labor-intensive, removes the need for electronic equipment and focuses on the central tendency of the speeds observed.\n\n2. Pneumatic Road Tubes: These are tubes laid across the road that, when driven over, measure the time it takes for a vehicle to pass between two points. Similar to manual counting, this method can provide data from which the median speed can be calculated. This method is less labor-intensive but requires some setup.\n\n3. Using Existing Traffic Flow Data: In some cases, traffic flow data may already be available from traffic management systems, which use various sensors to monitor vehicle speeds and densities on expressways. This pre-existing data can be analyzed to find the median speed of vehicles over a given period.\n\nIn each of these methods, the median speed is calculated by organizing the collected speed data in ascending order and finding the middle value. For an even number of observations, the average of the two middle numbers is taken. This approach ensures that the measurement is not skewed by outliers, such as vehicles significantly exceeding or falling below the average speed, thus providing a more accurate representation of the general flow of traffic on the expressway.\n\nBy focusing on the median rather than the mean, we account for the variability in speeds across different lanes and times, offering a robust measure that can inform traffic management decisions, safety assessments, and infrastructure planning without the need for radar technology."
+        }
+      }]
+    }
+  }, {
+    "creator": {
+      "name": {
+        "fullName": "Demelo Lao"
+      }
+    },
+    "creationTime": "2024-03-03T06:55:17.090Z",
+    "updateTime": "2024-07-01T22:41:45.290Z",
+    "scheduledTime": "2024-03-04T03:30:00Z",
+    "publicationTime": "2024-03-04T03:31:21.447Z",
+    "state": "PUBLISHED",
+    "topics": [{
+      "name": "Week 6 (4-8 Mar 2024) - Exploratory Data Analysis - Part 2"
+    }],
+    "materials": [{
+      "driveFile": {
+        "driveFile": {
+          "id": "1ihspqpgI7J1kzxMwiq9Ae2UZGOcHmVca",
+          "title": "ActivityGuide-Week6.pdf",
+          "alternateLink": "https://drive.google.com/file/d/1ihspqpgI7J1kzxMwiq9Ae2UZGOcHmVca/view?usp\u003ddrive_web",
+          "thumbnailUrl": "https://lh3.googleusercontent.com/drive-storage/AJQWtBPHQa9d1QbBmWsPyDoBMt0wXga0NT3aZPNScNjV5IFJwWdbeS2hfYQKwsqidR2TBjTPA2gRET6REd2ijWFVmDXRUgstL-HWhLngRlm4Dholv2g\u003ds200"
+        },
+        "shareMode": "VIEW"
+      }
+    }],
+    "courseWork": {
+      "title": "Class Activity 3 - Exploratory Data Analysis by Generating a Pair Plot",
+      "description": "Partner the same classmate as in the previous class activity since this activity is to be accomplished in pairs to promote collaboration and interaction. (In case the class size is odd‐numbered, one student is to volunteer to work individually.)",
+      "descriptionHtml": "\u003cdiv\u003ePartner the same classmate as in the previous class activity since this activity is to be accomplished in pairs to promote collaboration and interaction. (\u003ci\u003eIn case the class size is odd‐numbered, one student is to volunteer to work individually\u003c/i\u003e.)\u003c/div\u003e",
+      "dueTime": "2024-03-14T16:59:00Z",
+      "maxPoints": 100.0,
+      "gradeCategory": {
+        "name": "Class Activity"
+      },
+      "workType": "ASSIGNMENT",
+      "rubric": {
+        "criterion": [{
+          "title": "Graphical Display",
+          "description": "correctness in generating appropriate data visualization with appropriate labels",
+          "rating": [{
+            "points": 40.0
+          }]
+        }, {
+          "title": "Narrative Text",
+          "description": "Pair Plot\u003d10, Grouping Variable\u003d10",
+          "rating": [{
+            "points": 20.0
+          }]
+        }, {
+          "title": "Interpretation",
+          "description": "informational accuracy on observations, descriptions, and implications",
+          "rating": [{
+            "points": 30.0
+          }]
+        }, {
+          "title": "Packaging Submission",
+          "description": "shows creativity in organizing and presenting the submitted document which contains the pair’s responses",
+          "rating": [{
+            "points": 10.0
+          }]
+        }]
+      },
+      "submissions": [{
+        "student": {
+          "profile": {
+            "name": {
+              "fullName": "REFINO KASHI KYLE ESTUDILLO"
+            },
+            "emailAddress": "rgestudillo@up.edu.ph"
+          }
+        },
+        "assignedGrade": 88.0,
+        "gradeCalculationOption": "GRADED",
+        "state": "RETURNED",
+        "assignmentSubmission": {
+          "attachments": [{
+            "driveFile": {
+              "id": "19pugk7f7kJSNWbaPU8Y8jv6dplfgaIXG",
+              "title": "Class Activity 3‐Abrau_Estudillo.pdf",
+              "alternateLink": "https://drive.google.com/file/d/19pugk7f7kJSNWbaPU8Y8jv6dplfgaIXG/view?usp\u003ddrive_web",
+              "thumbnailUrl": "https://lh3.googleusercontent.com/drive-storage/AJQWtBPptM_CsB7VZBn1_mV6dFHId2Ka7wvLKOTGUzhPLisWFflweZQqZmyU8nyGM-Gu7de5yUB-5I2_G8UtMA3EiOj3RhWFUIjBjAoGd14uD2AZfOg\u003ds200"
+            }
+          }]
+        },
+        "assignedRubricScore": {
+          "criterionScore": [{
+            "criterion": "Packaging Submission",
+            "points": 8.0
+          }, {
+            "criterion": "Graphical Display",
+            "points": 40.0
+          }, {
+            "criterion": "Narrative Text",
+            "points": 20.0
+          }, {
+            "criterion": "Interpretation",
+            "points": 20.0
+          }]
+        }
+      }]
+    }
+  }, {
+    "creator": {
+      "name": {
+        "fullName": "Demelo Lao"
+      }
+    },
+    "creationTime": "2024-02-25T09:13:36.188Z",
+    "updateTime": "2024-07-01T22:41:12.157Z",
+    "scheduledTime": "2024-02-26T02:30:00Z",
+    "publicationTime": "2024-02-26T02:30:33.710Z",
+    "state": "PUBLISHED",
+    "topics": [{
+      "name": "Week 5 (26 Feb - Mar 1) - Exploratory Data Analysis - Part 1"
+    }],
+    "materials": [{
+      "driveFile": {
+        "driveFile": {
+          "id": "1o8I7gdKn7JvyPKUZU1gqe-Tl6BEc2zNz",
+          "title": "ActivityGuide-Week5.pdf",
+          "alternateLink": "https://drive.google.com/file/d/1o8I7gdKn7JvyPKUZU1gqe-Tl6BEc2zNz/view?usp\u003ddrive_web",
+          "thumbnailUrl": "https://lh3.googleusercontent.com/drive-storage/AJQWtBMjmly0wueT2-05aBiS2iv_nvjxeNctPOFwps9iOymKvJ3yQhlVIqsrxjekGxgIHBwkDXVdFrynR5dM30-mQwumFCiF0497vsNW4r7aTadwUEA\u003ds200"
+        },
+        "shareMode": "VIEW"
+      }
+    }],
+    "courseWork": {
+      "title": "Class Activity 2 - Exploratory Data Analysis by Calculating 5-Number Summary and Constructing Box-and-Whiskers Plot",
+      "description": "Choose a partner among your classmates since this activity is to be accomplished in pairs to promote collaboration and interaction. (In case the class size is odd‐numbered, one student is to volunteer to work individually.)",
+      "descriptionHtml": "\u003cdiv\u003eChoose a partner among your classmates since this activity is to be accomplished in pairs to promote collaboration and interaction. (\u003ci\u003eIn case the class size is odd‐numbered, one student is to volunteer to work individually\u003c/i\u003e.)\u003c/div\u003e",
+      "dueTime": "2024-03-07T15:59:00Z",
+      "maxPoints": 100.0,
+      "gradeCategory": {
+        "name": "Class Activity"
+      },
+      "workType": "ASSIGNMENT",
+      "rubric": {
+        "criterion": [{
+          "title": "Calculations and Graphical Display",
+          "description": "correctness in specifying measures and computations, and generating appropriate data visualization",
+          "rating": [{
+            "points": 40.0
+          }]
+        }, {
+          "title": "Narrative Text",
+          "description": "5-number summary\u003d10, boxplot\u003d10",
+          "rating": [{
+            "points": 20.0
+          }]
+        }, {
+          "title": "Interpretation",
+          "description": "informational accuracy on observations, descriptions, and implications",
+          "rating": [{
+            "points": 30.0
+          }]
+        }, {
+          "title": "Packaging Submission",
+          "description": "shows creativity in organizing and presenting the submitted document which contains the pair’s responses",
+          "rating": [{
+            "points": 10.0
+          }]
+        }]
+      },
+      "submissions": [{
+        "student": {
+          "profile": {
+            "name": {
+              "fullName": "REFINO KASHI KYLE ESTUDILLO"
+            },
+            "emailAddress": "rgestudillo@up.edu.ph"
+          }
+        },
+        "assignedGrade": 74.0,
+        "gradeCalculationOption": "GRADED",
+        "state": "RETURNED",
+        "assignmentSubmission": {
+          "attachments": [{
+            "driveFile": {
+              "id": "1WbQPCZDfzq4TDyPQlDlo9j5E6cErYfeY",
+              "title": "Class-Activity-2Abrau_Estudillo.pdf",
+              "alternateLink": "https://drive.google.com/file/d/1WbQPCZDfzq4TDyPQlDlo9j5E6cErYfeY/view?usp\u003ddrive_web"
+            }
+          }]
+        },
+        "assignedRubricScore": {
+          "criterionScore": [{
+            "criterion": "Calculations and Graphical Display",
+            "points": 20.0
+          }, {
+            "criterion": "Narrative Text",
+            "points": 20.0
+          }, {
+            "criterion": "Interpretation",
+            "points": 25.0
+          }, {
+            "criterion": "Packaging Submission",
+            "points": 9.0
+          }]
+        }
+      }]
+    }
+  }, {
+    "creator": {
+      "name": {
+        "fullName": "Demelo Lao"
+      }
+    },
+    "creationTime": "2024-02-18T14:07:14.765Z",
+    "updateTime": "2024-02-19T03:30:15.265Z",
+    "scheduledTime": "2024-02-19T03:30:00Z",
+    "publicationTime": "2024-02-19T03:30:14.990Z",
+    "state": "PUBLISHED",
+    "topics": [{
+      "name": "Week 4 (19-23 Feb 2024) - Data Visualization for Decision-Making"
+    }],
+    "materials": [{
+      "driveFile": {
+        "driveFile": {
+          "id": "1rnzdQOXhITmXbUk-lbHwNIi23Shuh40W",
+          "title": "ActivityGuide-Week4.pdf",
+          "alternateLink": "https://drive.google.com/file/d/1rnzdQOXhITmXbUk-lbHwNIi23Shuh40W/view?usp\u003ddrive_web",
+          "thumbnailUrl": "https://lh3.googleusercontent.com/drive-storage/AJQWtBNrb3JI_J0vT4Wsd_6Vy0Z-U6Huq2jAtJtw7cvPTA7qeqB2IObvriq02BJxWPKsJYkLKnXdvz_eYhUnqUzsQdN7rDZtzsIoAzRcPHiFDzKull4\u003ds200"
+        },
+        "shareMode": "VIEW"
+      }
+    }],
+    "courseWork": {
+      "title": "Discussion Forum: Why data visualization is “front and center” in data analytics?",
+      "description": "Read first the accompanying activity guide before putting out your respective responses. Reply to each other’s post is highly encouraged.",
+      "descriptionHtml": "\u003cdiv\u003eRead first the accompanying activity guide before putting out your respective responses. Reply to each other’s post is highly encouraged.\u003c/div\u003e",
+      "dueTime": "2024-02-23T16:59:00Z",
+      "maxPoints": 100.0,
+      "gradeCategory": {
+        "name": "Class Participation"
+      },
+      "workType": "SHORT_ANSWER_QUESTION",
+      "submissions": [{
+        "student": {
+          "profile": {
+            "name": {
+              "fullName": "REFINO KASHI KYLE ESTUDILLO"
+            },
+            "emailAddress": "rgestudillo@up.edu.ph"
+          }
+        },
+        "assignedGrade": 100.0,
+        "gradeCalculationOption": "GRADED",
+        "state": "RETURNED",
+        "shortAnswerSubmission": {
+          "answer": "Data visualization stands \"front and center\" in data analytics primarily because it transforms complex data sets into a form that is accessible, understandable, and actionable for a wide array of audiences. At its core, data visualization leverages graphical representations to make the inherent patterns, trends, and outliers within data readily apparent, bypassing the cognitive load required to parse through raw numbers or textual data dumps. This immediacy of comprehension is crucial in data-driven decision-making environments where stakeholders may not have the technical expertise to interpret statistical outputs but need to understand insights to guide strategic directions.\n\nMoreover, in the fast-paced digital world, the ability to quickly discern actionable insights from vast amounts of data is invaluable. Data visualization facilitates this by condensing complex information into digestible, compelling visual stories, enabling analysts and decision-makers to spot trends, understand the scope of issues, and identify correlations or discrepancies that might not be apparent in tabulated data. This capability is not just about simplification but about enhancing the cognitive process of data interpretation, making it a critical tool in the analytics arsenal for its role in enhancing efficiency, understanding, and communication of data insights.\n\nFurthermore, data visualization serves as a bridge between data scientists and non-technical stakeholders, fostering a collaborative environment where insights are shared and understood across disciplines. This inclusivity is vital for organizations aiming to foster a data-driven culture, as it democratizes data insights, making them accessible to all levels of the organization. By placing data visualization at the forefront of data analytics, organizations empower their teams to leverage data effectively, ensuring that decisions are informed by a comprehensive understanding of the data at hand. This centrality of visualization in analytics underscores its role not just as a tool for interpretation but as a fundamental component of a robust analytical strategy, driving insights, innovation, and strategic decision-making across industries."
+        },
+        "comments": [{
+          "creator": {
+            "name": {
+              "fullName": "Lizter Angelo Abrau"
+            },
+            "emailAddress": "lmabrau@up.edu.ph"
+          },
+          "creationTime": "2024-02-23T00:38:27.698Z",
+          "updateTime": "2024-02-23T00:38:27.698Z",
+          "comment": "Kashi Kyle, your take on the importance of data visualization in data analytics is spot-on and well-expressed. You\u0027ve rightly pointed out how turning complex data into easy-to-understand visuals is key for quick, informed decision-making, especially in a world that moves at breakneck speed. The idea that visuals can bridge the gap between data experts and those who might not be as comfortable with numbers is a crucial insight, highlighting how essential visualization is for making data accessible to everyone.\nHowever, there are a few areas that could use more exploration to round out the picture. For one, while simplifying data into visuals is powerful, there\u0027s a risk of making things too simple. This can sometimes lead to important details being lost or misunderstood. It\u0027s a delicate balance between making data understandable and keeping its depth and accuracy.\nAnother point worth mentioning is that not all visuals are created equal. Some can be misleading, whether by accident or design. It\u0027s important to think about how to present data honestly and clearly, without skewing the viewer\u0027s perception.\nAlso, not everyone experiences visuals in the same way. People with visual impairments, for example, might find it hard to access the insights in a chart or graph. Discussing ways to make data visuals more accessible to everyone could add a lot to the conversation about inclusivity.\nLastly, creating effective visuals isn\u0027t always straightforward. It requires skills that not everyone has, which means there\u0027s a bit of a learning curve involved. Acknowledging this, and perhaps suggesting ways to make learning easier, could be helpful for organizations looking to get the most out of their data.\nBy touching on these points, your discussion on data visualization would not only highlight its benefits but also consider the broader responsibilities and challenges that come with it. This approach keeps the conversation grounded and practical, making it even more useful for those looking to leverage data visualization in their work.",
+          "commentHtml": "\u003cdiv\u003eKashi Kyle, your take on the importance of data visualization in data analytics is spot-on and well-expressed. You\u0026#39;ve rightly pointed out how turning complex data into easy-to-understand visuals is key for quick, informed decision-making, especially in a world that moves at breakneck speed. The idea that visuals can bridge the gap between data experts and those who might not be as comfortable with numbers is a crucial insight, highlighting how essential visualization is for making data accessible to everyone.\u003cbr\u003eHowever, there are a few areas that could use more exploration to round out the picture. For one, while simplifying data into visuals is powerful, there\u0026#39;s a risk of making things too simple. This can sometimes lead to important details being lost or misunderstood. It\u0026#39;s a delicate balance between making data understandable and keeping its depth and accuracy.\u003cbr\u003eAnother point worth mentioning is that not all visuals are created equal. Some can be misleading, whether by accident or design. It\u0026#39;s important to think about how to present data honestly and clearly, without skewing the viewer\u0026#39;s perception.\u003cbr\u003eAlso, not everyone experiences visuals in the same way. People with visual impairments, for example, might find it hard to access the insights in a chart or graph. Discussing ways to make data visuals more accessible to everyone could add a lot to the conversation about inclusivity.\u003cbr\u003eLastly, creating effective visuals isn\u0026#39;t always straightforward. It requires skills that not everyone has, which means there\u0026#39;s a bit of a learning curve involved. Acknowledging this, and perhaps suggesting ways to make learning easier, could be helpful for organizations looking to get the most out of their data.\u003cbr\u003eBy touching on these points, your discussion on data visualization would not only highlight its benefits but also consider the broader responsibilities and challenges that come with it. This approach keeps the conversation grounded and practical, making it even more useful for those looking to leverage data visualization in their work.\u003c/div\u003e",
+          "state": "PUBLISHED",
+          "commentVisibility": "COURSE"
+        }]
+      }]
+    }
+  }, {
+    "creator": {
+      "name": {
+        "fullName": "Demelo Lao"
+      }
+    },
+    "creationTime": "2024-02-03T17:36:47.922Z",
+    "updateTime": "2024-02-05T03:31:36.128Z",
+    "scheduledTime": "2024-02-05T03:30:00Z",
+    "publicationTime": "2024-02-05T03:31:35.880Z",
+    "state": "PUBLISHED",
+    "topics": [{
+      "name": "Week 2 (5-9 Feb 2024) - Data Analytics Overview"
+    }],
+    "materials": [{
+      "driveFile": {
+        "driveFile": {
+          "id": "1HxYDCX8AwWZ4ha28FNQoPexaBEI--dCC",
+          "title": "ActivityGuide-Week2.pdf",
+          "alternateLink": "https://drive.google.com/file/d/1HxYDCX8AwWZ4ha28FNQoPexaBEI--dCC/view?usp\u003ddrive_web",
+          "thumbnailUrl": "https://lh3.googleusercontent.com/drive-storage/AJQWtBPf2Ud6R2gEo159BsvFT4aF5Mwc2XmZ81wpi6A-5XdJxYv1nrErtFlr8EX1jA6j4EN_VYW-cojtxIIcLIqT8EgAOAO_beOAc1GwGgDn9i0PXCg\u003ds200"
+        },
+        "shareMode": "VIEW"
+      }
+    }],
+    "courseWork": {
+      "title": "Group Activity 1 - Learn from 5 Real-world Examples of How Brands are Using Big Data Analytics",
+      "description": "Lookup online for detailed information on the big data analytics done from the following 5 real-world known brands that is assigned to your group. Discuss. Present by group. Submit written report after group presentation.",
+      "descriptionHtml": "\u003cdiv\u003eLookup online for detailed information on the big data analytics done from the following 5 real-world known brands that is assigned to your group. Discuss. Present by group. Submit written report after group presentation.\u003c/div\u003e",
+      "maxPoints": 100.0,
+      "gradeCategory": {
+        "name": "Class Activity"
+      },
+      "workType": "ASSIGNMENT",
+      "rubric": {
+        "criterion": [{
+          "title": "Peer Rating",
+          "description": "Each non-reporting group rates the presenting group.",
+          "rating": [{
+            "points": 30.0
+          }]
+        }, {
+          "title": "Group Written Report",
+          "description": "Details, depth, and clarity in putting forward the group’s insights.",
+          "rating": [{
+            "points": 30.0
+          }]
+        }, {
+          "title": "Group Presentation",
+          "description": "Mastery and Deportment-10, Presentation Slide-10, Q\u0026A-10",
+          "rating": [{
+            "points": 30.0
+          }]
+        }, {
+          "title": "Packaging Submission",
+          "description": "Shows creativity in organizing and presenting the printed document which contains the group’s responses.",
+          "rating": [{
+            "points": 10.0
+          }]
+        }]
+      },
+      "submissions": [{
+        "student": {
+          "profile": {
+            "name": {
+              "fullName": "REFINO KASHI KYLE ESTUDILLO"
+            },
+            "emailAddress": "rgestudillo@up.edu.ph"
+          }
+        },
+        "assignedGrade": 85.5,
+        "gradeCalculationOption": "GRADED",
+        "state": "RETURNED",
+        "assignmentSubmission": {
+          "attachments": [{
+            "driveFile": {
+              "id": "1HLxjWAbHZVuB_pP19Uz2b0SLlUh2lOLj",
+              "title": "Group-5-Activity2.pdf",
+              "alternateLink": "https://drive.google.com/file/d/1HLxjWAbHZVuB_pP19Uz2b0SLlUh2lOLj/view?usp\u003ddrive_web",
+              "thumbnailUrl": "https://lh3.googleusercontent.com/drive-storage/AJQWtBM0f_Gmie-IaW7bNpTsFvpUhH87h73yPswQEnhib_G5BZsauJoTT5m6cV5bMTVQVnSNjn2NdKvxCHTeaaE3UTFP40FN3i8AXV8eW_adXEtRyyI\u003ds200"
+            }
+          }]
+        }
+      }]
+    }
+  }, {
+    "creator": {
+      "name": {
+        "fullName": "Demelo Lao"
+      }
+    },
+    "creationTime": "2024-02-03T05:32:08.122Z",
+    "updateTime": "2024-04-12T03:21:19.271Z",
+    "publicationTime": "2024-02-03T05:35:26.264Z",
+    "state": "PUBLISHED",
+    "topics": [{
+      "name": "Week 10 (1-5 Apr 2024) - Term Examination"
+    }],
+    "materials": [{
+      "form": {
+        "formUrl": "https://docs.google.com/forms/d/e/1FAIpQLSfWP_ozvsagiB533OrIRSmreI4wvKFJTdz0lYyKH9jpUnCbZA/viewform?hr_submission\u003dChkIr_CQ77wLEhAI07WNnaATEgcI-7DczfoSEAE",
+        "title": "Mid-Term Examination",
+        "thumbnailUrl": "https://lh5.googleusercontent.com/YhWH5zU0CvcUsE8S2WqlYbv45slfqz2Id7xYDS6CFWv-8OggK50oYBuLiqcy3n4xDo6LVgOm99Q\u003dw90-h90-p"
+      }
+    }],
+    "courseWork": {
+      "title": "Mid-Term Examination-F2F (4 April 2024, Thursday@10:30AM-12N, Rm 306)",
+      "description": "To be taken during the lecture class schedule. Study coverage from \u0027Data Analytics Overview\u0027 (Week 2) to \u0027Descriptive Univariate Analysis\u0027 (Week 7).",
+      "descriptionHtml": "\u003cdiv\u003eTo be taken during the lecture class schedule. Study coverage from \u0026#39;Data Analytics Overview\u0026#39; (Week 2) to \u0026#39;Descriptive Univariate Analysis\u0026#39; (Week 7).\u003c/div\u003e",
+      "maxPoints": 50.0,
+      "gradeCategory": {
+        "name": "Term Examination"
+      },
+      "workType": "ASSIGNMENT",
+      "submissions": [{
+        "student": {
+          "profile": {
+            "name": {
+              "fullName": "REFINO KASHI KYLE ESTUDILLO"
+            },
+            "emailAddress": "rgestudillo@up.edu.ph"
+          }
+        },
+        "assignedGrade": 33.0,
+        "gradeCalculationOption": "GRADED",
+        "state": "RETURNED",
+        "assignmentSubmission": {
+        }
+      }]
+    }
+  }, {
+    "creator": {
+      "name": {
+        "fullName": "Demelo Lao"
+      }
+    },
+    "creationTime": "2024-02-03T05:26:27.436Z",
+    "updateTime": "2024-05-28T07:53:05.506Z",
+    "publicationTime": "2024-02-03T05:29:32.410Z",
+    "state": "PUBLISHED",
+    "topics": [{
+      "name": "Week 16 (13-17 May 2024) - Class Forum cum Course Synthesis"
+    }],
+    "materials": [{
+      "form": {
+        "formUrl": "https://docs.google.com/forms/d/e/1FAIpQLScoJDD7rUTWhW0dZv027Os5KbLeM8WNU4TFpRi3RkDVLGgGTg/viewform?hr_submission\u003dChkIr_CQ77wLEhAIzKWWnKATEgcI-7DczfoSEAE",
+        "title": "Final Examination",
+        "thumbnailUrl": "https://lh6.googleusercontent.com/Nw4vDFk2n0OmB7KNZ5hJwAd8MuOSDu3zwKmvKSdK_Kns-sPx_PUopSZgWo1Zixl0cul7o59YZTY\u003dw90-h90-p"
+      }
+    }],
+    "courseWork": {
+      "title": "Final Examination-F2F (16 May 2024, Thursday@10:30AM-12N, Rm 306)",
+      "description": "Still tentative.",
+      "descriptionHtml": "\u003cdiv\u003eStill tentative.\u003c/div\u003e",
+      "maxPoints": 50.0,
+      "gradeCategory": {
+        "name": "Term Examination"
+      },
+      "workType": "ASSIGNMENT",
+      "submissions": [{
+        "student": {
+          "profile": {
+            "name": {
+              "fullName": "REFINO KASHI KYLE ESTUDILLO"
+            },
+            "emailAddress": "rgestudillo@up.edu.ph"
+          }
+        },
+        "assignedGrade": 23.5,
+        "gradeCalculationOption": "GRADED",
+        "state": "RETURNED",
+        "assignmentSubmission": {
+        }
+      }]
+    }
+  }]
+}

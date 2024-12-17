@@ -1,0 +1,230 @@
+{
+  "version": 1,
+  "name": "STS - 1",
+  "section": "A",
+  "calendarUrl": "https://calendar.google.com/render?cid\u003dc_classroom21245b66@group.calendar.google.com",
+  "courseFolder": {
+    "id": "1qDSxjcvCSBhxHWkVbhz0xYTDkTkE4Fx8c6Qz87U10Gfzwyfpggt6j6x5Gbq6p0-DMg5pcGh7",
+    "name": "STS - 1 A",
+    "openUrl": "https://drive.google.com/drive/folders/1qDSxjcvCSBhxHWkVbhz0xYTDkTkE4Fx8c6Qz87U10Gfzwyfpggt6j6x5Gbq6p0-DMg5pcGh7"
+  },
+  "photoUrl": "https://gstatic.com/classroom/themes/img_reachout.jpg",
+  "subject": "Science, Technology, and Society",
+  "courseState": "ACTIVE",
+  "posts": [{
+    "creator": {
+      "name": {
+        "fullName": "John Jacques Sinapuelas"
+      }
+    },
+    "creationTime": "2023-10-02T07:06:29.955Z",
+    "updateTime": "2023-10-02T07:07:01.237Z",
+    "publicationTime": "2023-10-02T07:07:00.926Z",
+    "state": "PUBLISHED",
+    "topics": [{
+      "name": "Learning Outputs"
+    }],
+    "courseWork": {
+      "title": "MODULE 3",
+      "description": "1. Short Essay \u0026 Illustration\n\nCarbon Capture and Storage (CCS) is a developing technology that aims to reduce greenhouse gas emissions of fossil fuels. \n\na) Illustrate (hand-drawn or digitally-drawn) the process involved.\nb) Describe in general how this developing technology works. \nc) Give a specific example of carbon capture and storage technology. \nd) Is this technology more efficient than merely planting trees? Discuss your answer.\n\nReference: https://www.rff.org/publications/explainers/carbon-capture-and-storage-101/\n\nFORMAT\nMax 3 pages\nA4 size\nSingle spaced\nCalibri/Arial/Times new roman\nSize 12\n1 inch margin all sides\nPDF Format",
+      "descriptionHtml": "\u003cdiv\u003e\u003cb\u003e1. Short Essay \u0026amp; Illustration\u003c/b\u003e\u003cbr\u003e\u003cbr\u003e\u003cb\u003eCarbon Capture and Storage (CCS) \u003c/b\u003eis a developing technology that aims to reduce greenhouse gas emissions of fossil fuels. \u003cbr\u003e\u003cbr\u003ea) Illustrate (hand-drawn or digitally-drawn) the process involved.\u003cbr\u003eb) Describe in general how this developing technology works. \u003cbr\u003ec) Give a specific example of carbon capture and storage technology. \u003cbr\u003ed) Is this technology more efficient than merely planting trees? Discuss your answer.\u003cbr\u003e\u003cbr\u003eReference: https://www.rff.org/publications/explainers/carbon-capture-and-storage-101/\u003cbr\u003e\u003cbr\u003e\u003cb\u003eFORMAT\u003c/b\u003e\u003cbr\u003eMax 3 pages\u003cbr\u003eA4 size\u003cbr\u003eSingle spaced\u003cbr\u003eCalibri/Arial/Times new roman\u003cbr\u003eSize 12\u003cbr\u003e1 inch margin all sides\u003cbr\u003ePDF Format\u003c/div\u003e",
+      "dueTime": "2023-10-16T15:59:00Z",
+      "maxPoints": 100.0,
+      "workType": "ASSIGNMENT",
+      "submissions": [{
+        "student": {
+          "profile": {
+            "name": {
+              "fullName": "REFINO KASHI KYLE ESTUDILLO"
+            },
+            "emailAddress": "rgestudillo@up.edu.ph"
+          }
+        },
+        "gradeCalculationOption": "GRADED",
+        "state": "TURNED_IN",
+        "assignmentSubmission": {
+          "attachments": [{
+            "driveFile": {
+              "id": "1PrnLeGprP9O1TCzhi4wPrASp1OJKAPIe",
+              "title": "Estudillo-Module3.pdf",
+              "alternateLink": "https://drive.google.com/file/d/1PrnLeGprP9O1TCzhi4wPrASp1OJKAPIe/view?usp\u003ddrive_web",
+              "thumbnailUrl": "https://lh3.googleusercontent.com/drive-storage/AJQWtBOvDfs9vvlrEUCe5GGeQugQcvKM_Zclchh_2r7CO7U1jiW-4CWEOrUjn4tzTPoQKRdbP8jtTaRVBMHxwslICMSYmL5pl0zSmDqn1lsMkC2k_A\u003ds200"
+            }
+          }]
+        }
+      }]
+    }
+  }, {
+    "creator": {
+      "name": {
+        "fullName": "John Jacques Sinapuelas"
+      }
+    },
+    "creationTime": "2023-09-21T10:55:57.211Z",
+    "updateTime": "2023-09-21T10:56:14.832Z",
+    "publicationTime": "2023-09-21T10:56:14.568Z",
+    "state": "PUBLISHED",
+    "topics": [{
+      "name": "FINAL REQUIREMENT"
+    }],
+    "courseWork": {
+      "title": "Final Argumentative Paper",
+      "description": "Format\nMin. 10 pages\nA4 size\nDouble spaced\nArial/Calibri/Times New Roman\nSize 12\n1 inch margin \nPDF Format",
+      "descriptionHtml": "\u003cdiv\u003e\u003cb\u003eFormat\u003c/b\u003e\u003cbr\u003eMin. 10 pages\u003cbr\u003eA4 size\u003cbr\u003eDouble spaced\u003cbr\u003eArial/Calibri/Times New Roman\u003cbr\u003eSize 12\u003cbr\u003e1 inch margin \u003cbr\u003ePDF Format\u003c/div\u003e",
+      "dueTime": "2023-10-31T15:59:00Z",
+      "maxPoints": 100.0,
+      "workType": "ASSIGNMENT",
+      "submissions": [{
+        "student": {
+          "profile": {
+            "name": {
+              "fullName": "REFINO KASHI KYLE ESTUDILLO"
+            },
+            "emailAddress": "rgestudillo@up.edu.ph"
+          }
+        },
+        "gradeCalculationOption": "GRADED",
+        "state": "TURNED_IN",
+        "assignmentSubmission": {
+          "attachments": [{
+            "driveFile": {
+              "id": "1BLmltnEicMtI92xnYLKTPBt4eEL4PvON",
+              "title": "Final_Argumentative_Paper-AbrauEstudillo.pdf",
+              "alternateLink": "https://drive.google.com/file/d/1BLmltnEicMtI92xnYLKTPBt4eEL4PvON/view?usp\u003ddrive_web",
+              "thumbnailUrl": "https://lh3.googleusercontent.com/drive-storage/AJQWtBNdR7eJkLlLRx3g2fJYolbBr_-EsN1-pHvJ-MmrJH1fmwfR1bKaXEFzzuXOp-GusMhOuCppdCdNZJyzijYpbDFMixa14RkiECpr12wZGvPKfA\u003ds200"
+            }
+          }]
+        }
+      }]
+    }
+  }, {
+    "creator": {
+      "name": {
+        "fullName": "John Jacques Sinapuelas"
+      }
+    },
+    "creationTime": "2023-09-21T10:55:27.047Z",
+    "updateTime": "2023-09-21T10:55:42.568Z",
+    "publicationTime": "2023-09-21T10:55:42.248Z",
+    "state": "PUBLISHED",
+    "topics": [{
+      "name": "Learning Outputs"
+    }],
+    "courseWork": {
+      "title": "MODULE 2 ",
+      "description": "1. Video Feature\n\nIdentify a knowledge, skill, or resource that is handed down in your community and present it creatively in a video featuring is origins and importance. \nFORMAT\nMax 90 seconds\nCan be in the from of Vlog/Tiktok\n\n2. Short Essay\nWhat do you think is the most important technological innovation man has ever created or discovered? Why?\n\nFORMAT\nMax 2 pages\nA4 size\nSingle spaced\nCalibri/Arial/Times new roman\nSize 12\n1 inch margin all sides\nPDF Format",
+      "descriptionHtml": "\u003cdiv\u003e\u003cb\u003e1. Video Feature\u003c/b\u003e\u003cbr\u003e\u003cbr\u003eIdentify a knowledge, skill, or resource that is handed down in your community and present it creatively in a video featuring is origins and importance. \u003cbr\u003e\u003cb\u003eFORMAT\u003c/b\u003e\u003cbr\u003eMax 90 seconds\u003cbr\u003eCan be in the from of Vlog/Tiktok\u003cbr\u003e\u003cbr\u003e\u003cb\u003e2. Short Essay\u003c/b\u003e\u003cbr\u003eWhat do you think is the most important technological innovation man has ever created or discovered? Why?\u003cbr\u003e\u003cbr\u003e\u003cb\u003eFORMAT\u003c/b\u003e\u003cbr\u003eMax 2 pages\u003cbr\u003eA4 size\u003cbr\u003eSingle spaced\u003cbr\u003eCalibri/Arial/Times new roman\u003cbr\u003eSize 12\u003cbr\u003e1 inch margin all sides\u003cbr\u003ePDF Format\u003c/div\u003e",
+      "dueTime": "2023-09-29T15:59:00Z",
+      "maxPoints": 100.0,
+      "workType": "ASSIGNMENT",
+      "submissions": [{
+        "student": {
+          "profile": {
+            "name": {
+              "fullName": "REFINO KASHI KYLE ESTUDILLO"
+            },
+            "emailAddress": "rgestudillo@up.edu.ph"
+          }
+        },
+        "gradeCalculationOption": "GRADED",
+        "state": "TURNED_IN",
+        "assignmentSubmission": {
+          "attachments": [{
+            "driveFile": {
+              "id": "1bPADDPjOwrVZP2PzzVd3vRrpGjrihF0s",
+              "title": "Estudillo-Module2.pdf",
+              "alternateLink": "https://drive.google.com/file/d/1bPADDPjOwrVZP2PzzVd3vRrpGjrihF0s/view?usp\u003ddrive_web",
+              "thumbnailUrl": "https://lh3.googleusercontent.com/drive-storage/AJQWtBNteYfAIzol9-YnlJdAWxeZTAzOY5UgoxM5NtOokkKfFxiMJcdMENGMrTzmNpd9O2eTNTjR9FMvV9yrvHjd5t9VCDLjOB9aqhvyL0rAUf16TQ\u003ds200"
+            }
+          }, {
+            "driveFile": {
+              "id": "1RuZh5taVwz5k098GYbrSj4zNesNRhyjz",
+              "title": "Estudillo-MODULE_2.mp4",
+              "alternateLink": "https://drive.google.com/file/d/1RuZh5taVwz5k098GYbrSj4zNesNRhyjz/view?usp\u003ddrive_web",
+              "thumbnailUrl": "https://lh3.googleusercontent.com/drive-storage/AJQWtBO-FonFi-IkENmN-e_bmK_SZa-LB7W8tbdFAR47jni4XB_cDjW8cW4qRX2NnmSHCkqP41glW34xAJy4j8_Xo1MJLDBx3q7z6zIeEkcXPSlwJw\u003ds200"
+            }
+          }]
+        }
+      }]
+    }
+  }, {
+    "creator": {
+      "name": {
+        "fullName": "John Jacques Sinapuelas"
+      }
+    },
+    "creationTime": "2023-09-12T13:38:59.534Z",
+    "updateTime": "2023-09-15T06:01:51.855Z",
+    "publicationTime": "2023-09-12T13:39:23.618Z",
+    "state": "PUBLISHED",
+    "topics": [{
+      "name": "Learning Outputs"
+    }],
+    "courseWork": {
+      "title": "MODULE 1 - TOPIC 1 \u0026 2 ",
+      "description": "1. Short Essay\nMan has been around for an estimated 200 000 years. However, MAN, who cultivates his own food and who has some form of organized community life, has been on earth for only less than 10,000 years. What do you think were the reasons for the slow development of man? How has development in terms of new science and technologies have affected society?\n\nFORMAT\nMax 2 pages\nA4 size\nSingle spaced\nCalibri/Arial/Times new roman\nSize 12\n1 inch margin all sides\nPDF Format",
+      "descriptionHtml": "\u003cdiv\u003e\u003cb\u003e1. Short Essay\u003c/b\u003e\u003cbr\u003eMan has been around for an estimated 200 000 years. However, MAN, who cultivates his own food and who has some form of organized community life, has been on earth for only less than 10,000 years. What do you think were the reasons for the slow development of man? How has development in terms of new science and technologies have affected society?\u003cbr\u003e\u003cbr\u003e\u003cb\u003eFORMAT\u003c/b\u003e\u003cbr\u003eMax 2 pages\u003cbr\u003eA4 size\u003cbr\u003eSingle spaced\u003cbr\u003eCalibri/Arial/Times new roman\u003cbr\u003eSize 12\u003cbr\u003e1 inch margin all sides\u003cbr\u003ePDF Format\u003c/div\u003e",
+      "dueTime": "2023-09-18T15:59:00Z",
+      "maxPoints": 100.0,
+      "workType": "ASSIGNMENT",
+      "submissions": [{
+        "student": {
+          "profile": {
+            "name": {
+              "fullName": "REFINO KASHI KYLE ESTUDILLO"
+            },
+            "emailAddress": "rgestudillo@up.edu.ph"
+          }
+        },
+        "gradeCalculationOption": "GRADED",
+        "state": "TURNED_IN",
+        "assignmentSubmission": {
+          "attachments": [{
+            "driveFile": {
+              "id": "10Y2C7-8k1Tob1Lur02Vn_ShD46v9aoyg",
+              "title": "Estudillo-Module1.pdf",
+              "alternateLink": "https://drive.google.com/file/d/10Y2C7-8k1Tob1Lur02Vn_ShD46v9aoyg/view?usp\u003ddrive_web",
+              "thumbnailUrl": "https://lh3.googleusercontent.com/drive-storage/AJQWtBOw9g0QX0a7LropuyuGaO5RjK09U901hbxpYYd06FU_POhE7K4GIzBXSr7PjrJRoyKt0aAoTGTS1YQulkWnt9GOtJxfICFTRDXArGmmxGKs8w\u003ds200"
+            }
+          }]
+        }
+      }]
+    }
+  }, {
+    "creator": {
+      "name": {
+        "fullName": "John Jacques Sinapuelas"
+      }
+    },
+    "creationTime": "2023-09-03T04:45:42.297Z",
+    "updateTime": "2023-09-04T00:03:19.898Z",
+    "scheduledTime": "2023-09-04T00:00:00Z",
+    "publicationTime": "2023-09-04T00:03:19.852Z",
+    "state": "PUBLISHED",
+    "topics": [{
+      "name": "FINAL REQUIREMENT"
+    }],
+    "courseWork": {
+      "title": "Thesis Statement \u0026 Outline",
+      "description": "Thesis Statement \u0026 Outline\nA thesis statement contains a comprehensive summary of the main points or arguments of the entire argumentative paper. It usually consists of a single sentence that has the whole stand of the issue discussed. The thesis statement helps organize and develop the the whole argumentative paper, it guides the readers what the writer/s is/are trying to prove. \n\nFormat\n1-2 pages\nA4 size\nsingle spaced\nArial/Calibri/Times New Roman\nSize 12\n1 inch margin \nPDF Format",
+      "descriptionHtml": "\u003cdiv\u003e\u003cb\u003eThesis Statement \u0026amp; Outline\u003c/b\u003e\u003cbr\u003eA thesis statement contains a comprehensive summary of the main points or arguments of the entire argumentative paper. It usually consists of a single sentence that has the whole stand of the issue discussed. The thesis statement helps organize and develop the the whole argumentative paper, it guides the readers what the writer/s is/are trying to prove. \u003cbr\u003e\u003cbr\u003e\u003cb\u003eFormat\u003c/b\u003e\u003cbr\u003e1-2 pages\u003cbr\u003eA4 size\u003cbr\u003esingle spaced\u003cbr\u003eArial/Calibri/Times New Roman\u003cbr\u003eSize 12\u003cbr\u003e1 inch margin \u003cbr\u003ePDF Format\u003c/div\u003e",
+      "dueTime": "2023-09-07T05:30:00Z",
+      "maxPoints": 100.0,
+      "workType": "ASSIGNMENT",
+      "submissions": [{
+        "student": {
+          "profile": {
+            "name": {
+              "fullName": "REFINO KASHI KYLE ESTUDILLO"
+            },
+            "emailAddress": "rgestudillo@up.edu.ph"
+          }
+        },
+        "gradeCalculationOption": "GRADED",
+        "state": "TURNED_IN",
+        "assignmentSubmission": {
+        }
+      }]
+    }
+  }]
+}

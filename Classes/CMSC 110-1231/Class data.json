@@ -1,0 +1,562 @@
+{
+  "version": 1,
+  "name": "CMSC 110-1231",
+  "section": "Section A",
+  "description": "CMSC 110A-1231",
+  "room": "AS Rm 306",
+  "calendarUrl": "https://calendar.google.com/render?cid\u003dc_classroom725dfefd@group.calendar.google.com",
+  "courseFolder": {
+    "id": "1_UUK_j-iJRsWygYJsu_IqVP2RDQY8HFp4PlkP5xOQFBGknBkDEA-iW1ASccH4fuVlqguGNXf",
+    "name": "CMSC 110-1231 Section A",
+    "openUrl": "https://drive.google.com/drive/folders/1_UUK_j-iJRsWygYJsu_IqVP2RDQY8HFp4PlkP5xOQFBGknBkDEA-iW1ASccH4fuVlqguGNXf"
+  },
+  "photoUrl": "https://gstatic.com/classroom/themes/img_reachout.jpg",
+  "subject": "Technical Writing for Computer Science",
+  "courseState": "ARCHIVED",
+  "gradeCategories": [{
+    "name": "Class Activity"
+  }, {
+    "name": "Assignment"
+  }, {
+    "name": "Class Project"
+  }],
+  "posts": [{
+    "creator": {
+      "name": {
+        "fullName": "Demelo Lao"
+      }
+    },
+    "creationTime": "2023-11-20T08:15:20.768Z",
+    "updateTime": "2023-12-18T15:11:19.541Z",
+    "publicationTime": "2023-11-20T08:22:33.487Z",
+    "state": "PUBLISHED",
+    "topics": [{
+      "name": "Week 5 (20-24 Nov 2023) - Thesis/Special Problem Manuscript"
+    }],
+    "materials": [{
+      "driveFile": {
+        "driveFile": {
+          "id": "1CCxqf9ys78XZzt3v-Kv0v9TtdS_qmTZd",
+          "title": "CMSC110_ActivityGuide-Week5.pdf",
+          "alternateLink": "https://drive.google.com/file/d/1CCxqf9ys78XZzt3v-Kv0v9TtdS_qmTZd/view?usp\u003ddrive_web",
+          "thumbnailUrl": "https://lh3.googleusercontent.com/drive-storage/AJQWtBMw9o_G-6yF1AiQrF-MKOpUD3rT7BRhIZkCZ0aUtEJ0BpfdIlHsIRXEVNRRbKUCxGrWQ_8DwdzmBqd0DCdBoxiPAgfoayIr9HG_InyyTTNCVIQ\u003ds200"
+        },
+        "shareMode": "VIEW"
+      }
+    }],
+    "courseWork": {
+      "title": "Class Project - Write a Special Problem (SP) Proposal",
+      "description": "Accomplish this class requirement individually.",
+      "descriptionHtml": "\u003cdiv\u003eAccomplish this class requirement individually.\u003c/div\u003e",
+      "dueTime": "2023-12-20T16:59:00Z",
+      "maxPoints": 100.0,
+      "gradeCategory": {
+        "name": "Class Project"
+      },
+      "workType": "ASSIGNMENT",
+      "rubric": {
+        "criterion": [{
+          "title": "Completeness",
+          "description": "All relevant or required sections in the class activity have been provided responses.",
+          "rating": [{
+            "points": 20.0
+          }]
+        }, {
+          "title": "Content Informational Accuracy",
+          "description": "Appropriateness of the responses corresponding to the required sections or “accurateness” of the responses.",
+          "rating": [{
+            "points": 50.0
+          }]
+        }, {
+          "title": "Organization, Writing Style and Grammar",
+          "description": "In chronological order for citations, clear, coherence, concise, and grammatically correct as well as conforming to the writing style of a scientific paper.",
+          "rating": [{
+            "points": 20.0
+          }]
+        }, {
+          "title": "Submission Overall Packaging",
+          "description": "Technical appearance of the document which contains the responses.",
+          "rating": [{
+            "points": 10.0
+          }]
+        }]
+      },
+      "submissions": [{
+        "student": {
+          "profile": {
+            "name": {
+              "fullName": "REFINO KASHI KYLE ESTUDILLO"
+            },
+            "emailAddress": "rgestudillo@up.edu.ph"
+          }
+        },
+        "assignedGrade": 84.0,
+        "gradeCalculationOption": "GRADED",
+        "state": "RETURNED",
+        "assignmentSubmission": {
+          "attachments": [{
+            "driveFile": {
+              "id": "1BEL4EKsKyNGuyWhSxOZVGYlcnaAgqVrO",
+              "title": "ClassProject-Estudillo_Kashi.pdf",
+              "alternateLink": "https://drive.google.com/file/d/1BEL4EKsKyNGuyWhSxOZVGYlcnaAgqVrO/view?usp\u003ddrive_web",
+              "thumbnailUrl": "https://lh3.googleusercontent.com/drive-storage/AJQWtBNISObFAwgcnlCBFXeU-QlPGC2QdPqDUpKXJcqRWrtCqhECHa6Rf1YtGWftZF4mEBTDIdZqdaqxdoYdZTXH4wbR-DtQdZfyMSyNklZRB-xrr78\u003ds200"
+            }
+          }]
+        },
+        "assignedRubricScore": {
+          "criterionScore": [{
+            "criterion": "Completeness",
+            "points": 20.0
+          }, {
+            "criterion": "Content Informational Accuracy",
+            "points": 40.0
+          }, {
+            "criterion": "Submission Overall Packaging",
+            "points": 9.0
+          }, {
+            "criterion": "Organization, Writing Style and Grammar",
+            "points": 15.0
+          }]
+        }
+      }]
+    }
+  }, {
+    "creator": {
+      "name": {
+        "fullName": "Demelo Lao"
+      }
+    },
+    "creationTime": "2023-11-14T09:12:58.376Z",
+    "updateTime": "2023-11-15T01:18:27.305Z",
+    "publicationTime": "2023-11-14T09:17:23.499Z",
+    "state": "PUBLISHED",
+    "topics": [{
+      "name": "Week 4 (13-17 Nov 2023) - Conference Proceedings and Poster Paper"
+    }],
+    "materials": [{
+      "driveFile": {
+        "driveFile": {
+          "id": "14y3nNecCD7Sqv0Y5Irx__y2za3jOr9aK",
+          "title": "CMSC110_ActivityGuide-Week4.pdf",
+          "alternateLink": "https://drive.google.com/file/d/14y3nNecCD7Sqv0Y5Irx__y2za3jOr9aK/view?usp\u003ddrive_web",
+          "thumbnailUrl": "https://lh3.googleusercontent.com/drive-storage/AJQWtBOtR_pITfcuBDT50XVp4BdGFEk6P9DpRllYSAfoUDtwYF8O12QOt-KzwKzB0CHmEAhGggl7XSjS9jTLufMuYB6-Lmbt3GERhLa4V1NArgwjKMo\u003ds200"
+        },
+        "shareMode": "VIEW"
+      }
+    }],
+    "courseWork": {
+      "title": "Class Activity 3 - Search the Internet for a Sample Research Poster Presentation",
+      "description": "Choose a partner among your classmates since this activity is to be accomplished in pairs to promote collaboration and interaction.",
+      "descriptionHtml": "\u003cdiv\u003eChoose a partner among your classmates since this activity is to be accomplished in pairs to promote collaboration and interaction.\u003c/div\u003e",
+      "dueTime": "2023-11-24T16:59:00Z",
+      "maxPoints": 100.0,
+      "gradeCategory": {
+        "name": "Class Activity"
+      },
+      "workType": "ASSIGNMENT",
+      "rubric": {
+        "criterion": [{
+          "title": "Completeness",
+          "description": "All relevant or required items in the class activity have been provided responses",
+          "rating": [{
+            "points": 5.0
+          }]
+        }, {
+          "title": "Content Informational Accuracy",
+          "description": "Appropriateness of the responses corresponding to the required items or \"accurateness\" of the responses",
+          "rating": [{
+            "points": 70.0
+          }]
+        }, {
+          "title": "Organization and Grammar",
+          "description": "In chronological order, clear, coherence, concise, and grammatically correct",
+          "rating": [{
+            "points": 15.0
+          }]
+        }, {
+          "title": "Submission Overall Packaging",
+          "description": "Shows creativity in organizing and presenting the document which contains the responses",
+          "rating": [{
+            "points": 10.0
+          }]
+        }]
+      },
+      "submissions": [{
+        "student": {
+          "profile": {
+            "name": {
+              "fullName": "REFINO KASHI KYLE ESTUDILLO"
+            },
+            "emailAddress": "rgestudillo@up.edu.ph"
+          }
+        },
+        "assignedGrade": 97.0,
+        "gradeCalculationOption": "GRADED",
+        "state": "RETURNED",
+        "assignmentSubmission": {
+          "attachments": [{
+            "driveFile": {
+              "id": "1lO6b0Xmf1GBnu92qHigLQdRiN2fB9iFp",
+              "title": "Class-Activity-3-Abrau_Estudillo-1.pdf",
+              "alternateLink": "https://drive.google.com/file/d/1lO6b0Xmf1GBnu92qHigLQdRiN2fB9iFp/view?usp\u003ddrive_web",
+              "thumbnailUrl": "https://lh3.googleusercontent.com/drive-storage/AJQWtBPtTVvtqK78YoTrcjYyqlAiTwoD9Hl1_JPyI2JWmyoiOhOuA4KWUH3DZlOag5uDIG6VAz2PnVlc2bwA-B4U8fgzrFXRcSiICC-vh1uLtTtZ5-M\u003ds200"
+            }
+          }]
+        },
+        "assignedRubricScore": {
+          "criterionScore": [{
+            "criterion": "Completeness",
+            "points": 3.0
+          }, {
+            "criterion": "Content Informational Accuracy",
+            "points": 70.0
+          }, {
+            "criterion": "Organization and Grammar",
+            "points": 15.0
+          }, {
+            "criterion": "Submission Overall Packaging",
+            "points": 9.0
+          }]
+        }
+      }]
+    }
+  }, {
+    "creator": {
+      "name": {
+        "fullName": "Demelo Lao"
+      }
+    },
+    "creationTime": "2023-11-04T08:40:58.886Z",
+    "updateTime": "2023-11-13T08:41:46.395Z",
+    "scheduledTime": "2023-11-06T02:00:00Z",
+    "publicationTime": "2023-11-06T02:02:38.639Z",
+    "state": "PUBLISHED",
+    "topics": [{
+      "name": "Week 3 (6-10 Nov 2023) - Academic Journal Paper"
+    }],
+    "materials": [{
+      "driveFile": {
+        "driveFile": {
+          "id": "1D_vSDD9Rm8aCkQMJ-MmqsPR39wEcWLEm",
+          "title": "CMSC110_AssignmentGuide-1.pdf",
+          "alternateLink": "https://drive.google.com/file/d/1D_vSDD9Rm8aCkQMJ-MmqsPR39wEcWLEm/view?usp\u003ddrive_web",
+          "thumbnailUrl": "https://lh3.googleusercontent.com/drive-storage/AJQWtBO1WDmQ0JG9_11eTKIDgEcqzwFuK69kdPTmDeylkEc1JmnHwLvSiYFbvx1TMp93PqkESArzH2vJnbIDNplp4ttYtvBAJBJdwNQenJMm7xXcg4Y\u003ds200"
+        },
+        "shareMode": "VIEW"
+      }
+    }, {
+      "driveFile": {
+        "driveFile": {
+          "id": "1PZQHjBq1a50p1uOCj_uLg_YEgV1KQKKG",
+          "title": "Crime risk prediction incorporating geographical spatiotemporal dependency into machine learning models.pdf",
+          "alternateLink": "https://drive.google.com/file/d/1PZQHjBq1a50p1uOCj_uLg_YEgV1KQKKG/view?usp\u003ddrive_web",
+          "thumbnailUrl": "https://lh3.googleusercontent.com/drive-storage/AJQWtBMFmayDCaYJ2p1AkR_GZ4hntmas2mM5PhcUehCEba-CKG-Mk0NrMtpGy1Nt3q7D4OnsJEECslihYzhHm5-spom2Y-iXxb0vBl8grQWXVNCWKME\u003ds200"
+        },
+        "shareMode": "VIEW"
+      }
+    }, {
+      "driveFile": {
+        "driveFile": {
+          "id": "1TM69rcfoYOirXVc8FF08NgBzxPQNgGnX",
+          "title": "CUAP-ASoftwarePackageForTheCodonUsagePatternAnalysis.pdf",
+          "alternateLink": "https://drive.google.com/file/d/1TM69rcfoYOirXVc8FF08NgBzxPQNgGnX/view?usp\u003ddrive_web",
+          "thumbnailUrl": "https://lh3.googleusercontent.com/drive-storage/AJQWtBOoeRJCS7jhNKA5nOtELpUGdomMmW1HckC2Sd4Ajy7HHMdWkM8VhQQyp6_dnIoMc7_uT8PHODQcfLHJy_WhzhnYjEAM87YQnsKbd9by5n8vXIU\u003ds200"
+        },
+        "shareMode": "VIEW"
+      }
+    }, {
+      "driveFile": {
+        "driveFile": {
+          "id": "1o8Z_lOx3dXR-BL4tP2kBZ_UzAnR4EIeK",
+          "title": "SystematicReviewOnPrivacyCategorization.pdf",
+          "alternateLink": "https://drive.google.com/file/d/1o8Z_lOx3dXR-BL4tP2kBZ_UzAnR4EIeK/view?usp\u003ddrive_web",
+          "thumbnailUrl": "https://lh3.googleusercontent.com/drive-storage/AJQWtBOBioClvgsRGHVU_fwecvMtrzZeFv7DpUtxDyecJpBlE1qQPj8mvUpoJ1dHQdjH7XNIONZEA0GxiV6gZ11kMEFUL3E5O0NBsQgbNpB2zEpI6g8\u003ds200"
+        },
+        "shareMode": "VIEW"
+      }
+    }],
+    "courseWork": {
+      "title": "Assignment 1 - Compare and Characterize Various Kinds of Published Research Papers",
+      "description": "Pick the same partner as in the previous class activity.",
+      "descriptionHtml": "\u003cdiv\u003ePick the same partner as in the previous class activity.\u003c/div\u003e",
+      "dueTime": "2023-11-17T16:59:00Z",
+      "maxPoints": 100.0,
+      "gradeCategory": {
+        "name": "Assignment"
+      },
+      "workType": "ASSIGNMENT",
+      "rubric": {
+        "criterion": [{
+          "title": "Completeness",
+          "description": "All relevant or required items in the class activity have been provided responses",
+          "rating": [{
+            "points": 5.0
+          }]
+        }, {
+          "title": "Content Informational Accuracy",
+          "description": "Appropriateness of the responses corresponding to the required items or \"accurateness\" of the responses",
+          "rating": [{
+            "points": 70.0
+          }]
+        }, {
+          "title": "Organization and Grammar",
+          "description": "In chronological order, clear, coherence, concise, and grammatically correct",
+          "rating": [{
+            "points": 15.0
+          }]
+        }, {
+          "title": "Submission Overall Packaging",
+          "description": "Shows creativity in organizing and presenting the document which contains the responses",
+          "rating": [{
+            "points": 10.0
+          }]
+        }]
+      },
+      "submissions": [{
+        "student": {
+          "profile": {
+            "name": {
+              "fullName": "REFINO KASHI KYLE ESTUDILLO"
+            },
+            "emailAddress": "rgestudillo@up.edu.ph"
+          }
+        },
+        "assignedGrade": 90.0,
+        "gradeCalculationOption": "GRADED",
+        "state": "RETURNED",
+        "assignmentSubmission": {
+          "attachments": [{
+            "driveFile": {
+              "id": "1GuVTTT6JOBreAMwqh4iNO0_xLH0yHKhR",
+              "title": "Assignment-1-Abrau_Estudillo.pdf",
+              "alternateLink": "https://drive.google.com/file/d/1GuVTTT6JOBreAMwqh4iNO0_xLH0yHKhR/view?usp\u003ddrive_web",
+              "thumbnailUrl": "https://lh3.googleusercontent.com/drive-storage/AJQWtBMIujzp4ZxTvXL6O-HdFnuLwnsFY2yrNXCF7oFUpLyzU4Xo3Ycy_FCD8EEVCbG8Yp0NmSyR7WEPoSvSVCr-nQJOtTcmvn1prQ88OYR2oXFc2gs\u003ds200"
+            }
+          }]
+        },
+        "assignedRubricScore": {
+          "criterionScore": [{
+            "criterion": "Completeness",
+            "points": 5.0
+          }, {
+            "criterion": "Content Informational Accuracy",
+            "points": 60.0
+          }, {
+            "criterion": "Organization and Grammar",
+            "points": 15.0
+          }, {
+            "criterion": "Submission Overall Packaging",
+            "points": 10.0
+          }]
+        }
+      }]
+    }
+  }, {
+    "creator": {
+      "name": {
+        "fullName": "Demelo Lao"
+      }
+    },
+    "creationTime": "2023-11-04T17:48:29.921Z",
+    "updateTime": "2023-11-04T18:23:35.242Z",
+    "publicationTime": "2023-11-04T17:52:30.095Z",
+    "state": "PUBLISHED",
+    "topics": [{
+      "name": "Week 6 (27 Nov-1 Dec 2023) F2F Forum cum Synthesis"
+    }],
+    "materials": [{
+      "driveFile": {
+        "driveFile": {
+          "id": "1Rj_bzuPG6mk5bM2Dv7TtXGsUfVQMPrKw",
+          "title": "CMSC110_AssignmentGuide-2.pdf",
+          "alternateLink": "https://drive.google.com/file/d/1Rj_bzuPG6mk5bM2Dv7TtXGsUfVQMPrKw/view?usp\u003ddrive_web",
+          "thumbnailUrl": "https://lh3.googleusercontent.com/drive-storage/AJQWtBNHFbMqh8Jbiyh1xTdPNqPjSSZTvkd2ptCJ6QHXANfidSP4Wkb72pCZpZmblLP_TLRkjOYbi2UBBZ3N5-AxBh2Sxg_4qX-f9DYrsUl8osU2qQc\u003ds200"
+        },
+        "shareMode": "VIEW"
+      }
+    }],
+    "courseWork": {
+      "title": "Assignment 2 - Learning Portfolio",
+      "description": "Create a learning portfolio for attending the 2nd-half of the CMSC 110  course. Accomplish this requirement individually.",
+      "descriptionHtml": "\u003cdiv\u003eCreate a learning portfolio for attending the 2nd-half of the CMSC 110  course. Accomplish this requirement individually.\u003c/div\u003e",
+      "dueTime": "2023-12-11T16:59:00Z",
+      "maxPoints": 100.0,
+      "gradeCategory": {
+        "name": "Assignment"
+      },
+      "workType": "ASSIGNMENT",
+      "submissions": [{
+        "student": {
+          "profile": {
+            "name": {
+              "fullName": "REFINO KASHI KYLE ESTUDILLO"
+            },
+            "emailAddress": "rgestudillo@up.edu.ph"
+          }
+        },
+        "assignedGrade": 100.0,
+        "gradeCalculationOption": "GRADED",
+        "state": "RETURNED",
+        "assignmentSubmission": {
+          "attachments": [{
+            "driveFile": {
+              "id": "1SbqYCdEJCY6ZMtyL-ZT5nsV0uAMQYz7_",
+              "title": "Assignment2‐Estudillo.pdf",
+              "alternateLink": "https://drive.google.com/file/d/1SbqYCdEJCY6ZMtyL-ZT5nsV0uAMQYz7_/view?usp\u003ddrive_web",
+              "thumbnailUrl": "https://lh3.googleusercontent.com/drive-storage/AJQWtBOnjJ3YihrGogpuwtB-uu84gTwiHVHzMO61VsURR77ryPoEyhIaCE8_nmMHVySKocDaa5p2HDKvx1JvowwRZrDg2zOjyNM_QxdO7I_kGjkBhII\u003ds200"
+            }
+          }]
+        }
+      }]
+    }
+  }, {
+    "creator": {
+      "name": {
+        "fullName": "Demelo Lao"
+      }
+    },
+    "creationTime": "2023-11-02T10:24:44.657Z",
+    "updateTime": "2023-11-02T17:28:32.465Z",
+    "publicationTime": "2023-11-02T10:34:38.933Z",
+    "state": "PUBLISHED",
+    "topics": [{
+      "name": "Week 2 (30 Oct-3 Nov 2023) - Types of Scientific Papers"
+    }],
+    "materials": [{
+      "driveFile": {
+        "driveFile": {
+          "id": "1KokMAwWOFfzoLbYFtl5p8QxYPOxXUXNV",
+          "title": "CMSC110_ActivityGuide-Week2.pdf",
+          "alternateLink": "https://drive.google.com/file/d/1KokMAwWOFfzoLbYFtl5p8QxYPOxXUXNV/view?usp\u003ddrive_web",
+          "thumbnailUrl": "https://lh3.googleusercontent.com/drive-storage/AJQWtBOMsJ7QyyXJS31gHATzhxztRpIdbG7RWhMI8LNcaTgdfrdivtKPB1uEcp-RaPAJaKz7bU9v07ZyOeewyD7jdd7NvYfv-8rSDt5hVVnyXnSceDM\u003ds200"
+        },
+        "shareMode": "VIEW"
+      }
+    }, {
+      "driveFile": {
+        "driveFile": {
+          "id": "1pD8oo9ZSxOIef5txkQ4KGbvEacXf8WKn",
+          "title": "SystematicReviewOnPrivacyCategorization.pdf",
+          "alternateLink": "https://drive.google.com/file/d/1pD8oo9ZSxOIef5txkQ4KGbvEacXf8WKn/view?usp\u003ddrive_web",
+          "thumbnailUrl": "https://lh3.googleusercontent.com/drive-storage/AJQWtBO1dfH20wG8GYeE6dU2V4NSyj4046hvLRdQOX1xHtUyG30GdPNKFkcl2orW92NmRy-v2qLRPsSBr7m3pcThK2kld6oUmmTl3GHssL7_d9-HaAo\u003ds200"
+        },
+        "shareMode": "VIEW"
+      }
+    }],
+    "courseWork": {
+      "title": "Class Activity 2 - Examining a Sample of a Type of a Scientific Paper",
+      "description": "Choose a partner among your classmates since this activity is to be accomplished in pairs to promote collaboration and interaction.",
+      "descriptionHtml": "\u003cdiv\u003eChoose a partner among your classmates since this activity is to be accomplished in pairs to promote collaboration and interaction.\u003c/div\u003e",
+      "dueTime": "2023-11-10T16:59:00Z",
+      "maxPoints": 100.0,
+      "gradeCategory": {
+        "name": "Class Activity"
+      },
+      "workType": "ASSIGNMENT",
+      "rubric": {
+        "criterion": [{
+          "title": "Completeness",
+          "description": "All relevant or required items in the class activity have been provided responses",
+          "rating": [{
+            "points": 5.0
+          }]
+        }, {
+          "title": "Content Informational Accuracy",
+          "description": "Appropriateness of the responses corresponding to the required items or \"accurateness\" of the responses",
+          "rating": [{
+            "points": 70.0
+          }]
+        }, {
+          "title": "Organization and Grammar",
+          "description": "In chronological order, clear, coherence, concise, and grammatically correct",
+          "rating": [{
+            "points": 15.0
+          }]
+        }, {
+          "title": "Submission Overall Packaging",
+          "description": "Shows creativity in organizing and presenting the document which contains the responses",
+          "rating": [{
+            "points": 10.0
+          }]
+        }]
+      },
+      "submissions": [{
+        "student": {
+          "profile": {
+            "name": {
+              "fullName": "REFINO KASHI KYLE ESTUDILLO"
+            },
+            "emailAddress": "rgestudillo@up.edu.ph"
+          }
+        },
+        "assignedGrade": 78.0,
+        "gradeCalculationOption": "GRADED",
+        "state": "RETURNED",
+        "assignmentSubmission": {
+          "attachments": [{
+            "driveFile": {
+              "id": "1fNIsrD9X004ZbKhmZcPTmQWpt7HTc0_N",
+              "title": "Class-Activity-2-Abrau_Estudillo.pdf",
+              "alternateLink": "https://drive.google.com/file/d/1fNIsrD9X004ZbKhmZcPTmQWpt7HTc0_N/view?usp\u003ddrive_web",
+              "thumbnailUrl": "https://lh3.googleusercontent.com/drive-storage/AJQWtBNv1bQKhAwELy-6EQiJqXrKWOWln0fkw-owH9SO3izTE4JdKcdtcP4gZ6ab0AfqO1RwppaF5pX3Gt17T25CKSkRwR6jL1qMvs4t_eMDi7pJSXs\u003ds200"
+            }
+          }]
+        },
+        "assignedRubricScore": {
+          "criterionScore": [{
+            "criterion": "Completeness",
+            "points": 3.0
+          }, {
+            "criterion": "Content Informational Accuracy",
+            "points": 50.0
+          }, {
+            "criterion": "Organization and Grammar",
+            "points": 15.0
+          }, {
+            "criterion": "Submission Overall Packaging",
+            "points": 10.0
+          }]
+        }
+      }]
+    }
+  }, {
+    "creator": {
+      "name": {
+        "fullName": "Demelo Lao"
+      }
+    },
+    "creationTime": "2023-10-28T16:54:41.542Z",
+    "updateTime": "2023-10-28T16:56:01.219Z",
+    "publicationTime": "2023-10-28T16:56:00.979Z",
+    "state": "PUBLISHED",
+    "topics": [{
+      "name": "Week 1 (23-27 Oct 2023) - Welcome-The CCAD Connection"
+    }],
+    "courseWork": {
+      "title": "How do you incorporate the learning takeaways on written communication (5Cs), principles of effective technical writing, and ethics in technical writing when preparing for a technical document and/or scientific paper?",
+      "description": "Group discussion",
+      "descriptionHtml": "\u003cdiv\u003eGroup discussion\u003c/div\u003e",
+      "dueTime": "2023-10-26T16:59:00Z",
+      "maxPoints": 100.0,
+      "gradeCategory": {
+        "name": "Class Activity"
+      },
+      "workType": "SHORT_ANSWER_QUESTION",
+      "submissions": [{
+        "student": {
+          "profile": {
+            "name": {
+              "fullName": "REFINO KASHI KYLE ESTUDILLO"
+            },
+            "emailAddress": "rgestudillo@up.edu.ph"
+          }
+        },
+        "assignedGrade": 95.0,
+        "gradeCalculationOption": "GRADED",
+        "state": "RETURNED",
+        "shortAnswerSubmission": {
+        }
+      }]
+    }
+  }]
+}

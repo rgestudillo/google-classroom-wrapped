@@ -1,0 +1,219 @@
+{
+  "version": 1,
+  "name": "Walking - Section AE",
+  "section": "Monday (4:30-6:30 PM)",
+  "calendarUrl": "https://calendar.google.com/render?cid\u003dc_classroom483938c0@group.calendar.google.com",
+  "courseFolder": {
+    "id": "1zeHUf6XAUBO4RSdru6Q0o5dgYu9PxKlLk2El33dvW2hXM32rFV3G2cITJNA-b6mYIQNFMbCn",
+    "name": "Walking - Section AE Monday (4:30-6:30 PM)",
+    "openUrl": "https://drive.google.com/drive/folders/1zeHUf6XAUBO4RSdru6Q0o5dgYu9PxKlLk2El33dvW2hXM32rFV3G2cITJNA-b6mYIQNFMbCn"
+  },
+  "courseState": "ACTIVE",
+  "posts": [{
+    "creator": {
+      "name": {
+        "fullName": "Genevieve Pantollano"
+      }
+    },
+    "creationTime": "2023-05-31T02:49:37.902Z",
+    "updateTime": "2023-05-31T02:49:37.399Z",
+    "publicationTime": "2023-05-31T02:49:37.254Z",
+    "state": "PUBLISHED",
+    "topics": [{
+      "name": "Final Output"
+    }],
+    "courseWork": {
+      "title": "Journal in Walking for Fitness",
+      "description": "Kindly submit your journal here. Thank you.",
+      "descriptionHtml": "\u003cdiv\u003eKindly submit your journal here. Thank you.\u003c/div\u003e",
+      "dueTime": "2023-06-07T15:59:44.948Z",
+      "maxPoints": 100.0,
+      "workType": "ASSIGNMENT",
+      "submissions": [{
+        "student": {
+          "profile": {
+            "name": {
+              "fullName": "REFINO KASHI KYLE ESTUDILLO"
+            },
+            "emailAddress": "rgestudillo@up.edu.ph"
+          }
+        },
+        "gradeCalculationOption": "GRADED",
+        "state": "TURNED_IN",
+        "assignmentSubmission": {
+          "attachments": [{
+            "driveFile": {
+              "id": "158fKKNrCa05LCg0hd3sVJGCCdTz2qs2Y",
+              "title": "Pink Cute Illustration Girl  Journal Cover.pdf",
+              "alternateLink": "https://drive.google.com/file/d/158fKKNrCa05LCg0hd3sVJGCCdTz2qs2Y/view?usp\u003ddrive_web",
+              "thumbnailUrl": "https://lh3.googleusercontent.com/drive-storage/AJQWtBPq09P0RK-natoLf_Bs69eekLldB92CZHD-io5asvUQe1hA8oRYyTNbXMZCyqH6lkZIjc5ebu5Rq6GOltl15M1iG74Yd5RDVuSsgr_RHjNcL7Y\u003ds200"
+            }
+          }]
+        }
+      }]
+    }
+  }, {
+    "creator": {
+      "name": {
+        "fullName": "Genevieve Pantollano"
+      }
+    },
+    "creationTime": "2023-03-06T03:04:17.029Z",
+    "updateTime": "2023-03-06T03:15:16.464Z",
+    "publicationTime": "2023-03-06T03:15:15.535Z",
+    "state": "PUBLISHED",
+    "topics": [{
+      "name": "Walking Levels"
+    }],
+    "materials": [{
+      "youtubeVideo": {
+        "id": "vUQXg5V7y2Q",
+        "title": "2 Mile Walk | At Home Workouts",
+        "alternateLink": "https://www.youtube.com/watch?v\u003dvUQXg5V7y2Q",
+        "thumbnailUrl": "https://i.ytimg.com/vi/vUQXg5V7y2Q/default.jpg"
+      }
+    }, {
+      "youtubeVideo": {
+        "id": "RImvimPo5u0",
+        "title": "25 MINUTE WORKOUT | POWER WALK |1.5 Miles \u003d 3150 STEPS |14 Minute Mile PACE  | Power Walking|  |AFT",
+        "alternateLink": "https://www.youtube.com/watch?v\u003dRImvimPo5u0",
+        "thumbnailUrl": "https://i.ytimg.com/vi/RImvimPo5u0/default.jpg"
+      }
+    }],
+    "courseWork": {
+      "title": "Level 1: 3.5 km",
+      "description": "Perform a 3.5 kilometers walk or equal to 3500 meters. Do it on your preferred time/ day WITHIN THIS WEEK ONLY for a maximum of 50 minutes. Record your data in the STRAVA app and keep your records for your journal. \n\nReminder: Your submission of the screenshot in the strava app to be part of your journal should contain the following:\nPost\nYour photos (3 pictures max)\nManual activity (Brief description and process of what you did; i.e warm -up, stretching, workout proper)\nStats: heart rate, distance, etc.\n\n\nYou may do the walking workout just at home by following the videos attached below.\n\nThank you.",
+      "descriptionHtml": "\u003cdiv\u003ePerform a 3.5 kilometers walk or equal to 3500 meters. Do it on your preferred time/ day \u003cb\u003eWITHIN THIS WEEK ONLY \u003c/b\u003efor a maximum of 50 minutes. Record your data in the STRAVA app and \u003cb\u003ekeep your records\u003c/b\u003e for your journal. \u003cbr\u003e\u003cbr\u003eReminder: Your submission of the screenshot in the strava app to be part of your journal should contain the following:\u003cbr\u003ePost\u003cbr\u003eYour photos (3 pictures max)\u003cbr\u003eManual activity (Brief description and process of what you did; i.e warm -up, stretching, workout proper)\u003cbr\u003eStats: heart rate, distance, etc.\u003cbr\u003e\u003cbr\u003e\u003cbr\u003eYou may do the walking workout just at home by following the videos attached below.\u003cbr\u003e\u003cbr\u003eThank you.\u003c/div\u003e",
+      "dueTime": "2023-03-12T15:59:00Z",
+      "workType": "ASSIGNMENT",
+      "submissions": [{
+        "student": {
+          "profile": {
+            "name": {
+              "fullName": "REFINO KASHI KYLE ESTUDILLO"
+            },
+            "emailAddress": "rgestudillo@up.edu.ph"
+          }
+        },
+        "gradeCalculationOption": "GRADED",
+        "state": "TURNED_IN",
+        "assignmentSubmission": {
+        }
+      }]
+    }
+  }, {
+    "creator": {
+      "name": {
+        "fullName": "Genevieve Pantollano"
+      }
+    },
+    "creationTime": "2023-02-14T06:01:24.737Z",
+    "updateTime": "2023-02-16T01:26:12.624Z",
+    "publicationTime": "2023-02-16T01:26:11.651Z",
+    "state": "PUBLISHED",
+    "topics": [{
+      "name": "Preliminaries"
+    }],
+    "materials": [{
+      "driveFile": {
+        "driveFile": {
+          "id": "1aWrCDsUdoatvnZ8tPD5KOGtM8iFBCmKRE_87uBnEYtM",
+          "title": "[Template] Pre-test Summary",
+          "alternateLink": "https://docs.google.com/document/d/1uHbCIOZuZWVW0Ep3y3XqMKVU2rAtPZHSVinqQYuWpnU/edit?usp\u003ddrive_web",
+          "thumbnailUrl": "https://lh3.google.com/drive-storage/AJQWtBNu1_7FmeGqizt1f0xlhMqxwAEf51oKSXwqJyHyEgTCvrWoZ6AyrtBEpFiMVFSJ8G0qtLmXb68eJZekSVGcfcvTfSYy0nri5xnJc6URIjEioe9Lyaoo1WS5E96zC33r7gyUzOs\u003ds200"
+        },
+        "shareMode": "STUDENT_COPY"
+      }
+    }],
+    "courseWork": {
+      "title": "PRE-TEST Summary",
+      "maxPoints": 50.0,
+      "workType": "ASSIGNMENT",
+      "submissions": [{
+        "student": {
+          "profile": {
+            "name": {
+              "fullName": "REFINO KASHI KYLE ESTUDILLO"
+            },
+            "emailAddress": "rgestudillo@up.edu.ph"
+          }
+        },
+        "gradeCalculationOption": "GRADED",
+        "state": "TURNED_IN",
+        "assignmentSubmission": {
+          "attachments": [{
+            "driveFile": {
+              "id": "1LOfwwOgZIKmwepZ0WmRKvWl1PbGXWxngSTxQ456w6hw",
+              "title": "REFINO KASHI KYLE ESTUDILLO - Pre-test Summary",
+              "alternateLink": "https://docs.google.com/document/d/1LOfwwOgZIKmwepZ0WmRKvWl1PbGXWxngSTxQ456w6hw/edit?usp\u003ddrive_web",
+              "thumbnailUrl": "https://lh3.google.com/drive-storage/AJQWtBNY2Itv723WAnbmFe-jfLkSAXJdcFT5FIRunAaFK2_SX-fEUUYGod33kR0ts4DYtpFu308SAOi9hVo22IBgOQvhQ0A1cGhqCenVLtrXuga7rBGX0piKtjWH9yz5HDT6Q2wqOak\u003ds200"
+            }
+          }]
+        }
+      }]
+    }
+  }, {
+    "creator": {
+      "name": {
+        "fullName": "Genevieve Pantollano"
+      }
+    },
+    "creationTime": "2023-02-14T06:21:31.213Z",
+    "updateTime": "2023-02-16T10:28:51.817Z",
+    "publicationTime": "2023-02-16T01:25:32.225Z",
+    "state": "PUBLISHED",
+    "topics": [{
+      "name": "Preliminaries"
+    }],
+    "materials": [{
+      "driveFile": {
+        "driveFile": {
+          "id": "1Zps3RgcKsb4ojQkFy7nyatyVVkNGF3k9",
+          "title": "ParQ-Plus-Jan-2021-Image (1).pdf",
+          "alternateLink": "https://drive.google.com/file/d/1Zps3RgcKsb4ojQkFy7nyatyVVkNGF3k9/view?usp\u003ddrive_web",
+          "thumbnailUrl": "https://lh3.googleusercontent.com/drive-storage/AJQWtBO2gB2ipuXLH7xZa6qfirRBw889kyH8Vo_B2KCNn7CmdMex6DypWNsydncyqx44x9h1ArkfUgFaQ90jg226MEkLgFQuA3gsqfwH6SK0S0Bvlug\u003ds200"
+        },
+        "shareMode": "VIEW"
+      }
+    }, {
+      "link": {
+        "url": "https://www.cdc.gov/physicalactivity/basics/measuring/heartrate.htm",
+        "title": "Page Not Found | CDC",
+        "thumbnailUrl": "https://classroom.google.com/webthumbnail?url\u003dhttps://www.cdc.gov/physicalactivity/basics/measuring/heartrate.htm"
+      }
+    }, {
+      "link": {
+        "url": "https://www.pocket-lint.com/apps/news/154854-what-is-strava-and-how-does-it-work/",
+        "title": "What is Strava, how does it work and is it worth paying for?",
+        "thumbnailUrl": "https://classroom.google.com/webthumbnail?url\u003dhttps://www.pocket-lint.com/apps/news/154854-what-is-strava-and-how-does-it-work/"
+      }
+    }, {
+      "link": {
+        "url": "https://www.verywellfit.com/how-to-use-body-fat-percentage-calculator-3858855",
+        "title": "Body Fat Percentage Calculator: Check Body Composition at Home",
+        "thumbnailUrl": "https://classroom.google.com/webthumbnail?url\u003dhttps://www.verywellfit.com/how-to-use-body-fat-percentage-calculator-3858855"
+      }
+    }],
+    "courseWork": {
+      "title": "Preliminary Activities",
+      "description": "In one file, submit everything below that is being asked: (Show the calculations you made and at least 2 photos as documentation when performing the Rockport Walking for Fitness Test.)\n\n1. Complete PARQ Test - 10 pts.\n\n\n2. Download\nSTRAVA app - 5 pts.\n\n\n3. Calculate\nResting Heart Rate - 10 pts.\n\n\n4. Calculate\nTarget Heart Rate Range - 10 pts.\n\n\n5. Calculate\nBody Composition: Home Body Fat Test - 10 pts.\n\n\n6. Complete\nthe Rockport Walking for Fitness Test - 15 pts.\n\nhttps://www.whyiexercise.com/rockport-walking-test.html\n\n\nHow to find VO2 Max with the\nRockport Walking Test - YouTube",
+      "descriptionHtml": "\u003cdiv\u003eIn one file, submit everything below that is being asked: (Show the calculations you made and at least 2 photos as documentation when performing the Rockport Walking for Fitness Test.)\u003cbr\u003e\u003cbr\u003e1. Complete PARQ Test - 10 pts.\u003cbr\u003e\u003cbr\u003e\u003cbr\u003e2. Download\u003cbr\u003eSTRAVA app - 5 pts.\u003cbr\u003e\u003cbr\u003e\u003cbr\u003e3. Calculate\u003cbr\u003eResting Heart Rate - 10 pts.\u003cbr\u003e\u003cbr\u003e\u003cbr\u003e4. Calculate\u003cbr\u003eTarget Heart Rate Range - 10 pts.\u003cbr\u003e\u003cbr\u003e\u003cbr\u003e5. Calculate\u003cbr\u003eBody Composition: Home Body Fat Test - 10 pts.\u003cbr\u003e\u003cbr\u003e\u003cbr\u003e6. Complete\u003cbr\u003ethe Rockport Walking for Fitness Test - 15 pts.\u003cbr\u003e\u003cbr\u003ehttps://www.whyiexercise.com/rockport-walking-test.html\u003cbr\u003e\u003cbr\u003e\u003cbr\u003eHow to find VO2 Max with the\u003cbr\u003eRockport Walking Test - YouTube\u003c/div\u003e",
+      "maxPoints": 60.0,
+      "workType": "ASSIGNMENT",
+      "submissions": [{
+        "student": {
+          "profile": {
+            "name": {
+              "fullName": "REFINO KASHI KYLE ESTUDILLO"
+            },
+            "emailAddress": "rgestudillo@up.edu.ph"
+          }
+        },
+        "gradeCalculationOption": "GRADED",
+        "state": "TURNED_IN",
+        "assignmentSubmission": {
+        }
+      }]
+    }
+  }]
+}

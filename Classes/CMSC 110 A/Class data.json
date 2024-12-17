@@ -1,0 +1,87 @@
+{
+  "version": 1,
+  "name": "CMSC 110 A",
+  "section": "MTh 9:00-10:30 am",
+  "calendarUrl": "https://calendar.google.com/render?cid\u003dc_classroom54efbd86@group.calendar.google.com",
+  "courseFolder": {
+    "id": "1fywU5qmtgZ-NNMxiJ0nluN3QzsjEbeQXpy6MHdvJ8BiIjz4LVaYtHbDRIug2UZsrA0HxQGjP",
+    "name": "CMSC 110 A MTh 9:00-10:30 am",
+    "openUrl": "https://drive.google.com/drive/folders/1fywU5qmtgZ-NNMxiJ0nluN3QzsjEbeQXpy6MHdvJ8BiIjz4LVaYtHbDRIug2UZsrA0HxQGjP"
+  },
+  "courseState": "ARCHIVED",
+  "posts": [{
+    "creator": {
+      "name": {
+        "fullName": "Mia Mateo"
+      }
+    },
+    "creationTime": "2023-09-14T04:07:09.569Z",
+    "updateTime": "2023-09-14T04:11:03.696Z",
+    "publicationTime": "2023-09-14T04:11:03.615Z",
+    "state": "PUBLISHED",
+    "topics": [{
+      "name": "MODULE 2 - Technical Writing"
+    }],
+    "courseWork": {
+      "title": "Activity 1",
+      "description": "Work with a partner. \nFor more background information on Technical Writing, please read:\nWhat Is Technical Writing? Definition, Examples and Steps\nhttps://www.indeed.com/career-advice/career-development/technical-writing\n\nWatch the videos listed below.  \nAfter watching, answer the questions that follow:\nMeet Technical Writers at Google\n\nhttps://youtu.be/qnnkAWP55Ww?si\u003d5wnJxyCU5exQd15t\n1. What do they mean when they said, \"Technical writing is more like deleting.\"?\n\nWhat Does a Technical Writer Do?\nhttps://youtu.be/8LewoMIyQfw?si\u003dNjUvLmezKoe33Iv9\n2. From the video, list down the 4 Primary Responsibilities of a Technical Writer.\n3. List down the 7 Skill Requirements of a Technical Writer.\n\n\nReminders:\n\nFont size 12\nSpacing 2.0\nOnly 1 will submit the work here.  Don\u0027t forget to write the name of your partner.",
+      "descriptionHtml": "\u003cdiv\u003eWork with a partner. \u003cbr\u003eFor more background information on Technical Writing, please read:\u003cbr\u003eWhat Is Technical Writing? Definition, Examples and Steps\u003cbr\u003ehttps://www.indeed.com/career-advice/career-development/technical-writing\u003cbr\u003e\u003cbr\u003eWatch the videos listed below.  \u003cbr\u003eAfter watching, answer the questions that follow:\u003cbr\u003eMeet Technical Writers at Google\u003cbr\u003e\u003cbr\u003ehttps://youtu.be/qnnkAWP55Ww?si\u003d5wnJxyCU5exQd15t\u003cbr\u003e1. What do they mean when they said, \u0026quot;Technical writing is more like deleting.\u0026quot;?\u003cbr\u003e\u003cbr\u003eWhat Does a Technical Writer Do?\u003cbr\u003ehttps://youtu.be/8LewoMIyQfw?si\u003dNjUvLmezKoe33Iv9\u003cbr\u003e2. From the video, list down the 4 Primary Responsibilities of a Technical Writer.\u003cbr\u003e3. List down the 7 Skill Requirements of a Technical Writer.\u003cbr\u003e\u003cbr\u003e\u003cbr\u003eReminders:\u003cbr\u003e\u003cul\u003e\u003cli\u003eFont size 12\u003c/li\u003e\u003cli\u003eSpacing 2.0\u003c/li\u003e\u003cli\u003eOnly 1 will submit the work here.  Don\u0026#39;t forget to write the name of your partner.\u003c/li\u003e\u003c/ul\u003e\u003c/div\u003e",
+      "dueTime": "2023-09-21T15:59:00Z",
+      "maxPoints": 30.0,
+      "workType": "ASSIGNMENT",
+      "submissions": [{
+        "student": {
+          "profile": {
+            "name": {
+              "fullName": "REFINO KASHI KYLE ESTUDILLO"
+            },
+            "emailAddress": "rgestudillo@up.edu.ph"
+          }
+        },
+        "assignedGrade": 30.0,
+        "gradeCalculationOption": "GRADED",
+        "state": "RETURNED",
+        "assignmentSubmission": {
+        },
+        "comments": [{
+          "creator": {
+            "name": {
+              "fullName": "Mia Mateo"
+            }
+          },
+          "creationTime": "2023-11-06T04:23:47.959Z",
+          "updateTime": "2023-11-06T04:23:47.959Z",
+          "comment": "Kashi, where is your work and who is your partner?",
+          "commentHtml": "\u003cdiv\u003eKashi, where is your work and who is your partner?\u003c/div\u003e",
+          "state": "PUBLISHED",
+          "commentVisibility": "PRIVATE"
+        }, {
+          "creator": {
+            "name": {
+              "fullName": "REFINO KASHI KYLE ESTUDILLO"
+            },
+            "emailAddress": "rgestudillo@up.edu.ph"
+          },
+          "creationTime": "2023-11-07T06:36:05.876Z",
+          "updateTime": "2023-11-07T06:36:05.876Z",
+          "comment": "Good afternoon miss.  My partner is Abrau, and we followed the instructions provided, which specified that only one of us should submit the paper. Abrau has submitted the work as per those instructions. If there are any concerns or further information needed, please let me know miss. ",
+          "commentHtml": "\u003cdiv\u003eGood afternoon miss.  My partner is Abrau, and we followed the instructions provided, which specified that only one of us should submit the paper. Abrau has submitted the work as per those instructions. If there are any concerns or further information needed, please let me know miss.\u003c/div\u003e",
+          "state": "PUBLISHED",
+          "commentVisibility": "PRIVATE"
+        }, {
+          "creator": {
+            "name": {
+              "fullName": "Mia Mateo"
+            }
+          },
+          "creationTime": "2023-11-07T07:32:28.071Z",
+          "updateTime": "2023-11-07T07:32:28.071Z",
+          "comment": "Hi Kashi! Yes, i just reviewed the submissions and found ur name in Abrau’s work.",
+          "commentHtml": "\u003cdiv\u003eHi Kashi! Yes, i just reviewed the submissions and found ur name in Abrau’s work.\u003c/div\u003e",
+          "state": "PUBLISHED",
+          "commentVisibility": "PRIVATE"
+        }]
+      }]
+    }
+  }]
+}

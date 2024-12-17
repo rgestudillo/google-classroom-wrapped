@@ -1,0 +1,58 @@
+{
+  "version": 1,
+  "name": "SCI10 A MTh 7:30 - 9:00",
+  "room": "MGT 102",
+  "videoCallUrl": "https://meet.google.com/ekz-wekw-gww",
+  "courseFolder": {
+    "id": "1HOTb2HKrU7ZEc16aX39b0fyj2ZuHH4VCvYg0NYS8h9dV41xg5yKFjEpODGVCfhdYbOoZFbgG",
+    "name": "SCI10 A MTh 7:30 - 9:00",
+    "openUrl": "https://drive.google.com/drive/folders/1HOTb2HKrU7ZEc16aX39b0fyj2ZuHH4VCvYg0NYS8h9dV41xg5yKFjEpODGVCfhdYbOoZFbgG"
+  },
+  "photoUrl": "https://gstatic.com/classroom/themes/Honors.jpg",
+  "courseState": "ARCHIVED",
+  "posts": [{
+    "creator": {
+      "name": {
+        "fullName": "Flora Mae Ruiz"
+      },
+      "emailAddress": "fcruiz@up.edu.ph"
+    },
+    "creationTime": "2024-02-12T00:20:13.897Z",
+    "updateTime": "2024-02-12T00:20:13.880Z",
+    "publicationTime": "2024-02-12T00:20:13.846Z",
+    "state": "PUBLISHED",
+    "topics": [{
+      "name": "Assignments/Exercises/Activities"
+    }],
+    "courseWork": {
+      "title": "Activity (Individual)",
+      "description": "Please answer the following questions:\n1. Why is is it important to study the physical world?\n2. What is reality for you?\n\nWord limit per question: 250 to 500",
+      "descriptionHtml": "\u003cdiv\u003ePlease answer the following questions:\u003cbr\u003e1. Why is is it important to study the physical world?\u003cbr\u003e2. What is reality for you?\u003cbr\u003e\u003cbr\u003eWord limit per question: 250 to 500\u003c/div\u003e",
+      "dueTime": "2024-02-18T15:59:00Z",
+      "maxPoints": 100.0,
+      "workType": "ASSIGNMENT",
+      "submissions": [{
+        "student": {
+          "profile": {
+            "name": {
+              "fullName": "REFINO KASHI KYLE ESTUDILLO"
+            },
+            "emailAddress": "rgestudillo@up.edu.ph"
+          }
+        },
+        "gradeCalculationOption": "GRADED",
+        "state": "TURNED_IN",
+        "assignmentSubmission": {
+          "attachments": [{
+            "driveFile": {
+              "id": "1lL3vePcN9YpEzpelq8raX3YOPz40d5XM",
+              "title": "ESTUDILLO - Activity (Individual).pdf",
+              "alternateLink": "https://drive.google.com/file/d/1lL3vePcN9YpEzpelq8raX3YOPz40d5XM/view?usp\u003ddrive_web",
+              "thumbnailUrl": "https://lh3.googleusercontent.com/drive-storage/AJQWtBNg0_4-7aSuBbqjYW_Fd5td6ghf429CE-puxukH3O6abd07zw5SvJot785m1XqD2ZV3cbGBF6H4FQKXoPKCn6oQSQMG3BgqvPtY0ufuS6tIbQ\u003ds200"
+            }
+          }]
+        }
+      }]
+    }
+  }]
+}
