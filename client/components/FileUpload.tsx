@@ -43,9 +43,8 @@ export default function FileUpload({ onDataProcessed }: FileUploadProps) {
     <div className="mb-8">
       <div
         {...getRootProps()}
-        className={`border-2 border-dashed rounded-lg p-8 text-center cursor-pointer transition-colors ${
-          isDragActive ? 'border-blue-500 bg-blue-50' : 'border-gray-300 hover:border-blue-500'
-        }`}
+        className={`border-2 border-dashed rounded-lg p-8 text-center cursor-pointer transition-colors ${isDragActive ? 'border-blue-500 bg-blue-50' : 'border-gray-300 hover:border-blue-500'
+          }`}
       >
         <input {...getInputProps()} />
         {isDragActive ? (
@@ -56,6 +55,7 @@ export default function FileUpload({ onDataProcessed }: FileUploadProps) {
             <p>Drag and drop your Classroom folder here, or click to select</p>
             <input
               type="file"
+              // @ts-expect-error non-standard attribute
               webkitdirectory="true"
               directory=""
               style={{ display: 'none' }}

@@ -17,8 +17,8 @@ export default function Home() {
     setError(null)
 
     try {
-      // Send data to the local Python API
-      const response = await fetch('http://127.0.0.1:8000/wrapped', {
+      // Use environment variable for API URL
+      const response = await fetch(`${process.env.NEXT_PUBLIC_API_URL}/wrapped`, {
         method: 'POST',
         headers: {
           'Content-Type': 'application/json',
